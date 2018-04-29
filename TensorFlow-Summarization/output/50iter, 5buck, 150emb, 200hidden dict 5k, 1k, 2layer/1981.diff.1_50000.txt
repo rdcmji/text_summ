@@ -1,0 +1,1981 @@
+missing icon
+lrqa - <UNK> property .
+initial check - in .
+fixed <UNK> <UNK> for the tests
+change <UNK> to default - pom .
+<UNK> <UNK> in <UNK> is not null
+updated changelog
+typo
+fix <UNK> <UNK>
+initial version without <UNK>
+section <UNK> section .
+setting version to 1 . <UNK> . <UNK> - snapshot
+remove test
+manifest to manifest
+add comment to <UNK> <UNK>
+lrqa - <UNK> sf
+javadoc - <UNK> <UNK> by the <UNK> documentation .
+<UNK> a <UNK> - <UNK> <UNK>
+don ' t <UNK> to pass <UNK> .
+minor test fix
+<UNK> <UNK> <UNK>
+add missing doc
+minor change to pom . xml
+change <UNK> to default - pom .
+prepare version <UNK> . 1 . <UNK>
+publish <UNK> version to work for default builds .
+use <UNK> android <UNK> and travis
+fix layout <UNK>
+the project name <UNK>
+update <UNK>
+fix <UNK> focus in <UNK> .
+add storm - <UNK> to changelog
+use <UNK> in the library
+update the build . txt for the proper <UNK> update .
+add <UNK> - index of <UNK> - <UNK>
+update readme . md
+disable <UNK> for travis
+build <UNK> <UNK>
+<UNK> <UNK> <UNK> <UNK>
+<UNK>
+skip profile skip create .
+lep - <UNK>
+setting version to 1 . <UNK> . <UNK> - snapshot
+fix config for release
+adds changelog . md for the changelog
+add screenshot
+<UNK> <UNK> as a <UNK> check for <UNK> ( ) .
+add <UNK> for <UNK> . <UNK> to add <UNK> <UNK>
+path to proper <UNK>
+upload of <UNK>
+initial commit .
+<UNK> image
+copy for tag flyway - tag - 1 . 7
+added storm - <UNK> to changelog
+fix <UNK> tests
+<UNK> <UNK> problem with <UNK>
+lps - <UNK> sf
+update .
+use <UNK> in <UNK> to <UNK>
+corrected for # <UNK>
+add storm - <UNK> to changelog
+use android <UNK> env .
+<UNK> <UNK> .
+disable <UNK> - <UNK> tests in <UNK>
+maven - <UNK> - maven - <UNK> - plugin to maven - release
+fix build . gradle
+updated changelog .
+removed <UNK> method
+removed <UNK> <UNK> <UNK> in <UNK> spec
+comment
+todo
+<UNK> <UNK> for <UNK> # <UNK>
+fix link to link to # <UNK>
+update spongecommon for <UNK> <UNK> fix .
+added <UNK> <UNK> to <UNK> <UNK> <UNK>
+<UNK> <UNK>
+add ( )
+<UNK> <UNK> in <UNK> . xml
+use google pom
+install install on install - install install <UNK>
+updates gradle .
+add <UNK> <UNK> for <UNK> <UNK> test
+added storm - <UNK> to changelog
+updated gradle plugin to gradle plugin to use the latest <UNK> plugin
+added <UNK> to exclude the android framework
+update properties . properties
+removed <UNK> - <UNK> from <UNK> - core - <UNK> to <UNK> <UNK> - core - <UNK>
+delete <UNK> . png
+add todo
+lps - <UNK> <UNK> <UNK> compatibility as well
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+clean travis
+lps - <UNK> override @ override
+update changes
+revert " update maven - properties . "
+<UNK> <UNK>
+fix wrong image in <UNK>
+smack 4 . 1 . <UNK> 4 . 1 - rc - 4
+fixing notifications .
+fix <UNK> in the groovy script
+<UNK> <UNK> <UNK> test to be <UNK> in the test .
+gh - <UNK> - comment <UNK> to fail <UNK> .
+code version code
+better <UNK> jars in the release
+travis memory for <UNK>
+updated .
+remove <UNK> <UNK> , remove <UNK> comment
+fixed artifact name in pom . xml
+remove <UNK> module from the build process
+updated changelog
+remove <UNK> from library view .
+updated changelog
+add <UNK> .
+<UNK> <UNK> python <UNK>
+disable <UNK> instead of <UNK> call instead of <UNK> .
+fixed test data
+test data fix
+setting version to 1 . <UNK> . <UNK>
+re - enable master
+<UNK> <UNK>
+fix for broken <UNK> .
+updated changelog
+rename <UNK> permission when <UNK> activity to get <UNK> to <UNK> <UNK>
+delete bin . <UNK>
+unused import
+update tag <UNK> <UNK> <UNK> for tag
+added storm - <UNK> to changelog
+add storm - <UNK> to changelog
+updated changelog
+<UNK> <UNK> of the default
+add a comment .
+remove <UNK> method for <UNK>
+<UNK> <UNK> <UNK> <UNK> when <UNK> ' s <UNK>
+update 1 . 1
+adding the <UNK> to <UNK> about the <UNK> documentation .
+added <UNK> compiler for unit tests
+remove / <UNK> # <UNK>
+remove unused jar
+tweak files
+update <UNK> . <UNK>
+added tag for 1 . <UNK> . <UNK>
+add images # <UNK>
+fix <UNK> <UNK> " deploy " to <UNK> "
+use latest platform image
+fixed path for maven repo
+add <UNK> <UNK> ( ) ( ) <UNK> <UNK> ( <UNK> ) ( again ) .
+add <UNK> <UNK> <UNK> ( ) in <UNK> <UNK>
+changed target to android - api
+fix <UNK>
+lps - <UNK> move icon
+<UNK> for next release <UNK> . <UNK> . <UNK>
+add words suggested by users
+fix maven feature
+<UNK> ' t <UNK> on a @ value
+add <UNK> <UNK> to notification
+<UNK> <UNK> by <UNK> page
+fix travis
+update readme . md
+push version <UNK> to <UNK> .
+run <UNK> - classes ' s run classes in default .
+add @ override @ override in <UNK>
+remove unused jar
+<UNK> readme for <UNK>
+adding <UNK>
+add google play <UNK> <UNK> .
+lps - <UNK> sf
+add <UNK> style for <UNK> style
+smack <UNK>
+rename <UNK> to <UNK> .
+<UNK> <UNK> in <UNK>
+samples update
+<UNK> <UNK> . py <UNK> .
+<UNK> test for <UNK>
+<UNK> logo
+<UNK> <UNK> <UNK> <UNK> after upload <UNK> .
+add <UNK> jar
+minor changes
+fix .
+added <UNK> - <UNK> to print .
+add <UNK> to <UNK> name .
+<UNK> cleanup
+<UNK> <UNK>
+fix <UNK> .
+<UNK> <UNK> into the <UNK> directory
+removed old files
+<UNK>
+make scope of <UNK> <UNK> as provided
+updated changelog
+updated changelog
+fix tests
+updated .
+storm - <UNK> added storm - <UNK> to changelog .
+fix <UNK>
+updated <UNK> to <UNK> . <UNK> . <UNK>
+update to <UNK> dist package
+add missing comment
+<UNK>
+build sdk version
+<UNK> <UNK> <UNK> to <UNK>
+push version <UNK>
+maven plugin plugin in maven - plugin
+fix <UNK> <UNK> <UNK> <UNK>
+fix <UNK> .
+adding intellij files to .
+building building <UNK> building
+added storm - <UNK> to changelog
+<UNK> <UNK> for <UNK> <UNK> .
+version bump
+add storm - <UNK> to changelog
+lps - <UNK>
+move <UNK> into core
+fix broken test .
+added license <UNK> to license
+<UNK> without <UNK> <UNK>
+build with <UNK> - <UNK> .
+adding <UNK> . <UNK> ( ) to get <UNK> . <UNK>
+add googlecode
+set default settings settings for <UNK>
+lps - <UNK> - properties
+/ / bigbluebutton . googlecode . com / svn / trunk @ <UNK> <UNK> - <UNK> - <UNK> - <UNK> - <UNK>
+<UNK>
+modify <UNK> sdk version
+don ' t get correct if travis config in <UNK> script
+fix <UNK> layout on <UNK> view
+gh - <UNK> update ( better better <UNK> )
+<UNK> libraries
+add <UNK> sdk to multi project
+add storm - <UNK> to changelog
+add <UNK> to <UNK> cleanup
+increase timeout <UNK> timeout in <UNK>
+updated changelog
+lrqa - <UNK> more test for <UNK> . <UNK> . <UNK>
+don ' t run <UNK> of tests on ci .
+added <UNK> . <UNK>
+include <UNK> . md to include site pages
+removed .
+remove <UNK>
+fix icon <UNK>
+add <UNK> note on readme
+<UNK> <UNK> - <UNK> so it can be <UNK>
+add failing test cache when <UNK> <UNK>
+check <UNK> for <UNK> <UNK> .
+` <UNK> ` ` <UNK> `
+lps - <UNK> not needed
+remove <UNK> - <UNK> from dependency fix
+updated travis ci <UNK>
+add storm - <UNK> to changelog
+added <UNK> <UNK> icon
+<UNK> <UNK> status files
+<UNK> ( )
+fix <UNK> <UNK> under <UNK> in <UNK>
+add missing line warning
+add <UNK> <UNK> to travis
+lps - <UNK> index . <UNK> to index . <UNK>
+updated
+fixed <UNK> .
+bumped parent pom version to match parent pom .
+remove <UNK> non - services services from sync folder
+<UNK> version .
+don ' t need to get travis for travis
+removed unnecessary <UNK>
+delete <UNK> . png
+remove test data to <UNK>
+fix typo
+update readme .
+added <UNK> section for docs .
+add <UNK> icon
+<UNK> <UNK> to pass <UNK> in <UNK>
+add new plugin
+add support for <UNK> and find
+update the changes . txt
+added <UNK> for <UNK> <UNK> <UNK>
+skip unit release notes
+fix <UNK> ( ) in the <UNK> <UNK>
+add missing call ( ) .
+<UNK> <UNK>
+fix typo
+added missing <UNK> . <UNK> ( )
+fixing <UNK> for <UNK> in readme
+added travis
+lps - <UNK> move icon to <UNK> module
+lps - <UNK> sf
+change images and <UNK> line <UNK> and <UNK> images for the <UNK> mode
+use readme <UNK>
+added <UNK> of <UNK> <UNK>
+lps - <UNK> - display <UNK> button display in portlet <UNK> when <UNK> <UNK> is <UNK>
+<UNK> <UNK> for <UNK> .
+<UNK> ( ) for <UNK> . <UNK> ( )
+readme
+updated changelog
+gh - <UNK> <UNK> <UNK> <UNK> ( <UNK> )
+translated using weblate ( danish )
+add <UNK> to <UNK>
+<UNK> sources in sources
+adding lib
+<UNK> <UNK> <UNK> <UNK> button changed
+added missing logo <UNK> icon
+add travis build to travis
+test fix
+update notice
+add no class to <UNK> .
+remove <UNK> call
+removed <UNK> line
+lps - <UNK> apply <UNK> to wiki
+add gif
+changed <UNK> to <UNK> with <UNK>
+lps - <UNK> let <UNK> bundle
+move <UNK> files to <UNK> .
+clean up " clean " - should delete the json - json " json - " to " json " to remove <UNK> " <UNK> " because to " <UNK> " because <UNK> <UNK>
+<UNK> plugins to use plugins for plugins
+added intellij config to .
+lps - <UNK> move icon .
+revert <UNK> - <UNK> - <UNK> <UNK> font
+<UNK> <UNK>
+add <UNK> for new release notes
+fix proguard
+add storm - <UNK> to changelog
+updated changelog
+<UNK> version for builds .
+add <UNK> <UNK> icon
+remove unused <UNK>
+update <UNK> - rest - client submodule
+elasticsearch elasticsearch elasticsearch elasticsearch
+update <UNK> <UNK>
+lps - <UNK> prep next , use latest
+javadoc javadoc doesn ' t <UNK> <UNK>
+added missing dependency .
+logging - logging logging .
+<UNK> tests on travis
+fix missing output . <UNK> . <UNK> ( ) in <UNK> . <UNK>
+added storm - <UNK> to changelog .
+add context to <UNK> <UNK> code for <UNK> <UNK>
+removed <UNK> import without <UNK> .
+<UNK> minor name fix
+update readme . md
+since com . <UNK> . <UNK> . <UNK> . <UNK> <UNK> for <UNK> <UNK>
+improve ` <UNK> ` modules
+scroll window .
+<UNK> <UNK> for <UNK> . <UNK>
+lps - <UNK>
+add missing <UNK> . txt to skip project <UNK> xml
+lps - <UNK> language keys
+fix travis
+<UNK> for development development
+plugin <UNK> plugin
+<UNK> <UNK> module to the <UNK> module
+<UNK> 1 . 3 + <UNK> <UNK> <UNK>
+restore <UNK> <UNK> <UNK>
+fixing up api to <UNK>
+update test . properties
+<UNK> " <UNK> "
+fix <UNK> .
+lps - <UNK> add check
+update the changelog
+updated changelog
+document for next development iteration
+fix ui in <UNK>
+remove <UNK> <UNK> .
+update readme
+fix unnecessary <UNK> address
+add missing changes for <UNK> <UNK>
+false <UNK> - based <UNK> on travis
+rename <UNK> . md to <UNK> . md
+change <UNK> <UNK> by default
+update maven deploy to deploy .
+updated changelog
+make install - install . <UNK> used .
+remove <UNK> blank line
+fix build . groovy
+changed <UNK> version
+updates gradle build . gradle
+update .
+skip <UNK> <UNK> for <UNK> builds
+fix <UNK> of <UNK> api
+<UNK> in <UNK>
+remove <UNK> class .
+add a <UNK> parameter for <UNK> <UNK> .
+<UNK> <UNK> files in <UNK> <UNK>
+modify readme
+<UNK> <UNK> <UNK> for <UNK>
+add missing @ override to "
+fix memory <UNK> in <UNK> <UNK>
+update <UNK>
+help <UNK> configuration page to help <UNK>
+remove unnecessary code .
+<UNK> <UNK>
+fix <UNK> <UNK> in <UNK> ( )
+add <UNK> and project icons
+add storm - <UNK> to changelog
+add <UNK> - style - > config
+enable <UNK> output in the test script
+updated changelog
+fix an typo in previous fix
+cache on travis
+<UNK> <UNK> <UNK> <UNK> , <UNK> <UNK> build .
+fix grails url for grails - <UNK> .
+update changes . txt
+change default to <UNK> <UNK> version
+fixing the <UNK> <UNK> <UNK> <UNK> for the mac <UNK> <UNK> .
+<UNK> <UNK> <UNK> <UNK> <UNK>
+updated library reference
+fixing <UNK> issues when <UNK> <UNK> <UNK> .
+fixed <UNK> in <UNK> tests
+add <UNK> api module
+remove file
+update pom . xml
+moved <UNK> from package package to src / <UNK> / <UNK> / <UNK> / <UNK> .
+<UNK> <UNK> ( <UNK> )
+use <UNK> 1 . 1 . 0 tag
+updated test info
+<UNK> the <UNK> version to see the release
+update readme . md
+update <UNK>
+added <UNK> <UNK> to readme
+reduce tests of <UNK> <UNK> .
+should return null instead of <UNK> to <UNK> the <UNK>
+update support for support library .
+don ' t use <UNK> plugin on the <UNK> <UNK> .
+update doc submodule <UNK> to latest wiki
+fixed bug where <UNK> <UNK> <UNK> for now .
+hhh - <UNK> - <UNK> on <UNK> <UNK> on <UNK> .
+lps - <UNK> turn off <UNK> in false
+updated <UNK> notifications for travis
+fix <UNK> error in <UNK>
+<UNK> of <UNK> in <UNK> ( )
+push version <UNK>
+remove .
+update .
+updated changes . txt for <UNK> .
+<UNK> <UNK> <UNK> <UNK>
+update build . properties
+don ' t <UNK> <UNK>
+more <UNK> <UNK>
+added storm - <UNK> to changelog
+remove <UNK> <UNK> .
+updated .
+adding <UNK> note to readme .
+add missing <UNK> , <UNK> " <UNK> " , <UNK> file <UNK>
+fix typo
+lps - <UNK>
+<UNK> <UNK> popup <UNK> on <UNK> popup
+added storm - <UNK> to changelog
+<UNK> the <UNK> <UNK> <UNK> process that the <UNK> process can be <UNK> .
+updated changelog
+remove unneeded <UNK> for <UNK> <UNK> <UNK> , <UNK> <UNK>
+tostring ( ) method .
+add <UNK> function
+update changelog . md
+updated <UNK> for <UNK> and <UNK>
+fixing <UNK> <UNK> on <UNK> .
+<UNK> missing <UNK> in <UNK> <UNK> <UNK>
+x <UNK> <UNK> issues on <UNK> profile
+lrqa - <UNK> add the portal - <UNK> for portal - <UNK> tests
+<UNK> travis build .
+trying to make travis ci .
+fix pom . xml
+rename main file
+update <UNK>
+fixed <UNK> script
+<UNK>
+add <UNK> <UNK> <UNK>
+fix value .
+<UNK> <UNK>
+add <UNK> task
+add session constant to <UNK> <UNK> session
+fix <UNK> code in previous previous request <UNK> .
+added storm - <UNK> to changelog . md
+<UNK> some option
+fix <UNK> help color in help <UNK>
+fix build for build . gradle
+fix <UNK> <UNK> .
+disable default <UNK> <UNK> <UNK>
+update <UNK> . <UNK>
+add readme to readme
+added travis script
+version updated
+<UNK> <UNK> for <UNK> builds
+removing old <UNK>
+<UNK> <UNK>
+updated build . gradle
+prepare for next development development .
+fix <UNK>
+rc - 2 / <UNK> check <UNK> <UNK>
+missing <UNK> <UNK>
+add build . <UNK> for <UNK> . <UNK> . x - beta
+initial commit
+replace <UNK>
+add travis ci file
+<UNK> <UNK> .
+switched to parent pom . xml
+remove unused <UNK> <UNK> of <UNK> <UNK> .
+<UNK> <UNK> ( <UNK> ) to <UNK> <UNK> <UNK>
+added id <UNK> <UNK> to <UNK> <UNK> .
+parent pom is <UNK> in pom . xml
+updated readme
+update spongecommon for <UNK> <UNK> fix .
+update <UNK> . properties
+update .
+update changes
+<UNK> for travis
+lps - <UNK> sf
+add missing files
+enable <UNK> options for <UNK> .
+py - <UNK> py - <UNK> py - <UNK> <UNK> is py - <UNK> in py - <UNK>
+fix test for <UNK> - api
+<UNK> <UNK>
+correct version
+add <UNK> - <UNK> to <UNK>
+fix build . gradle
+added storm - <UNK> to changelog
+added failing test
+rename <UNK> folder <UNK>
+<UNK> version <UNK> to have <UNK> <UNK>
+change <UNK> to notification <UNK> for <UNK> compatibility
+remove unused jar
+update contributors
+.
+fix config
+prepare for next release <UNK>
+syntax error <UNK>
+update icon for android application icon .
+add <UNK> images
+updated changelog
+fix <UNK> implementation status .
+add storm - <UNK> to changelog
+update .
+add screenshots
+updated changelog
+add words suggested by users
+<UNK> <UNK> <UNK> <UNK> <UNK> .
+add readme . md to use readme
+remove <UNK> <UNK>
+better target <UNK> file <UNK> by <UNK>
+add <UNK>
+remove <UNK> code
+release <UNK> release 1 . <UNK>
+add <UNK> icon for <UNK> <UNK>
+added / / github / <UNK> / <UNK> / pull / pull pull added
+remove .
+add <UNK> to the project . properties for new <UNK>
+fix services to 11 . <UNK> .
+lps - <UNK> sf
+lps - <UNK> <UNK> <UNK> <UNK> .
+<UNK> , <UNK>
+<UNK> <UNK> <UNK> to <UNK> <UNK>
+<UNK> <UNK>
+fix for failing build
+updated changelog
+<UNK> <UNK> so that release changes <UNK> <UNK>
+fix our <UNK> of our <UNK> <UNK>
+delete <UNK> settings settings
+update icon
+add readme . md
+<UNK> <UNK> with travis
+remove unused line
+specify print ref name of <UNK> ( )
+fix doc
+setting version to 1 . <UNK> . <UNK>
+jar
+/ / bigbluebutton . googlecode . com / svn / trunk @ <UNK> <UNK> - <UNK> - <UNK> - <UNK> - <UNK>
+updated <UNK> icon
+test data fixed after data <UNK> data after <UNK> data
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+add missing <UNK> for <UNK> task to <UNK> <UNK> task for <UNK> task
+update changelog for <UNK>
+lrqa - <UNK> add <UNK> - based to <UNK> tests
+fix <UNK> # <UNK>
+added target version
+don ' t <UNK> <UNK> to start <UNK>
+updated changelog
+revert " modify path to <UNK> - <UNK> path "
+update <UNK> .
+<UNK>
+removed <UNK> from <UNK> .
+parent parent parent pom is the parent version instead of parent
+revert " <UNK> " <UNK> " <UNK> " of <UNK>
+added storm - <UNK> to changelog .
+smack 4 . 0 - <UNK>
+bump up version
+remove extra style
+updated changelog
+comment is <UNK> test
+make <UNK> is optional as optional .
+add storm - <UNK> to changelog
+add missing break to avoid <UNK>
+return <UNK> code <UNK> for <UNK>
+<UNK> <UNK> ' s <UNK> to <UNK> . <UNK>
+<UNK>
+removed unused file <UNK> .
+get rid of <UNK> <UNK> option
+add <UNK> . gif
+fix sf
+added missing <UNK> <UNK> for <UNK> <UNK> .
+update pom . xml
+update <UNK> .
+use the latest <UNK> doc for travis
+typo ( <UNK> )
+update <UNK> version name for the project <UNK> .
+remove <UNK> by application <UNK> .
+move <UNK> into correct directory into api directory
+update spongecommon for <UNK> <UNK> fix .
+<UNK> to make sure the <UNK> <UNK> <UNK> too <UNK> .
+update <UNK> - rest - client submodule
+fix typo
+update the changelog
+fix typo
+fix unit version ( )
+)
+try to <UNK> travis builds on travis . yml
+remove unneeded property for <UNK> . <UNK>
+update readme . md
+add <UNK> icon for <UNK>
+add <UNK> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = to config . xml .
+remove <UNK> <UNK> <UNK> <UNK> . <UNK> . <UNK> from <UNK> . <UNK>
+update readme . md
+fixed <UNK> <UNK> when <UNK> is always available
+enable <UNK> tests in <UNK> tests
+fix <UNK> <UNK>
+add <UNK> to <UNK>
+add missing version
+check to check for the empty line .
+update image .
+reset <UNK> after <UNK> to reset
+updated readme
+add <UNK> image
+<UNK> no longer used by tests
+fixed release properties .
+<UNK> <UNK> <UNK>
+<UNK> tests should be <UNK> .
+don ' t <UNK> <UNK> about completion
+fixed syntax in <UNK> .
+update the changelog
+updated <UNK> . <UNK> for <UNK> .
+removed old file
+fixed <UNK> error <UNK> in <UNK> variable
+<UNK> <UNK> in a version in <UNK>
+<UNK> typo
+readme
+removes gradle <UNK> from gradle plugin
+update <UNK> - rest - client submodule
+remove <UNK> <UNK> as it was removed
+update readme . md
+add <UNK> for linux
+change pom . xml to fix <UNK>
+change <UNK> . py to <UNK> <UNK>
+update to <UNK> dist package
+<UNK> <UNK> <UNK> <UNK> , <UNK> <UNK> build .
+<UNK> <UNK> .
+update <UNK> . <UNK>
+request request is not set to <UNK> when <UNK>
+fix # <UNK> / <UNK> # <UNK>
+rename <UNK> <UNK> to <UNK> ( )
+remove <UNK>
+create readme . md
+fixed <UNK> bug on <UNK>
+update <UNK>
+added storm - <UNK> to changelog
+add snapshot for ci <UNK>
+<UNK> .
+include <UNK> for <UNK> . <UNK> ( py - <UNK> )
+ideadev - <UNK> ( ideadev - <UNK> )
+added the <UNK> for the <UNK> - <UNK>
+patch tag for rc - <UNK>
+updated changelog
+<UNK> <UNK> for <UNK> <UNK>
+lps - <UNK> <UNK> icon
+add <UNK> in sample
+add storm - <UNK> to changelog . md
+<UNK> fix
+add storm - <UNK> to changelog
+fix <UNK> <UNK> icon
+update images for <UNK> <UNK>
+mark <UNK> ' android - null
+fix typo in <UNK>
+<UNK>
+fix <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / code / <UNK> .
+removed <UNK> for build . xml
+remove <UNK> <UNK> from <UNK>
+fix <UNK> <UNK> build
+added <UNK> to the bottom .
+add wrapper wrapper to <UNK> . gradle
+add <UNK> <UNK>
+<UNK> <UNK> in <UNK> component
+fix stack <UNK> for dependency on deploy .
+add back <UNK> notifications in travis . yml
+use <UNK>
+add missing <UNK> to <UNK> in <UNK> interface
+lps - <UNK> <UNK> <UNK>
+setting version to 1 . <UNK> . <UNK> - snapshot
+update contributing . md
+size size for <UNK> ( )
+remove <UNK> - <UNK> - <UNK> zip
+update .
+<UNK> build <UNK> on <UNK> .
+create readme . md
+sf
+lps - <UNK> sf
+<UNK>
+fix <UNK> in build . gradle
+added pom declaration for components to pom
+<UNK> native
+<UNK> <UNK> icon
+add <UNK> ( <UNK> )
+add <UNK> .
+updated readme
+add jar <UNK> to <UNK> <UNK> <UNK>
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+update readme . md
+fixed typo .
+fixed <UNK> <UNK> <UNK> <UNK> after <UNK> <UNK>
+lps - <UNK> sf
+fix <UNK> for # <UNK>
+update windows <UNK> . java
+<UNK> - <UNK>
+<UNK> travis <UNK> to <UNK> <UNK> <UNK>
+<UNK> file
+push version to <UNK> .
+allow to allow in the tests while trying to prevent <UNK> while it is a <UNK>
+document changes for <UNK>
+remove unused drawable drawable .
+remove <UNK> release .
+change gradle to <UNK> - local version after building
+testing <UNK> of <UNK> build .
+added hide dependency to <UNK> .
+add <UNK> plugin to the <UNK> plugin builds for grails - <UNK>
+<UNK> <UNK> .
+update spongecommon for <UNK> <UNK> fix .
+<UNK> <UNK>
+add screenshots
+<UNK> <UNK> <UNK> for <UNK> .
+add <UNK> .
+add @ <UNK> to <UNK> .
+fixed <UNK> of <UNK> . <UNK> ( <UNK> compiler )
+new gif
+setting version to 1 . <UNK> . <UNK> - snapshot
+<UNK> the notice file in the release
+revert "
+rename <UNK> . java to <UNK> . java
+corrected for proper testdata
+fix broken <UNK> - <UNK> - plugin version
+add <UNK> <UNK> to src / <UNK> api
+added eclipse to git directory
+stop <UNK> and <UNK> yet .
+updated library reference
+fix typo
+add <UNK> - <UNK>
+update readme . md
+rename <UNK> .
+changed changelog .
+<UNK>
+force <UNK> to <UNK>
+init package <UNK> sources
+.
+add <UNK> flag
+fix version
+<UNK> for next release <UNK> . <UNK> . <UNK>
+<UNK> doesn ' t use .
+update comment
+update sample . <UNK>
+jar for maven jar
+updates comment to reflect <UNK> <UNK>
+update <UNK> . xml
+lps - <UNK> prep next , use latest
+fix a bug where <UNK> <UNK>
+update to <UNK> dist package
+remove <UNK>
+lps - <UNK> use <UNK> - <UNK> <UNK> <UNK>
+fix <UNK> for <UNK> .
+updated pom to version <UNK> version in pom .
+<UNK> method <UNK> .
+update doc . md
+updated <UNK> . zip with better <UNK>
+fix test <UNK> for failing <UNK>
+fixed <UNK> tests in <UNK> <UNK> tests
+<UNK> <UNK> when <UNK> connection is set
+added missing <UNK> from <UNK> to <UNK> <UNK> changes
+increment version number
+add <UNK> <UNK> to <UNK> repo
+code version 1 . 0 . 0
+fix <UNK> method
+fix <UNK> <UNK> <UNK> on <UNK>
+location module update
+<UNK> , remove <UNK> from test
+try to <UNK> the <UNK> - <UNK>
+add screenshot
+use the latest <UNK> repo
+fix missing <UNK> fix for <UNK> <UNK> tests in <UNK> tests
+add path to the <UNK> of the plugin <UNK> <UNK> for the <UNK> <UNK>
+remove block files from changes
+<UNK> screenshot
+release number
+updated changelog
+<UNK> <UNK>
+updated <UNK> natives to <UNK> natives
+fixing <UNK> <UNK> for <UNK> .
+added <UNK> class
+fix ref
+update news
+add screenshots .
+updated readme . txt .
+add . txt to <UNK> <UNK>
+lps - <UNK> sf
+update to <UNK> <UNK>
+added <UNK> ` index
+<UNK> <UNK>
+<UNK> index for <UNK>
+remove <UNK> <UNK> as no <UNK> for class .
+<UNK> <UNK> to pass <UNK> in <UNK>
+do not merge build on <UNK> import
+updated changelog
+update to new development version
+add missing <UNK> plugin
+<UNK> <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> .
+added readme
+fix <UNK> upload of <UNK> of the <UNK> process of the <UNK> process was not <UNK> in <UNK> <UNK> <UNK> <UNK>
+fix <UNK> <UNK> in <UNK> . java
+remove unused <UNK>
+<UNK> <UNK> to <UNK> / <UNK>
+updated pom . xml file
+setting version to 1 . <UNK> . <UNK> - snapshot
+fix <UNK> for <UNK> .
+<UNK> <UNK>
+move <UNK> . txt to resources . txt
+add readme .
+travis <UNK> <UNK>
+fix project properties
+lps - <UNK> remove <UNK> <UNK>
+update changelog . md
+added todo <UNK>
+fix <UNK> <UNK> <UNK> with the <UNK> <UNK> in the <UNK> of the <UNK> ( <UNK> <UNK> <UNK> <UNK> )
+remove unused import
+change <UNK> to default - pom .
+fix <UNK> error ( <UNK> )
+updated changelog
+remove todo
+fixed # <UNK>
+adding <UNK> - <UNK> module
+lps - <UNK> move portlet file
+add service . properties
+<UNK> icon for maven tool window
+true <UNK> true on the <UNK>
+<UNK> <UNK> <UNK>
+updated changelog
+add null check
+location module update
+lps - <UNK> prep next , use latest
+removed <UNK> from <UNK> . <UNK>
+increase test <UNK> test for <UNK> <UNK> test .
+<UNK> - <UNK> builds builds for maven builds
+set <UNK> version
+remove <UNK> <UNK> <UNK>
+added <UNK> test .
+remove <UNK> package from <UNK> .
+<UNK> <UNK> <UNK> to <UNK>
+tweak <UNK>
+push version <UNK>
+adds changelog . md
+changed sample name
+fix <UNK> icon
+update readme . md
+add <UNK> <UNK> icons .
+add demo gif
+<UNK> <UNK> now that <UNK> ` <UNK> `
+<UNK> <UNK> <UNK> icon
+<UNK> <UNK> for travis
+updated build . gradle
+corrected <UNK> directory .
+run <UNK> . <UNK> in <UNK> tests .
+update build . gradle for <UNK>
+try to look <UNK> on travis .
+prepare version <UNK> . 1 . <UNK>
+<UNK> properties for <UNK>
+lep - <UNK>
+remove <UNK> .
+fix <UNK> dependency
+<UNK> doesn ' t <UNK> correctly
+<UNK> <UNK>
+add storm - <UNK> to changelog
+update <UNK> <UNK>
+fix changelog for - <UNK> - <UNK> .
+remove <UNK> style
+update <UNK> icon
+default default properties to default <UNK> .
+fix maven <UNK> for maven - <UNK>
+access access to <UNK>
+pom fix
+fix typo
+whitespace
+update to <UNK> android - <UNK> plugin
+removed empty line
+fix <UNK> <UNK> on <UNK>
+<UNK> test .
+add <UNK> <UNK> to travis
+lps - <UNK> move js file
+<UNK>
+updated h2o data <UNK>
+lps - <UNK> move part 1 . 1 . 1
+rename readme . md to <UNK> . md
+<UNK> <UNK> to <UNK> - <UNK> profile
+fixed <UNK> error in <UNK> . <UNK>
+add <UNK> plugin .
+enable tests tests on <UNK>
+minor should be <UNK> .
+lrqa - <UNK> prep next
+delete preview <UNK>
+<UNK> <UNK> fix
+change maven plugin plugin to maven plugin
+made <UNK> <UNK> in <UNK> ( )
+generate <UNK> directory for <UNK>
+fix <UNK> - <UNK>
+built the latest jar
+remove <UNK> <UNK> in maven - <UNK>
+minor change
+add some default to <UNK> for unit test .
+update <UNK> . xml to <UNK>
+prep of background
+removed warning from <UNK>
+let ' t add <UNK> to <UNK> plugin .
+updated android library version
+update <UNK> variable in <UNK>
+readme . md <UNK>
+revert <UNK> spec for <UNK>
+make <UNK> static public since it ' s <UNK> <UNK> <UNK> .
+fix testdata
+add <UNK> image for <UNK> <UNK>
+don ' t <UNK> <UNK> - <UNK> logging for <UNK>
+removed <UNK> . <UNK>
+fix the <UNK> the <UNK>
+lps - <UNK> rename <UNK> to default dir
+setting version to 1 . <UNK> . <UNK> - snapshot
+fix <UNK> name
+add the max type for <UNK> <UNK>
+change <UNK> to version <UNK> since it ' s <UNK>
+add <UNK> <UNK> icon for <UNK> <UNK>
+removing travis
+<UNK> <UNK> string
+cleanup
+updated version for new wrapper description
+<UNK> . <UNK> for <UNK> language <UNK>
+.
+lps - <UNK> <UNK> <UNK> ?
+fix <UNK> for <UNK> <UNK> ( )
+fix <UNK> in <UNK> script
+make <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for better <UNK> .
+add <UNK> <UNK> to use a readme of this <UNK>
+add create travis script
+update spongecommon for <UNK> <UNK> fix .
+update <UNK> - <UNK> version
+add <UNK> class to <UNK> .
+<UNK> image
+update <UNK> to latest <UNK>
+add missing .
+<UNK> + " <UNK> "
+<UNK> , but date <UNK> by <UNK>
+<UNK> use node node <UNK>
+add <UNK> ( ) to <UNK> .
+" <UNK> "
+add screenshots
+<UNK> <UNK> doesn ' t <UNK>
+fix <UNK> history after <UNK> execution
+<UNK> ( ) in <UNK> ( ) <UNK>
+lps - <UNK> add check for <UNK> check
+small - > <UNK> , see some <UNK> , see <UNK> - <UNK>
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+update <UNK> .
+fix <UNK> <UNK> .
+added <UNK> and <UNK> to travis .
+lps - <UNK> sf
+initial commit
+remove <UNK> from <UNK> <UNK>
+remove comment in documentation
+new image for <UNK>
+remove <UNK> code
+<UNK> <UNK> timeout in <UNK>
+removed <UNK> <UNK>
+<UNK> <UNK>
+<UNK> .
+restore <UNK> plugin
+bump version to master
+update changelog . md
+removed @ override
+update license
+updates gradle plugin
+remove unnecessary test in docs .
+add <UNK> <UNK> to <UNK> .
+removed image file
+updated library reference
+add <UNK> <UNK> to gradle . properties
+fix readme
+add <UNK> to <UNK> pom .
+<UNK> <UNK>
+add <UNK> makefile
+updated changelog
+<UNK> <UNK> tests for <UNK> .
+open <UNK> - open script .
+update news
+setting version to 1 . <UNK> . <UNK> - snapshot
+add <UNK> to <UNK> <UNK>
+<UNK> . <UNK> ( ) is <UNK>
+add makefile <UNK> makefile <UNK> .
+updated changelog
+try android <UNK> version for travis
+added <UNK>
+<UNK> <UNK> - <UNK> non - <UNK> <UNK>
+add <UNK> <UNK> to the <UNK> annotation .
+cleanup <UNK> - <UNK> <UNK>
+fix checkstyle error
+improve intellij 15 .
+update changelog . md for storm - <UNK>
+updated readme . <UNK>
+removed <UNK> <UNK> <UNK> .
+remove extra . pdf
+fix <UNK> link in <UNK> . <UNK>
+link to <UNK> example
+style <UNK> is set a <UNK> of a <UNK> <UNK> without a title
+updated version code
+<UNK> test .
+<UNK> <UNK> to config . xml template
+<UNK> <UNK>
+<UNK> .
+increment version
+this should use the same project as the <UNK> project .
+restore - <UNK> profile back to build .
+added idea files to .
+minor minor fix for <UNK> and <UNK> <UNK> test " <UNK> " <UNK> " <UNK> " and <UNK> " <UNK> " " <UNK> "
+install build - <UNK> - 2 .
+<UNK> <UNK>
+<UNK> <UNK> was changed to <UNK> .
+update news
+add <UNK> - <UNK> module
+no <UNK> .
+add <UNK> <UNK> diagram
+fix <UNK>
+updated changelog
+<UNK> sf
+<UNK> <UNK> <UNK> for <UNK>
+fixed <UNK>
+<UNK> <UNK> <UNK> <UNK> for python <UNK>
+clean up
+fix <UNK> <UNK> <UNK> <UNK> in <UNK> . xml
+updated changelog
+add support to root project .
+removed unused jar
+<UNK> <UNK> artifacts to find the <UNK> instead of <UNK> .
+don ' t <UNK> <UNK> <UNK> on <UNK> <UNK>
+add <UNK>
+fix javadoc jar
+location module update
+fix linux <UNK> ref
+make sure <UNK> <UNK> <UNK> is not available
+update notice to <UNK> <UNK>
+travis ci configuration
+<UNK> version number
+add gradle wrapper jar
+<UNK> snapshot to work for snapshot
+<UNK> <UNK>
+make install - install . <UNK> used .
+<UNK>
+setting version to 1 . <UNK> . <UNK> - snapshot
+updated from master . java .
+fix builds
+removing <UNK> from test with <UNK> removed
+add <UNK>
+<UNK> <UNK>
+fix for <UNK>
+install - <UNK> - <UNK> to travis
+move <UNK> to correct location .
+change <UNK> for maven - plugin - <UNK>
+<UNK> ' s .
+fix netty classpath
+remove <UNK> <UNK> from device build .
+updated changelog
+fix .
+<UNK> comment to <UNK> - <UNK> pom .
+<UNK> <UNK> tests to <UNK> <UNK> for <UNK> tests
+<UNK> fix
+updated changelog
+lps - <UNK> add auto properties to <UNK>
+add apk
+added <UNK> to the bottom section .
+set <UNK> ' <UNK> ' <UNK> name to <UNK>
+refactor <UNK> <UNK> in <UNK> . xml
+add storm - <UNK> to changelog
+add <UNK> to pom . xml
+update spongecommon for <UNK> <UNK> fix .
+include server examples in the build .
+updated changes
+lps - <UNK> rename
+add travis configuration file .
+update pom to default - dev to version in pom
+update changelog
+clear export for <UNK>
+enable <UNK> <UNK> and <UNK> tests in travis - ci <UNK>
+update jar
+update device image for <UNK> device
+update old library so that we don ' t need to <UNK> that <UNK> sources .
+missing import
+create release notes
+update readme . md
+fix <UNK> <UNK> for <UNK> .
+mark <UNK> as dependency on <UNK>
+update .
+add <UNK> to <UNK> library so we can <UNK> <UNK>
+added travis ci configuration .
+add package <UNK> to h2o - <UNK> package <UNK>
+<UNK> compiler does not <UNK> <UNK>
+<UNK> <UNK> <UNK> rule for <UNK> <UNK> , <UNK> <UNK> <UNK> in the rule <UNK>
+clean up
+added <UNK> . <UNK> to .
+update readme . md
+lps - <UNK> <UNK> <UNK> <UNK> in <UNK>
+mark <UNK> ( ) <UNK> as a same <UNK> for <UNK> .
+fix <UNK> / <UNK> <UNK>
+fix build
+disable <UNK> on <UNK> .
+add system . <UNK> to get <UNK> <UNK> .
+create test class to create <UNK> test that was <UNK> in <UNK> <UNK>
+fix <UNK> <UNK>
+suppress <UNK> ( <UNK> )
+remove <UNK> <UNK> in <UNK> ( ) .
+change readme <UNK>
+lps - <UNK> move test to portal - test
+fix <UNK> . <UNK>
+fix issue for <UNK>
+updated <UNK> list
+add <UNK>
+updated travis ci
+updated support jar to support <UNK> .
+lps - <UNK> <UNK> <UNK> version
+updated changelog
+<UNK> for <UNK> <UNK> .
+fix for # <UNK> .
+lps - <UNK>
+create readme . md
+mark junit as as parent pom .
+fixed android - <UNK> build for travis
+added <UNK> and <UNK> .
+remove unnecessary source <UNK>
+make <UNK> test nopass .
+fix <UNK> <UNK> bug
+remove extra warning
+update build to <UNK>
+fix typo
+removed system output for debugging .
+re - <UNK> <UNK> .
+add <UNK> <UNK> docs to the root docs
+fix crash .
+include <UNK> of <UNK> <UNK> for <UNK> . <UNK> . <UNK>
+use maven <UNK> in tests
+specify the task task <UNK> .
+fix <UNK> options
+add support lib to <UNK>
+<UNK> - <UNK> update for <UNK> <UNK>
+throw exception on exception
+removed comment for <UNK> / pom . xml
+fixed <UNK> was not <UNK> when a class was disabled .
+lps - <UNK> move <UNK> to <UNK>
+test removed
+add <UNK> <UNK> to <UNK> .
+updated <UNK> jar
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+add web image
+<UNK> <UNK>
+add <UNK> <UNK> to <UNK> project directory
+<UNK> the <UNK> content <UNK> <UNK>
+tweak build . gradle
+update .
+remove <UNK> call
+fix <UNK>
+fixed <UNK> script
+update spongecommon for <UNK> <UNK> fix .
+lps - <UNK> sf
+add tests .
+disable for travis
+add <UNK> ( )
+added storm - <UNK> to changelog
+<UNK> <UNK> of the <UNK> function for <UNK> <UNK>
+rename <UNK> . properties file
+removed parent declaration to use parent pom of parent pom
+<UNK> <UNK> <UNK>
+fix issue # <UNK>
+smack 4 . 0 . 2 - snapshot
+added missing import
+fix <UNK> for dist build
+add .
+fix grails - <UNK> - <UNK> <UNK> <UNK> <UNK>
+<UNK> <UNK>
+<UNK> . <UNK> for <UNK> methods
+remove license date from license . txt .
+<UNK> <UNK> to <UNK>
+version bump to 1 . <UNK> . <UNK>
+add <UNK> .
+prepare for release 1 . properties .
+remove explicit <UNK> about <UNK> to android
+fix <UNK> compile errors
+make makefile <UNK> to make <UNK> .
+add <UNK> . <UNK> to <UNK> . <UNK> ( )
+forgot to add the build .
+don ' t <UNK> <UNK> <UNK> on <UNK> <UNK>
+<UNK> <UNK> . <UNK> for <UNK> .
+remove <UNK> function .
+fixed typo
+use gradle to 1 . 3 to <UNK> <UNK> to <UNK> <UNK> with gradle <UNK> .
+add .
+bump version
+<UNK> some <UNK> <UNK> some <UNK> .
+update bin . js for import <UNK>
+added link to pom
+<UNK> to travis
+<UNK> <UNK> of <UNK> files
+lps - <UNK>
+corrected <UNK>
+removed unused jar
+updated changelog .
+prepare # <UNK>
+updating todo
+added <UNK> - <UNK> module
+remove <UNK> pre - <UNK> .
+<UNK> platform <UNK>
+<UNK> . <UNK> ( )
+moved <UNK> for <UNK>
+null fix for null <UNK> null
+<UNK> <UNK> to <UNK> <UNK> of native <UNK> <UNK> .
+fixed typo in <UNK> . css
+add <UNK> image for <UNK> <UNK>
+specify the default version to <UNK> .
+<UNK> test data <UNK> to be <UNK> which is <UNK> <UNK> <UNK> .
+<UNK> <UNK> .
+add <UNK> .
+fix .
+add gradle wrapper to .
+fix <UNK> <UNK> <UNK> <UNK> .
+<UNK> sdk of <UNK> sdk sdk correctly
+fix gradle plugin
+add intellij idea to the notice
+updated changelog
+groovy - <UNK> icon
+pom . xml to use the <UNK> of pom
+clean up .
+more <UNK> <UNK> for test <UNK> .
+fix for <UNK> <UNK>
+update .
+<UNK> ' t <UNK> on a @ value
+<UNK> for grails - <UNK>
+update readme . md
+fix <UNK> <UNK>
+lps - <UNK> sf
+prepare next development version .
+update gradle properties
+<UNK> - <UNK> build tools check for <UNK>
+updated <UNK> jar .
+update ant build with <UNK>
+add pom . xml to copy / pom . xml
+remove module module to parent module
+fix <UNK> integration test
+lps - <UNK> move context file to trigger <UNK>
+adding back to pom . xml
+add storm - <UNK> to changelog
+lrqa - <UNK> prep next , use latest
+link to add link to <UNK> link
+added test case <UNK>
+fixed <UNK> <UNK> check in <UNK>
+add <UNK> . <UNK> to <UNK> . <UNK> . <UNK>
+try for <UNK>
+<UNK> !
+updated pom to version <UNK> <UNK>
+added test case
+<UNK> <UNK> library
+update .
+added log message for <UNK> tests
+change <UNK>
+<UNK> <UNK> <UNK> to be <UNK> ( ) , <UNK> now .
+fix compilation issue
+setting version to 1 . <UNK> . <UNK>
+<UNK> <UNK> ( ) list when trying to <UNK> <UNK> .
+rename <UNK> . md to <UNK> . md
+updated changelog
+<UNK> section in <UNK> . md
+<UNK> repo for maven repo
+update ui
+move renamed to src <UNK>
+add services services services file
+forgot to <UNK> <UNK> . <UNK> , forgot to <UNK> <UNK>
+master build <UNK>
+delete <UNK> . png
+updated changelog
+config config updated for <UNK> config .
+fix <UNK> <UNK> name
+add the <UNK> to the build .
+fix <UNK> build
+add eclipse plugin to plugin
+remove unused <UNK> method
+remove unused file
+remove <UNK> - <UNK> - <UNK> dependencies
+cleanup <UNK>
+update readme reference
+setting version to 1 . <UNK> . <UNK> - snapshot
+initial commit
+<UNK> <UNK> for <UNK>
+make checkstyle run tests
+fix <UNK> " <UNK> "
+updated changelog
+updated changelog
+fix build due to <UNK> <UNK> due to maven build
+move <UNK> file to <UNK> file
+add <UNK> notifications to travis .
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+removed <UNK>
+fix bug in build script
+build . gradle
+fixed constructor
+prepare version <UNK> . 1 . <UNK>
+update .
+added added <UNK> for <UNK> / <UNK> .
+better <UNK> icon
+<UNK> fix
+<UNK> <UNK> dependencies with dependencies
+remove unnecessary return value
+tweak formatting .
+add stub changes to changes . txt for cassandra - <UNK>
+lps - <UNK> move icon to the correct icon
+changed version to work
+bumped <UNK> to <UNK> . md
+fix build
+move to <UNK> directory
+update changelog
+ensure <UNK> <UNK> by <UNK> as by <UNK> .
+adding new repo to <UNK> repo
+make <UNK> <UNK> the right <UNK>
+<UNK> <UNK> work , <UNK> , <UNK> have <UNK>
+lps - <UNK> move icon
+lps - <UNK> <UNK> <UNK> settings
+fix build .
+add dependency - web - web .
+updated changelog
+<UNK> <UNK> = = = = = = null
+<UNK> and <UNK> on the build
+remove old <UNK>
+<UNK> <UNK> libraries for <UNK> .
+removed tag <UNK> - <UNK> <UNK> <UNK>
+travis
+<UNK> travis to run <UNK> on travis
+<UNK> <UNK>
+setting version to 1 . <UNK> . <UNK>
+fixed <UNK> <UNK> in the <UNK> address
+<UNK> , <UNK> <UNK> , <UNK> <UNK> , it <UNK> <UNK> for the <UNK>
+add .
+added missing changelog entry for cassandra - <UNK>
+update <UNK> . md
+logging for dev <UNK>
+add <UNK>
+alpha - 22 / <UNK> version bump
+adding another <UNK> build <UNK> to <UNK> <UNK> <UNK>
+added height height for <UNK> <UNK>
+lps - <UNK> rename <UNK> to <UNK>
+lep - <UNK>
+correct id in <UNK> <UNK> id
+update the changelog
+update todo
+add <UNK> .
+add git submodule
+removed parent declaration to use parent pom of parent pom
+update changelog
+fix <UNK> <UNK> in <UNK>
+parent pom is updated
+remove <UNK> <UNK>
+<UNK> <UNK> for <UNK> builds
+add new icon
+update doc
+test
+add travis
+fix all <UNK> <UNK>
+try <UNK> timeout
+fixed <UNK> <UNK>
+remove unused <UNK> build
+print <UNK> <UNK> by travis
+fix sdk command name for <UNK> .
+remove unused import
+fixing test
+fix example <UNK> <UNK>
+changed <UNK> to <UNK>
+added <UNK> to <UNK> so that the build <UNK> is <UNK> .
+fix the issue where <UNK> <UNK> <UNK> from <UNK>
+add build . xml
+update readme . md
+delete .
+removed unused jar
+remove <UNK> output - <UNK> - cli output
+improve same in <UNK> on no message in <UNK>
+delete <UNK> . <UNK>
+setting version to 1 . <UNK> . <UNK>
+update .
+checkstyle checkstyle out checkstyle checkstyle errors during checkstyle
+gradle <UNK> <UNK>
+issue
+update the changelog
+delete old <UNK>
+move <UNK> files to correct <UNK>
+update changelog
+setting version to 1 . <UNK> . <UNK>
+remove unused
+added <UNK> image for the <UNK> <UNK>
+get rid of empty <UNK> .
+remove <UNK> <UNK> . <UNK> . <UNK>
+add <UNK> check to <UNK> list
+<UNK> <UNK> that another <UNK> has another <UNK> .
+<UNK> ( ) to fix the <UNK> method for <UNK> .
+added travis ci file
+fix some <UNK> <UNK> on some <UNK> <UNK> .
+add <UNK>
+put <UNK> to true and output package value for json output to <UNK> json and <UNK> <UNK> output
+add <UNK> icon for <UNK> icon
+lps - <UNK> tests to use <UNK> - <UNK> tests
+<UNK> . <UNK> to <UNK> <UNK>
+add travis . yml file
+show sdk info for <UNK>
+tweak to gradle javadoc tweak
+<UNK> <UNK> tests
+<UNK> icon
+<UNK>
+removing <UNK> <UNK> .
+<UNK> <UNK>
+<UNK> - <UNK> <UNK> <UNK> maven - plugin
+updated changelog
+add <UNK> screenshot
+corrected for proper testdata
+<UNK> <UNK>
+add missing to <UNK>
+added console . <UNK> ( ) to <UNK> . <UNK> .
+lps - <UNK> <UNK> to sf
+removing release configuration
+fix for the example
+<UNK> more <UNK> .
+add <UNK> # <UNK> property to <UNK>
+change version name for maven release
+fix run tests in <UNK> tests .
+updated test info
+removing unused <UNK> jar
+<UNK> <UNK> <UNK> !
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+add <UNK> image
+fix <UNK> instead of <UNK>
+fix typo .
+fix <UNK>
+<UNK> <UNK> <UNK> tests disabled .
+<UNK> <UNK>
+updated changelog
+update the changelog
+bumped version number to 1 . 0 . <UNK>
+additional <UNK> <UNK>
+check check for null check
+rename <UNK> file
+added added <UNK> tag for <UNK> <UNK>
+update changelog
+turn up back up shell tool to <UNK> up to shell shell <UNK>
+fix build for travis
+changes to changes . <UNK>
+<UNK> ( support info )
+add <UNK> to <UNK> <UNK> button when <UNK> is <UNK>
+remove <UNK> icon for debug builds .
+updated test info
+don ' t need to <UNK> this <UNK>
+remove <UNK>
+smack 4 . 1 . <UNK> 4 . 1 - rc - 4
+turn for <UNK>
+updated changelog
+<UNK> .
+/ / github . com / <UNK> / <UNK> / pull / <UNK>
+<UNK> - <UNK> "
+lps - <UNK> we should be <UNK>
+added storm - <UNK> to changelog
+<UNK> , not <UNK> , correctly email , correctly .
+updated <UNK>
+added <UNK>
+updated contributors file
+updated .
+lrqa - <UNK> too <UNK> to guava <UNK> too test errors too
+<UNK> <UNK>
+get unused <UNK> flag for <UNK>
+setting version to 1 . <UNK> . <UNK> - snapshot
+updated changelog
+set <UNK> to <UNK> for <UNK>
+some some some some some will update <UNK> , some <UNK> , will <UNK> , some <UNK> , will <UNK> the <UNK> , will <UNK> for some <UNK> .
+avoid npe in <UNK>
+add <UNK> . <UNK> ( )
+travis
+sync
+long <UNK> - dev dev in <UNK>
+update travis config
+fix a import <UNK> . <UNK>
+changed name of the <UNK> ' <UNK> ' .
+add a <UNK> to mention of <UNK> .
+add build for <UNK>
+updating changelog for reflect changelog
+correct changelog
+sonar - <UNK> <UNK> <UNK> of <UNK> / <UNK>
+<UNK> <UNK> <UNK> to <UNK> .
+remove unnecessary method .
+updated proguard configuration
+<UNK>
+removed <UNK> variable
+added <UNK> for <UNK> .
+<UNK> <UNK> <UNK> too
+lps - <UNK>
+update icon for android application icon .
+add missing record <UNK>
+new <UNK> images
+fix check for # <UNK>
+remove <UNK> <UNK> , even .
+<UNK> & <UNK> / html / <UNK> / html / <UNK> <UNK> <UNK> right <UNK>
+<UNK> <UNK> <UNK>
+new files
+update <UNK> . md
+bump version to version bump
+remove old <UNK> drawable image .
+remove unused code .
+remove unused method method for <UNK>
+removed jar file
+updated changelog . txt for <UNK> ( )
+<UNK> jar files for <UNK>
+added <UNK> <UNK> to <UNK> code
+added <UNK> padding that <UNK> <UNK> with the real snapshot
+use gradle version to <UNK>
+fix <UNK> of <UNK>
+<UNK> <UNK> for ci builds
+added stub for <UNK> <UNK>
+add <UNK> <UNK>
+make the correct <UNK> <UNK> constructor under <UNK>
+<UNK> <UNK> for <UNK> <UNK> <UNK> , <UNK> <UNK> , forgot to return the <UNK> .
+added storm - <UNK> to changelog
+fix ` <UNK> ` annotation
+tweak docs to docs - docs
+fix build version in <UNK> .
+record
+<UNK> - <UNK> <UNK> .
+update changes to txt <UNK> <UNK>
+fixed example for <UNK> exception <UNK> in example example config
+make the correct <UNK> <UNK> constructor under <UNK>
+<UNK> <UNK> <UNK> on <UNK> view
+reset <UNK> <UNK> as <UNK> item
+fix build
+fix # <UNK> # <UNK>
+minor change to match changes
+lrqa - <UNK> add <UNK> support to <UNK> test <UNK> .
+limit <UNK> , <UNK> , <UNK> ci settings
+remove <UNK> submodule
+<UNK> default <UNK> <UNK>
+use latest in <UNK>
+fixed data <UNK> data in <UNK>
+remove <UNK> <UNK>
+removed dummy <UNK> dependency .
+adding description .
+added <UNK> for <UNK> and <UNK> jar
+lrqa - <UNK> move <UNK> to <UNK> , <UNK> , <UNK> , <UNK> , <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , <UNK> <UNK> , i <UNK> <UNK>
+add <UNK> back to android <UNK>
+remove @ override method to remove <UNK>
+tweak properties
+lrqa - <UNK> add functional tests for <UNK> <UNK>
+<UNK> <UNK> .
+add <UNK> to the test check
+<UNK> <UNK> <UNK> in <UNK> . properties
+added storm - <UNK> to changelog
+remove <UNK> when <UNK> is not <UNK> ( )
+ant build
+update spongecommon for <UNK> <UNK> fix .
+<UNK> . <UNK> to <UNK> <UNK> <UNK> <UNK> .
+<UNK> <UNK> for <UNK> strings . xml
+added missing <UNK> to <UNK> . <UNK>
+fix example
+screenshots
+update <UNK>
+icons <UNK>
+<UNK> <UNK> to base <UNK>
+minecraftforge / fml @ <UNK> <UNK> <UNK> <UNK> to the <UNK> <UNK> .
+remove extra test from travis
+lps - <UNK> <UNK> color of <UNK> <UNK>
+added images
+<UNK> <UNK> <UNK> in the distribution
+debug builds
+make <UNK> <UNK> ui <UNK>
+updated changelog
+<UNK> <UNK>
+<UNK> <UNK> icon changed
+update spongecommon for <UNK> <UNK> fix .
+push version <UNK>
+update <UNK> . <UNK>
+<UNK> <UNK> <UNK> gif
+removing <UNK> from shell
+add storm - <UNK> to changelog
+add more icons
+remove <UNK> tag
+rename todo file
+<UNK> parent <UNK>
+<UNK> version
+create <UNK> . <UNK>
+gh - <UNK> - updated travis script
+fix <UNK> <UNK>
+fixing up api to <UNK>
+use <UNK> - <UNK> tests for tests
+change binary to guava pom
+forgot <UNK> over <UNK> top
+add new icons for <UNK>
+add test . setup file
+<UNK> <UNK>
+disable <UNK> . <UNK>
+update maven plugin plugin to maven - plugin - plugin
+lps - <UNK> add dummy path
+removed old icon
+<UNK> path to <UNK> <UNK> .
+adding <UNK> ( words )
+add build status to readme
+create <UNK>
+adding source <UNK> to <UNK> . jar for source <UNK> <UNK>
+log log log messages on <UNK>
+<UNK> preview <UNK>
+publish <UNK> for publish to publish <UNK>
+<UNK> to git <UNK>
+update spongecommon for <UNK> <UNK> fix .
+proper title will be the proper title isn ' t the <UNK> <UNK> .
+maven - <UNK> - maven - <UNK> to maven - release - maven - plugin version is <UNK> in maven <UNK>
+fix <UNK> file
+import .
+<UNK>
+changed <UNK> <UNK> <UNK> to default
+call call ( ) method to call <UNK> ( )
+install <UNK> on travis
+add <UNK> - <UNK> to the test for <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> .
+<UNK> version <UNK> . 1 . 0 - <UNK> .
+remove <UNK> print
+removed unused import
+remove unused <UNK> ( )
+lps - <UNK> remove <UNK> ' <UNK> ' as that was not <UNK>
+fix button button for <UNK> button
+remove test file
+<UNK> . txt <UNK>
+lps - <UNK>
+added storm - <UNK> to changelog
+remove bin directory from .
+update css
+updated <UNK> / library
+removed <UNK> line
+fix <UNK> build
+removed some <UNK> <UNK> in docs
+update <UNK> <UNK> <UNK>
+<UNK> to <UNK>
+remove unused <UNK> jar
+updated changelog
+testing <UNK> to <UNK>
+<UNK> <UNK> with default style
+<UNK>
+<UNK> version <UNK>
+set <UNK> . <UNK> to true
+default value to default . properties
+add missing @ <UNK> for <UNK>
+updating parent pom version to match parent pom .
+lps - <UNK> fix for the <UNK> sql
+change <UNK> to default - pom .
+pom is <UNK> in pom
+fix <UNK> compile on issue <UNK> .
+gh - <UNK> gh - <UNK> ( gh - <UNK> )
+fix <UNK> <UNK>
+add @ override annotation
+install <UNK> to <UNK> on a <UNK> .
+update <UNK> icon
+<UNK> <UNK> to latest <UNK>
+initial find - folder title folder
+using latest ( # <UNK> )
+initial version
+updated library reference
+minor file to be <UNK> .
+updated changelog
+pom is <UNK> to pom . xml
+added license header to the header
+add android - <UNK> to android - tests
+travis fix
+revert " <UNK> ` name . properties and release name
+fix checkstyle
+updated changelog
+<UNK> icon for maven tool images
+removed bottom <UNK> ' t settings .
+<UNK> <UNK> to <UNK> <UNK> .
+move <UNK> . txt
+update the build . txt for the proper <UNK> update .
+icon for <UNK> <UNK>
+remove unnecessary build .
+corrected the <UNK> version of master
+<UNK> native <UNK> native only for windows <UNK>
+bumped version
+update pom . xml
+remove <UNK> dependency for <UNK>
+setting version to 1 . <UNK> . <UNK>
+add <UNK> image
+update authors components components
+fix typo in <UNK>
+<UNK> missing strings .
+renamed license file .
+remove unused import
+add missing <UNK> in <UNK> build
+fixed typo in the default version .
+add js .
+groovy - <UNK> . groovy cleanup to groovy - <UNK>
+add google google <UNK> google <UNK> <UNK>
+<UNK> 5 <UNK> <UNK>
+fix typo
+lps - <UNK> <UNK>
+add <UNK>
+<UNK> icon fix .
+add missing <UNK> to <UNK> script <UNK>
+readme . md add
+add artifact id to <UNK> <UNK>
+fix repo link to <UNK> repo
+fix android <UNK> <UNK>
+delete image .
+add <UNK>
+<UNK> <UNK> example
+renamed <UNK> name to <UNK> in documentation
+remove .
+<UNK> <UNK> <UNK> for <UNK>
+fix whitespace <UNK>
+updated changelog
+<UNK> <UNK> fixed
+ignoring <UNK> folder
+<UNK> <UNK> <UNK> which is <UNK> <UNK>
+adding " <UNK> "
+add missing method ( ) for <UNK> <UNK> <UNK> ( )
+<UNK> order to let the <UNK> <UNK> <UNK> the <UNK> tests on the <UNK> tests .
+lps - <UNK> move <UNK> to portal - service module
+<UNK> page <UNK> of <UNK> <UNK> page
+<UNK>
+update changelog . md
+remove unused library
+fixed bug where <UNK> 1 . 5 compatibility for <UNK>
+add screenshot
+lps - <UNK> sf
+remove comment
+<UNK> <UNK> for <UNK>
+replace <UNK> image
+remove unused unused import
+lps - <UNK> fix for journal - <UNK>
+revert <UNK> notification button for <UNK> <UNK> .
+<UNK>
+use # <UNK> # <UNK>
+remove <UNK> graph
+<UNK> space
+cleanup
+use <UNK> shell <UNK> for <UNK> shell
+parent parent parent pom is the parent version instead of parent
+remove <UNK> code for <UNK> . <UNK> ( ) to allow <UNK> to <UNK> <UNK> .
+update readme . md
+changelog <UNK> <UNK>
+<UNK> <UNK>
+lps - <UNK> <UNK> file
+updated readme
+add <UNK> screenshot for <UNK> <UNK>
+updates changes icon
+update <UNK> .
+move <UNK> to <UNK> . xml
+add screenshot
+setting version to 1 . <UNK> . <UNK> - snapshot
+<UNK> <UNK> <UNK>
+changed file to <UNK>
+cache
+fix compile
+add <UNK> check for <UNK> ( # <UNK> )
+remove <UNK> from <UNK> . <UNK>
+add <UNK> to <UNK> . txt
+remove unnecessary <UNK>
+<UNK> png
+<UNK>
+add missing @ override
+remove test <UNK>
+added release notes
+fix <UNK> for pr # <UNK>
+remove unused file
+delete <UNK> . gif
+lps - <UNK> not <UNK>
+<UNK> 4 . <UNK> 4 . <UNK> 4 . 0 . <UNK> - <UNK>
+<UNK>
+update <UNK> - rest - client submodule
+type <UNK>
+remove <UNK> "
+fix <UNK> of core - core - core .
+delete .
+<UNK> no longer <UNK> for the <UNK>
+remove unnecessary <UNK> <UNK> method to avoid <UNK> <UNK>
+readme . md updated
+removed <UNK>
+<UNK> to <UNK> <UNK> jar in <UNK> . jar
+unit unit tests .
+<UNK> <UNK>
+bumped version number to 1 . 0 . <UNK>
+updated changelog
+removed @ nullable
+update <UNK> jar to default <UNK> <UNK> in default build
+fix <UNK>
+lps - <UNK> <UNK> <UNK>
+use <UNK> to use the services services services
+fixed test timeout .
+remove <UNK> and <UNK> module to remove <UNK> and <UNK> module .
+fix the test check for h2o tests .
+fix <UNK> header code
+fix <UNK> to <UNK> <UNK>
+fix <UNK> build
+add storm - <UNK> to changelog
+properties
+fix travis
+update <UNK> version name for the project <UNK> .
+<UNK> <UNK>
+changed the call to the <UNK> <UNK> .
+<UNK> console to resource after <UNK> console
+<UNK> call <UNK> ( ) call
+add icons
+fix for <UNK> <UNK>
+updating branch
+updated changelog
+<UNK> for <UNK> <UNK>
+add a method if it is no <UNK>
+update pom . xml
+change name name <UNK> name for <UNK> <UNK>
+added <UNK> notes .
+added <UNK> to <UNK> .
+removed support library
+update build tool and new build under <UNK>
+add image for <UNK> <UNK>
+<UNK> <UNK> to <UNK> .
+<UNK> <UNK>
+move example resources to new example
+remove the " <UNK> - " <UNK> - api " <UNK> "
+updated changelog to reflect <UNK> changes .
+add .
+fix for build
+adding * .
+change <UNK> for <UNK>
+correct version name . <UNK> .
+<UNK> <UNK> <UNK> back before the <UNK> . <UNK> ( ) .
+remove unused code .
+updated changes for <UNK> .
+fix build due to <UNK> <UNK> due to build <UNK>
+<UNK> build / <UNK>
+<UNK> fix of tests in <UNK>
+<UNK> <UNK> / <UNK> from docs / <UNK> . <UNK>
+minor <UNK> to add strings . xml to <UNK> to the strings . xml to <UNK> strings . xml to <UNK> strings . xml to <UNK> the strings
+updated <UNK> to <UNK> - <UNK> for maven - plugin / pom
+setting version to 1 . <UNK> . <UNK> - snapshot
+updated <UNK> submodule
+lps - <UNK> move icon
+/ / <UNK> . <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> / <UNK>
+update <UNK> for <UNK> <UNK>
+add version to fix gradle .
+apk and <UNK> and the apk version to the wiki
+renamed license file .
+add missing changelog for changes
+adding missing <UNK> .
+removed unused line
+fix <UNK> . gradle
+i <UNK> <UNK> ?
+add todo
+removed <UNK> directory for <UNK> configuration
+fix default version of <UNK> - common
+updated changelog
+small note <UNK> <UNK>
+reset <UNK> reset on <UNK> reset
+lrqa - <UNK> add <UNK> component to <UNK> . <UNK>
+revert " <UNK> <UNK> files for <UNK> "
+fix for <UNK> - <UNK>
+missing icon for import icon
+removed unused <UNK> dir from <UNK> <UNK> service .
+update <UNK> . txt
+<UNK> <UNK> <UNK> test <UNK> .
+fix <UNK> ` <UNK> ` <UNK>
+<UNK> at travis
+fix for <UNK> task .
+moved <UNK> to test case
+<UNK> <UNK> <UNK> tests for <UNK> <UNK> .
+update <UNK> .
+lps - <UNK>
+<UNK> <UNK> to pass <UNK> in <UNK>
+push version to <UNK> , <UNK> - <UNK> .
+added missing close to the <UNK> .
+added storm - <UNK> to changelog
+update readme . md
+removed old / <UNK> .
+fix # <UNK> # <UNK>
+lps - <UNK> - <UNK> css <UNK>
+<UNK> <UNK> in docs
+revert " lps - <UNK> " add empty title "
+fix build script
+remove trailing default .
+test commit to git git commit
+update readme . md
+add <UNK> error in <UNK> <UNK>
+to jb dictionary
+fixed <UNK> <UNK> <UNK> for <UNK>
+use <UNK> <UNK> <UNK> after <UNK> <UNK> <UNK> , use <UNK> / <UNK> <UNK> bug
+remove @ <UNK> .
+make <UNK> fail <UNK> <UNK> by <UNK> server - <UNK> <UNK>
+publish <UNK> when <UNK> and <UNK> while publish
+cleanup
+add travis <UNK> notifications
+added files
+fix <UNK> number
+<UNK> - json / <UNK> / <UNK>
+<UNK> <UNK> dependencies
+<UNK> <UNK> .
+try <UNK> size for the jvm jvm .
+gradle <UNK> <UNK> . <UNK> .
+don ' t <UNK> <UNK> <UNK> <UNK>
+updating image
+updated properties properties
+cleanup ;
+removed <UNK> constant .
+fix npe
+fix <UNK> status icons
+todo
+updated translation info
+add <UNK> dependency for <UNK> .
+updated version number for travis
+<UNK> <UNK>
+fix <UNK> and <UNK> and <UNK> spec and <UNK> name
+create .
+updated changelog
+missed <UNK> logging
+setting version to 1 . <UNK> . <UNK> - snapshot
+removed exception exception
+delete <UNK> .
+fix missing include for <UNK> build
+updated changelog
+remove <UNK> <UNK> from <UNK> property
+run tests - <UNK> in <UNK>
+added storm - <UNK> to changelog
+add <UNK> <UNK> version
+added missing <UNK> of <UNK> - <UNK> <UNK> list
+lps - <UNK> lps - <UNK> <UNK> <UNK> the <UNK> changes
+point to point to travis . yml
+fix property property
+added <UNK> ( )
+fix up the <UNK> and some samples .
+add <UNK> <UNK> of <UNK> <UNK>
+updated properties folder
+<UNK> <UNK> as per <UNK>
+.
+fix <UNK> back to <UNK> ( ) method which cannot handle <UNK> .
+set <UNK> to <UNK> without <UNK>
+corrected <UNK> typo .
+' url - 1 . <UNK> . " .
+update changelog
+add <UNK> ( <UNK> )
+changed travis to cache to <UNK> the <UNK> cache <UNK> .
+<UNK> <UNK> <UNK> <UNK> in <UNK> <UNK> .
+updated changelog
+<UNK>
+updated test info
+add <UNK> <UNK> to <UNK> <UNK> .
+add <UNK>
+log error <UNK>
+remove unused import
+<UNK> - <UNK> patch to <UNK> - classes export
+prepare version <UNK> . 1 . <UNK>
+<UNK> changes
+add <UNK> image
+use <UNK> to gradle after <UNK>
+update spongecommon for <UNK> <UNK> fix .
+fix <UNK> <UNK>
+sample apk
+add a <UNK> of the readme
+update .
+lps - <UNK> fix <UNK> env env
+add <UNK> ' <UNK> ' to ' <UNK> ' .
+updated default .
+oops
+working ' <UNK> '
+add <UNK> ( )
+updated changes
+release notes
+add <UNK> <UNK> to <UNK>
+fix build . <UNK>
+removed unused class
+remove <UNK> version
+.
+fix npm ' s command line
+upgraded to guava guava 4 . 0

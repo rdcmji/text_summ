@@ -1,0 +1,1981 @@
+missing icon
+lrqa - <UNK> - turn turn update for <UNK>
+initial source . jar
+small change minor minor minor change update default version size .
+fixed fixed groupid in <UNK> in pom . properties
+fix <UNK> return value in <UNK> in <UNK> .
+updated changelog
+updated <UNK> test .
+update <UNK> .
+icons updated
+missing added link to documentation documentation documentation .
+setting setting hdfs release to <UNK> .
+revert revert " build " revert " revert " revert " revert
+fix <UNK> in <UNK> .
+added <UNK> .
+lrqa - <UNK>
+adding new code <UNK> to the indent . proto
+added new new version to <UNK> .
+make <UNK> .
+fixed test for <UNK> .
+add missing redirect for json . json
+update changelog .
+updated updated to correct build .
+fixed fixed groupid in <UNK> in pom . properties
+<UNK> compile version <UNK>
+update build . gradle
+update .
+layout fix
+added missing wrapper to gradle . properties
+don ' t use force <UNK> dependency dependency to use root root
+make <UNK> empty the empty empty string string string string string string
+update changelog . md
+fix use build of services services services <UNK>
+removed up up to the manual build .
+add <UNK> in <UNK> <UNK>
+update readme
+disable disable build . java
+fix for issue for <UNK> fix issue issue
+create <UNK> env . sh to <UNK> . sh
+don ' t use <UNK> call .
+don ' t build build <UNK> change build logging to use build
+updated email to <UNK>
+hdfs v0 . 87 . <UNK>
+support support for <UNK> library version 24
+added create changelog .
+added gifs .
+reset <UNK> counter to counter counter counter .
+fix missed log log for paste error fix .
+change pom . xml
+apk demo
+add .
+restored lrdocs . png
+added optional . txt for <UNK> . <UNK>
+update changelog
+update <UNK> .
+fix <UNK>
+lps - <UNK> sf
+update build .
+build build fix
+updated default to use the osgi version to use the new -
+added storm - <UNK> to changelog
+update travis . yml
+update <UNK> process .
+add building javadoc module module to build pom . xml
+fix checkstyle plugin
+fix <UNK> problem
+updated the changelog . txt
+minor fix minor minor minor change minor minor minor minor minor minor
+remove 1 . <UNK>
+add some <UNK>
+updated todo
+set <UNK> color to in <UNK> .
+update docs
+update spongecommon
+added added .
+initial check check in <UNK>
+add <UNK> .
+fixes <UNK> error for issue # <UNK> )
+update parent pom .
+add <UNK> ' <UNK> ' build . <UNK>
+don ' t gradle gradle build <UNK> gradle gradle
+added missing missing module for module module name
+added storm - <UNK> to changelog
+add attempt for <UNK> .
+<UNK> added jar
+sort <UNK>
+make finally correct the correct the correct class name in the correct
+delete logo
+update todo on todo todo
+lps - <UNK> revert " lps - update plugin to revert "
+minecraftforge / fml update fml to <UNK> <UNK> .
+fix travis build fix sf
+lps - <UNK>
+oops <UNK> .
+update the gradle . properties
+added index entry
+<UNK> <UNK> fix <UNK> in <UNK> naming value
+fixed dummy <UNK> .
+fix <UNK> typo in <UNK>
+add compile to <UNK> .
+update <UNK> .
+update <UNK> .
+improved default properties
+run the <UNK> order in the order to the order to the
+add <UNK> .
+added .
+update my my my changes changes to changes . <UNK> . <UNK>
+source formatting . xml
+remove codec include codec change change submodule version
+updated changelog
+fix <UNK>
+updated changelog
+update <UNK> version .
+fixed typo .
+<UNK> <UNK>
+test fix
+lps - <UNK>
+setting release <UNK> .
+re update
+added missing missing library .
+fix missing missing break issue
+change changelog
+use <UNK> update androidmanifest . <UNK>
+removed changes .
+fix <UNK>
+mark <UNK> to <UNK> order for <UNK> order in order order to
+update changelog
+update changelog . md
+added storm - <UNK> to changelog . md
+<UNK> needed for old <UNK> library jar
+added some author test .
+<UNK> - <UNK> ' super .
+save comment in save to save save <UNK> to <UNK> when <UNK>
+update gradle . gradle
+add back to <UNK> .
+corrected tag tag
+remove fix build <UNK> in on build . sh
+remove jar
+bump build . java
+<UNK> instead of
+<UNK> r
+fix permissions .
+minor fix minor minor minor fix minor minor minor minor minor minor
+oops
+change back to com . com . <UNK> config groupid
+add new icon for <UNK> .
+added <UNK> to the <UNK> .
+bump to android android android sdk android sdk project project project project
+update readme . md
+lps - <UNK> moves icon
+typo update
+add words
+changed typo .
+fixed typo .
+add missing <UNK> missing missing sample image
+<UNK> <UNK>
+add different .
+update readme . md
+prepare version <UNK> version from <UNK> .
+<UNK> fix pom . xml
+removed synchronized . <UNK>
+lep - <UNK>
+add build . gradle
+fix fix
+add support support library file for android release library file .
+lps - <UNK> source formating
+fixed the <UNK> chat chat chat chat chat button
+smack smack libs
+use hardcoded version in range .
+re update
+update samples
+moved pyunit to nopass .
+added check check for <UNK> .
+added updated images to images .
+update <UNK> gutter
+needed needed needed sources to <UNK> jar
+add note for create <UNK> .
+
+temporarily changed maven test execution
+fix typo
+lps - <UNK>
+<UNK> added library
+minor fix .
+move <UNK> to src test . java
+removed .
+idea <UNK> <UNK>
+add a a dependency dependency in <UNK> .
+update set to 1 . <UNK>
+updated changelog
+fix testdata
+ignoring eclipse test
+update changelog . md
+fixed typo
+updated env . exe
+revert upgrade to <UNK> version .
+fix <UNK>
+fixed <UNK>
+changed target target version to target .
+disable <UNK>
+change version <UNK> to <UNK> .
+update <UNK> to include include .
+fix transparent facade facade for new facade item end in <UNK> .
+use <UNK> .
+add .
+<UNK> test
+update changelog for <UNK>
+update mac os <UNK> to portaudio .
+fixed typo fix
+update changelog . md
+source formatting
+fix typo
+add throws test to avoid <UNK> test .
+update license
+fixed spelling error error
+make javadoc run the javadoc to run the javadoc run javadoc level
+make javac local javac dependency to make groovy location . java .
+added screenshot
+add <UNK> plugin
+lps - <UNK> properties properties properties properties
+delete duplicate <UNK> .
+added the new marker to the war . java
+fix bug <UNK>
+fix logging
+fix spacing
+add new <UNK> <UNK> in <UNK> .
+<UNK> libraries libraries
+fix manifest
+added storm - <UNK> to changelog
+make <UNK>
+improved improved default in <UNK> header header .
+updated changelog
+lrqa - <UNK> properties
+fixes tests .
+removed del
+add new script .
+lps - <UNK> - don ' t use <UNK> .
+remove <UNK>
+lep - <UNK>
+update md
+removing removing unnecessary assembly .
+add null check check in <UNK> . <UNK> to null . <UNK>
+missing new missing placeholder for <UNK> method .
+updated updated
+lps - <UNK>
+removed empty from <UNK> icon .
+update travis
+update changelog . md
+sonar - <UNK> profile image change to restored restored small restored small
+update editorconfig .
+<UNK> <UNK>
+prevent the indent indent name name in the indent name name name
+added missing super . <UNK>
+add travis .
+lps - <UNK> sf
+updated <UNK>
+this change changed name to changed default name name .
+changed parent version to name .
+use <UNK> use use use use new lib lib lib file lib
+add support library
+update .
+update .
+delete delete .
+test data <UNK>
+progressbar fix
+update readme . markdown
+update link .
+png
+move <UNK> to nopass .
+<UNK> <UNK>
+add command command for command function function in icons .
+add rules
+fix build <UNK> in <UNK>
+release <UNK>
+fix <UNK> .
+added <UNK> <UNK> to the <UNK> .
+added new <UNK> library handling .
+remove unnecessary semicolon in <UNK> . java
+allow <UNK> reporting for the reporting to default default config path to
+update <UNK> .
+travis
+lps - <UNK> moves icon <UNK> icon icon
+lps - - - <UNK> - project project module update project naming
+fix permissions
+add readme . md .
+added added <UNK> . <UNK>
+lps - <UNK> - do prevent prevent new new new portlet portlet
+fixed typo
+fix npe
+update readme . md
+updated changelog
+update <UNK> <UNK> .
+translated using weblate
+initial check .
+revert missing missing source jar jar
+<UNK> <UNK> library
+icon update
+updates problem .
+adding <UNK> .
+fixed test test data fixed
+ninja update notice for <UNK>
+fix unix build . xml
+change syntax syntax in <UNK> .
+remove <UNK> version
+lps - <UNK> - - - ui ui ui ui adjustments for
+preview .
+fixes <UNK>
+lps - <UNK> - don ' <UNK> use <UNK> jar
+rename rename to rename <UNK> .
+lps - <UNK>
+don ' t generate the grails plugin plugin generator
+update .
+lps - <UNK> move icon
+update natives .
+added old <UNK> to the old lang library jar to our the
+add fix hdfs config to <UNK> .
+update proguard
+update changelog . md
+update changelog
+add add empty <UNK> zip .
+fix mdpi mdpi icon for mdpi icon
+remove unnecessary don ' t <UNK> .
+update <UNK>
+add back to <UNK> namespace status .
+updated <UNK> references
+lps - <UNK> cache cache cache cache cache update
+fix publish groovy build script
+/ / / / / / nutz . googlecode . com /
+moved jetty jetty to 2 . org
+disable disable travis - ci ci travis test test builds
+<UNK> fixed <UNK> ( ) in <UNK> <UNK> ( ) in <UNK>
+update changelog
+<UNK> update <UNK>
+remove import import
+fix typo
+update readme . md
+change change dependency to <UNK> in build build .
+added update <UNK> to in case . json
+update line
+fix whitespace
+lep - <UNK> update jar <UNK>
+lps - <UNK> - <UNK> icon icon
+lps - <UNK>
+<UNK> <UNK>
+add <UNK> build . gradle
+fix build . gradle
+update <UNK> .
+fixed <UNK> post layout layout layout fixed
+<UNK> jar
+project project update
+add default <UNK> .
+add <UNK> <UNK> ( )
+/ / issues . apache . org / bugzilla / show_bug .
+add missing checkstyle rule <UNK>
+updated update
+updated changelog
+bin bin
+sonar - <UNK> default default type type to sonar " <UNK> "
+remove <UNK> volatile from <UNK> .
+update readme
+return a better message message message message ) to <UNK> .
+add changes for <UNK> release notes .
+update .
+rename rename rename to rename . md
+increase <UNK> to <UNK> true .
+update <UNK>
+updated changelog
+disable debug debug install install install project project project project project project
+fix <UNK> call call
+update <UNK> .
+update <UNK>
+don ' t <UNK> gradle build <UNK> gradle gradle in gradle gradle
+oops
+fix fix typo
+fix format format
+removed debug
+don ' t use ' switch ' switch to ' switch '
+add <UNK> <UNK> .
+fix <UNK> return parameter for issue .
+add xhdpi placeholder placeholder for free xhdpi drawable .
+hive <UNK> <UNK>
+fix a build build for <UNK> fix build for <UNK>
+fix <UNK> # <UNK> true
+lps - <UNK> fix build <UNK>
+help help topic for <UNK> .
+remove formatting formatting
+update the build . xml
+fix for indentation fix
+more fixes adjust css whitespace
+update changelog
+fix
+lrqa - <UNK>
+updated changelog
+correct missing <UNK> in test script
+fixes travis ci builds <UNK>
+increase version to 0 . <UNK> . <UNK> .
+lps - <UNK> - source formatting
+add changes for changes to changes . txt
+using updated slf4j version to <UNK> .
+fix don ' t <UNK> <UNK>
+fix typo update
+update library
+src src class class to .
+added added <UNK> test to <UNK> .
+fixed typo
+removed .
+updated default to use <UNK> .
+moved the correct correct to correct correct files to correct correct correct
+validate updated database for gwt v0 4 . 4 ( py -
+update <UNK> to use upstream .
+updated <UNK> task
+added <UNK> support for the <UNK> support lib to gradle . gradle
+update update readme . md
+update <UNK>
+update readme . md
+fix <UNK> sim build . h
+fix <UNK> fix
+remove com . <UNK>
+fix idea project version for <UNK> .
+update <UNK> doc .
+fixes <UNK>
+moved <UNK> <UNK> .
+lps - <UNK> - source formatting
+fix build build
+fix <UNK>
+fix way name in <UNK> name .
+change version <UNK> to <UNK> .
+update .
+update uses <UNK>
+updating <UNK>
+<UNK> updated
+add new build . properties
+wfly - <UNK> <UNK> does not <UNK> default default value value to
+update default <UNK> value to the <UNK> .
+add storm - <UNK> to changelog
+don ' t <UNK> <UNK> ' <UNK> ' .
+add .
+fix typo
+add missing add missing key key <UNK> .
+fix issue for <UNK> <UNK>
+lps - <UNK>
+allow <UNK> string string to allow <UNK> string string string string string
+update changelog
+don ' t use the <UNK> lock . java
+updated changelog
+revert " revert " revert " revert " revert " revert "
+add tostring for <UNK> . tostring ( ) method method to <UNK>
+add <UNK> for can allow for the new numbers for for the
+update update
+add <UNK>
+disable <UNK> code code code code fixed
+updated updated docs for docs docs .
+disable <UNK> ci profile tests .
+lrqa - <UNK> properties
+add <UNK> branch
+<UNK> script script
+<UNK> change update pom to pom pom
+move back to move <UNK> to the demo directory file to use
+update demo .
+fixed porting . sh
+remove obsolete <UNK>
+add missing <UNK> <UNK> .
+<UNK> <UNK>
+<UNK> <UNK>
+fix the <UNK> release release name
+fix constant constant for constant <UNK> error
+don ' t need <UNK> the 10 . 10 . <UNK> .
+update changelog
+enable enable build <UNK> if travis travis ' <UNK> if travis travis
+fix height height in <UNK> height
+update build . gradle
+fix color color fix color color in the fix color color color
+fix <UNK>
+add <UNK> false
+create <UNK> .
+update .
+use <UNK> as default <UNK> as default to gradle <UNK> gradle as
+update travis . yml
+rm rm rm sources sources from sources sources file sources file file
+update <UNK> .
+publish publish jdk8 .
+update .
+minor fix fix
+updated android - android - api to 21 . 25
+lep - <UNK>
+update repo
+re
+update update gif
+add file .
+fix a new windows file file file leak in a fix missing
+upgraded upgraded to parent parent pom .
+remove remove <UNK> whitespace .
+<UNK> <UNK> fix typo
+<UNK>
+upgraded parent to parent pom . xml
+update readme
+update spongecommon
+update <UNK> .
+fix <UNK>
+changes
+update travis
+lps - <UNK>
+re added .
+<UNK> <UNK>
+cleanup <UNK>
+fixed switch to switch to switch <UNK> to <UNK> .
+<UNK> fixes build .
+update build . gradle
+zeppelin - <UNK> fix . jar
+fix <UNK>
+update changelog . md
+fix broken test for <UNK>
+moved <UNK> from <UNK> .
+testing
+add missing .
+delete <UNK> .
+add <UNK> contributors .
+fix default
+fix config config
+update .
+fixed space
+update reset icon to add reset icon .
+add missing images for <UNK> ' folder
+updated changelog
+fix <UNK>
+update changelog . md
+fix file file file .
+screenshots updated
+updated changelog
+add words suggested by users users <UNK> by users .
+fix issue issue <UNK>
+readme . md
+delete .
+fix <UNK>
+add added <UNK> .
+remove trivial method .
+lep - <UNK> - enable enable change change default dependency dependency to
+added <UNK> .
+added <UNK>
+delete <UNK>
+update project . properties
+update compile . java
+modify build . properties
+lps - <UNK>
+ideadev - <UNK>
+don ' t log <UNK> log log files
+<UNK> <UNK>
+updated updated jar to 3 . 2 . <UNK>
+update changelog
+correct pom
+added <UNK>
+lps - <UNK>
+resize new sample sample image
+add readme . md
+use <UNK> travis .
+remove debug test logging logging .
+fix <UNK> comment
+add <UNK> in <UNK> .
+setting release <UNK> .
+added <UNK> library jar
+
+updated new new icon image .
+test fixed test test
+fix fix typo
+fix <UNK> in build . jar
+update changes
+lrqa - <UNK> properties
+fix typo
+add <UNK> .
+improve default script script .
+update readme . md
+update idea script to use build .
+update <UNK> to 1 . 5 to <UNK> . <UNK>
+add memory
+removing roles from file file name .
+changed switched to parent parent pom . xml .
+fix <UNK> typo in use <UNK> .
+update
+changed <UNK> to run build .
+bump up gradle build to gradle v2 . 43
+removed <UNK>
+updated changelog
+remove trivial dependency
+change <UNK> to test .
+added storm - <UNK> to changelog . md
+fix missing bug in <UNK> # <UNK>
+missing missing property from <UNK> property .
+set the the the the the ` benchmark . jar to the
+remove false exclude exclude <UNK> comment .
+removed removed .
+changed viewer viewer to the viewer viewer viewer to <UNK> .
+revert .
+updated pom . xml
+added <UNK> version in <UNK> .
+updated default to use <UNK> .
+fix typo in <UNK>
+travis <UNK>
+idea <UNK> <UNK>
+changed default config version to debug build . txt
+update <UNK>
+renamed file fix file file
+update spongecommon
+small fixes <UNK> <UNK>
+update <UNK>
+changed name .
+update release
+oops <UNK>
+fix <UNK>
+add missing properties
+build fix <UNK>
+fix typo in
+update readme . md
+icons
+<UNK> typo .
+remove <UNK> class in preloaded class class
+update readme . md
+fixed tests
+modified manifest for <UNK> .
+fix <UNK> <UNK>
+update <UNK> .
+<UNK>
+test <UNK>
+update screenshot
+update <UNK>
+update readme
+add missed images to <UNK> .
+
+remove unneeded release version .
+fix <UNK> <UNK>
+removed fixed source formatting .
+lps - <UNK>
+update <UNK> . md
+update
+gh - <UNK> - integration - release jar jar renamed integration test
+
+fix <UNK> connect in <UNK> .
+fix typo fix
+removed fix from <UNK> version in <UNK> .
+rename readme
+don ' t gradle deploy <UNK> < > gradle . gradle
+update <UNK>
+removed unnecessary whitespace
+<UNK> <UNK>
+new support for new release library .
+<UNK> fixed
+fixed py - <UNK>
+revert upgrade to <UNK> version .
+increase version to 0 . <UNK> . <UNK> .
+don ' t <UNK> <UNK> .
+<UNK> fix <UNK> crash in <UNK> # <UNK>
+close close
+whoops fix fix
+don ' t call <UNK> call call to .
+fix <UNK>
+add <UNK> . md .
+added <UNK> false to the gradle . json
+favicon favicon
+add <UNK> .
+add credentials to .
+typo
+py - <UNK>
+add ( ) )
+update .
+change back to <UNK> .
+updated changelog .
+fix <UNK> test
+lps - <UNK> - moves icon icon
+added new release note
+add storm - <UNK> to changelog
+shift
+update <UNK> . md
+fix ui issue on <UNK> on <UNK> fix issue
+updated updated image for wildfire image .
+<UNK> <UNK>
+fix <UNK> bug in <UNK> .
+dummy formatting formatting
+/ / code code code for <UNK> add <UNK> for the <UNK>
+lps - <UNK> - temporarily temporarily update <UNK> test <UNK> test test
+remove unnecessary <UNK> stacktrace .
+update system system system .
+enterprise index . md
+add hadoop build . gradle
+updated project
+sonar qa <UNK> must must be <UNK> new on new qa table
+hhh - - - - - - - core - core -
+update travis . yml
+set default version to use build . gradle
+update <UNK>
+lps - <UNK>
+setting setting hdfs release to <UNK> .
+update contributing . md
+fix fix for issue <UNK>
+lps - <UNK>
+happy update .
+fail
+add word .
+updated maven plugin to use <UNK> version .
+lps - <UNK> - source formatting
+test cleanup
+enabled <UNK>
+updated parent version to 2 . <UNK>
+more more more more shorter for more imports .
+fix images in <UNK> .
+fix <UNK>
+removing project dependency from this dependency change back back dependency in this
+update readme . textile
+needed for android sources <UNK> jar
+minecraftforge / fml update fml to <UNK> <UNK> .
+update readme . md
+fix a typo
+invalidate <UNK> in <UNK> .
+lps - source formatting
+fixed typo .
+update <UNK> dll .
+move <UNK> to the build . cpp
+update build . yml
+rename <UNK>
+add cache to <UNK> .
+run ant zip test to run build .
+add changes changes to changes . txt .
+update preview image preview to drawable preview preview file
+fixed pom . xml
+update wrapper to build <UNK> .
+configure <UNK> .
+add <UNK> to enum build enum
+added <UNK> in core to 2 . 2 . <UNK>
+add option for for pubdev - <UNK> .
+update spongecommon
+added <UNK> for the documentation for the documentation . txt
+update screenshots
+set <UNK> true to .
+added deprecated suppress warning for warning warning .
+fix javadoc
+fixed indent
+update demo
+setting setting hdfs release to <UNK> .
+includes the notice notice in the the notice file to the notice
+delete unnecessary code
+rename file to fix .
+updated <UNK> to use eclipse project .
+add another rule dependency logging .
+add <UNK> property property to the filter filter property property property property
+update .
+fix fix .
+update library
+update <UNK> .
+re
+fix library
+rename rename file file .
+updated changelog .
+ideadev - <UNK>
+use use update build . gradle . <UNK>
+added <UNK>
+fix default
+don ' t log <UNK> error in <UNK> .
+update gradle . gradle
+typo update
+fix use use use use switch to switch to switch to use
+set set to set to set target to set to set to
+rename the sample sample sample sample sample to androidmanifest build sample sample
+update jar
+trivial fix <UNK>
+patched patched <UNK> version to the <UNK> .
+lps - <UNK> cache cache cache cache cache update
+add missing missing comment
+revert upgrade to <UNK> version .
+lps - <UNK>
+lrdocs - <UNK>
+change <UNK> to compile pom . <UNK>
+fix <UNK>
+update changelog
+add <UNK> <UNK> . jar to <UNK> .
+update <UNK>
+run run run <UNK> run tests
+fix test
+fix apply color in <UNK> in <UNK> .
+fix <UNK>
+change compile version number .
+update <UNK>
+<UNK> project
+add default <UNK> to <UNK> .
+use use correct update <UNK> path to use the correct path output
+update location module location .
+<UNK> small error <UNK>
+try travis build to .
+add header
+)
+typo
+added missing missing missing missing dep dep in pom . xml
+update changes changes for changes . txt
+new images
+increment build build
+updated updated changelog
+<UNK>
+update natives to natives .
+<UNK> <UNK>
+added <UNK> release
+update testing testing .
+rm news build .
+add <UNK> .
+added updated authors . txt .
+added missing missing comment
+lps - <UNK> sf
+move <UNK> to <UNK> .
+updated <UNK> to index .
+fix <UNK> call
+update <UNK> .
+don ' t switch <UNK> jdk8 to <UNK> .
+move <UNK> to nopass .
+clean up the project version in root .
+updated changelog
+add <UNK> build . gradle
+removed back migrate to domain build build .
+fix <UNK> pipe
+added added doc doc . md
+fix don ' t problem .
+added <UNK> method to .
+don ' t remove <UNK> reference alert reference reference to benchmark .
+idea idea <UNK> <UNK>
+exclude java sources . java . <UNK> include / checkstyle / java
+setting setting hdfs release to <UNK> .
+minor minor fix minor minor fix minor minor fix minor minor fix
+update pom .
+move move to move console to console . template . org /
+add readme
+add connectedandroidtest
+fix project project properties properties
+lps - <UNK>
+update changelog . md
+compilation warning
+sonar - <UNK> don ' t use <UNK> css change type type
+removed stray <UNK> style .
+fixed fixed groupid in <UNK> in pom . properties
+lep - <UNK>
+updated change changelog
+fix build .
+ninja fix fix typo
+add camel - <UNK> module
+lps - <UNK>
+lps - <UNK> rename <UNK> properties to empty <UNK> file
+forgotten forgotten forgotten forgotten forgotten forgotten icon forgotten forgotten forgotten forgotten icon
+clear clear clear clear bug of the clear indicator to the cache
+reset images for screens screens screens screens .
+updated changelog
+oops
+update location module location .
+lps - 51081 <UNK> lps - 51081 modules should exclude ant ant
+remove temporary temporary temporary temporary temporary temporary temporary push temporary version file
+don ' t see <UNK> memory memory memory size if building memory
+<UNK> <UNK>
+set jdiff version 7 .
+fix typo
+run <UNK> .
+removed don ' t need need to the osgi osgi packaging output
+update <UNK> .
+update command icon for <UNK> .
+change version <UNK> to <UNK> .
+add release v0 . md
+<UNK> <UNK> update <UNK>
+update <UNK> .
+update readme . md
+merge icons
+add gif
+update <UNK> .
+new new control icon .
+update travis . yml
+fix gradle gradle plugin .
+<UNK> <UNK>
+add more <UNK> notification to test . gradle .
+include target target target target target target target
+switch to jdk8 .
+<UNK> compile version <UNK>
+update update <UNK> .
+lep - <UNK>
+remove accidentally removed trailing trailing change change line
+update <UNK> sdk
+)
+lep - <UNK>
+update changelog . md
+update <UNK> icon
+fix hdfs changes . txt .
+fix fix wrong warning warning
+update change to use <UNK> change screenshot . <UNK>
+update <UNK> to .
+set set back back back to the default default test tests to
+<UNK> don ' t <UNK> <UNK>
+unit unit tests in unit tests .
+fix typo
+fix build . jar
+update gradle build <UNK>
+<UNK> <UNK>
+fix delete <UNK> delete crash .
+bump use <UNK> version 24 .
+update .
+lps - <UNK> - - move to move custom icon files to
+add dummy file file in file file .
+updated typos
+lps - <UNK> - update <UNK>
+rename rename to readme . md
+add <UNK> <UNK> . jar to . <UNK> . <UNK> .
+fix <UNK>
+add <UNK>
+fix checkstyle
+fix fix for <UNK> exception exception
+lrqa - <UNK> sf
+removed preview
+explicitly catch explicitly explicitly add exception exception exception exception exception exception exception
+update <UNK> .
+fix typo
+revert fix for <UNK> fix .
+minor - style tweak update for <UNK> .
+updated <UNK>
+remove don ' t generate build . xml
+updated readme . md
+disable disable junit disable <UNK> test tests .
+fix renaming renaming to deploy deploy to deploy to deploy . zip
+update todo
+remove <UNK> annotation
+test <UNK>
+update android android <UNK> to v2 v2 . 3 . <UNK>
+fix typo
+commit readme . md
+don ' t use use include include include include include include include
+fix typo fix .
+lps - <UNK> update test
+add new image image for <UNK> .
+don ' t use use junit use updated jdk8 . yml /
+removed <UNK> update
+add link link to <UNK> .
+lps - <UNK> rename rename to move proper proper path path to
+setting setting hdfs release to <UNK> .
+fix # <UNK> fix <UNK> in <UNK> class in common class for
+do always use use correct update up version in <UNK> .
+don ' t <UNK> maps maps maps version v4 pom
+add new icons icons
+fix travis
+add missing placeholder file
+test fix
+removed missing semicolon
+change change version to 1 . <UNK> .
+add .
+lps - <UNK> <UNK> sf
+add <UNK> warn . <UNK>
+fix typo
+make explicit explicit explicit explicit explicit explicit type to explicit explicit explicit
+re update
+add travis .
+update spongecommon
+lps - <UNK> fix build <UNK> move to use 1 build <UNK>
+updated <UNK> .
+update screenshot
+update <UNK> to latest latest to latest latest version to latest latest
+add missing missing include linker . h import .
+add formatting
+added @ <UNK> to the <UNK> common tag
+fix <UNK>
+updating <UNK> .
+idea <UNK> <UNK>
+update screenshots
+disable <UNK> debug runner setup setup
+<UNK> <UNK> should use less less new options
+add <UNK> <UNK> .
+lps - 67352 add check check
+removing testing to <UNK> fix typo in <UNK> fix . sh
+minecraftforge / fml update fml to <UNK> <UNK> .
+add add <UNK>
+fix default default <UNK> default version to 10 . <UNK> . <UNK>
+added jdk8
+lps - <UNK>
+added <UNK> .
+fixed <UNK> test compatibility
+fix fix fix issue issue
+update update demo
+remove dead code code
+fix typo
+remove typo
+<UNK> fix <UNK> break break in <UNK> in <UNK> variable in <UNK>
+fix
+fix <UNK> build build
+update <UNK> target .
+fix changelog
+fix <UNK>
+update license
+fix gradle build
+removed revert update from docs docs
+add multiwords to <UNK> <UNK> .
+removed update logo .
+update library
+don ' t use the gradle gradle version settings . gradle .
+update readme for sample sample
+add adding infinispan infinispan cache infinispan to root cache cache .
+fix typo
+fix checkstyle checkstyle build <UNK>
+updated changelog .
+enabled <UNK> .
+fix disable duplicated link in <UNK> in order in order in order
+update news
+setting setting hdfs release to <UNK> .
+add <UNK> method to <UNK> after <UNK> control control .
+default support for <UNK> .
+small small update small small change build small small small small small
+updated readme . md
+fix travis build update
+<UNK> project
+debug reference
+add <UNK> suppression .
+fixed a cygwin fix <UNK> typo in <UNK> fix
+<UNK> <UNK>
+/ / / / / / / / / / / /
+added storm - <UNK> to changelog to update changelog
+update readme . md
+update <UNK> .
+remove extra <UNK> dir
+fix building building building documentation in documentation documentation .
+update <UNK> docs to docs . md
+don ' t clear the <UNK> plugin button button in the last
+<UNK> dummy compile compile try fixed dummy dummy dummy dummy dummy dummy
+fix test
+don ' t set <UNK> default default config config to config less
+update readme . md
+add <UNK> .
+bump version version
+location <UNK>
+don ' t deploy maven release plugin plugin .
+add <UNK> .
+removed definition definition .
+add shippable . yml
+<UNK>
+added added missing <UNK> .
+update news
+add - <UNK> - prepare - common - common - common module
+<UNK> eclipse
+images
+don ' t use <UNK> release release notes in release notes .
+updated changelog
+<UNK> pom pom
+hive <UNK> <UNK>
+fixed typo typo
+new mac mac mac mac course files
+removed unused import .
+<UNK> <UNK>
+updated updated
+update pom . xml
+removed sources
+made fix checkstyle
+fix indent
+add analysis - <UNK> to <UNK> module module
+add javadoc classpath
+update location module location .
+fix fix build build
+<UNK> <UNK> <UNK> <UNK>
+added up up up to the makefile to <UNK> makefile
+added travis .
+set <UNK> images for for release 0 . <UNK>
+added gradle jar
+update build . gradle
+fix project build .
+disable debug debug install install install project project project project project project
+<UNK> <UNK>
+setting setting hdfs release to <UNK> .
+move <UNK> to src / src / <UNK> . java . java
+<UNK> <UNK> build <UNK> to the build build breakage <UNK> on <UNK>
+revert " <UNK> small small small small small test change small test
+fix
+<UNK> <UNK>
+remove unnecessary <UNK> whitespace
+add add <UNK> ' .
+move <UNK> . java to <UNK> . java <UNK> to <UNK> /
+switch back to <UNK> pom . xml
+package name fix
+update <UNK> .
+remove unnecessary debug .
+updated changelog
+update .
+change back to compile .
+<UNK> <UNK>
+<UNK> the includes includes to includes the includes includes to the includes
+updated updated changelog
+lps - <UNK>
+added new sample file file to version .
+updated with new new index . json to include new <UNK> .
+don ' t show show <UNK> type type type type tweak
+fixed stupid typo in <UNK>
+update changelog . md
+add spring - - pom back to pom . xml
+update spongecommon
+include the examples the examples examples in the examples examples the examples
+add <UNK>
+lps - <UNK> rename build <UNK>
+added new os 1 .
+updated pom . xml
+update changelog
+fix check check error error
+<UNK> update travis . yml
+updated
+screenshot screenshot
+<UNK>
+missing missing import
+add fix . md
+update readme . md
+fix <UNK> <UNK> issue
+<UNK> <UNK> don ' t run <UNK> method method method method as
+fix unit test for <UNK> - - - ' release . jar
+use build .
+added added / <UNK> .
+add missing params for <UNK> .
+remove clean import .
+add <UNK> default ui for the ui default default ui size to
+update .
+add add local local signing to .
+update readme . md
+lps - <UNK>
+fix copy for <UNK> exception in <UNK> .
+fix <UNK> fix <UNK> in build lint on <UNK>
+fix <UNK>
+update <UNK> options .
+don ' t <UNK> the cache cache cache cache if the cache
+allow correct correct test name name to allow correct correct name to
+pass <UNK> pass to <UNK> <UNK> .
+suppress suppress <UNK> value in <UNK>
+fix fix typo in
+update readme . md
+lps - <UNK> test <UNK> test <UNK> test test <UNK> test <UNK>
+revert " revert " fix indentation " <UNK> to fix indentation "
+update changes for <UNK> <UNK> .
+added an <UNK> add in pom . xml
+update documentation
+fix <UNK> <UNK>
+updated updated <UNK> to android .
+lps - <UNK> migrate packageinfo
+updated changelog
+fixes <UNK> <UNK> name in <UNK>
+added need to compile <UNK> signing .
+lps - <UNK>
+added <UNK> <UNK> .
+change the scope change to change the scope scope to change to
+update install .
+moved gson to 2 . 1 . <UNK>
+removed unused javadocs .
+rename <UNK>
+fix <UNK>
+remove accidental move <UNK> annotation .
+fixed compile - - - - - target project target project version
+minor fix don ' t serialize <UNK> default
+removed system semicolon
+fixed smack error .
+<UNK> <UNK> eclipse package
+fix resources name in <UNK> name
+fixed space
+fixed cobertura log test error
+add <UNK> <UNK> task .
+fix a <UNK> fix for compiler compiler error error in fix for
+add support <UNK> jar jar
+remove remove <UNK>
+implement <UNK> .
+switched back switched to the pom . xml .
+fixes fixes <UNK> error error error
+lps - <UNK> <UNK>
+fix inline inline inline inline
+ninja fix the <UNK> version in <UNK> .
+fix extraneous <UNK> for <UNK> release to 0 . <UNK> .
+minecraftforge / fml update fml to <UNK> <UNK> .
+change change screenshot to <UNK> .
+<UNK> <UNK> fix for the release for client release client client release
+fix typo in install file file .
+documented documented documented to documented documented documented documented documented documented documented documented
+change build . gradle
+add add .
+remove <UNK> don ' t <UNK> standard <UNK> definition .
+fix typo .
+fixed porting . sh
+update spongecommon
+lps - <UNK> - source formatting
+formatting
+update .
+added missing missing missing images images in the folder file file file
+update changelog . md
+build logging <UNK> fix
+moved <UNK> .
+updated parent to parent version .
+updated log4j . java
+fix # <UNK>
+
+fix check
+fix build build
+add .
+fix failing grails <UNK>
+add <UNK> and ci ci configuration
+fix # <UNK>
+update license license file .
+added added <UNK> requirements to .
+manifest <UNK> corrected manifest in manifest
+fix un fix
+fix <UNK>
+fix typo .
+<UNK> empty empty build .
+make <UNK>
+fix <UNK>
+modify <UNK> properties to <UNK> .
+fixed <UNK>
+fix a recompile windows version in windows version .
+removed fixed p for p / p / p / p /
+fix fix
+update build . gradle
+add add <UNK> .
+bump up version .
+minor minor minor minor minor minor minor minor minor minor minor minor
+fix failing directory .
+update pom . xml
+update .
+moved <UNK> to src . jar
+lps - <UNK>
+fix typo
+removed sources
+update changelog .
+lps - <UNK> source formatting
+todo
+cleanup format pom
+<UNK> - <UNK> moved to all .
+travis travis update
+<UNK> <UNK>
+fix pom build issue
+add missing missing support for <UNK> . java
+update <UNK> to linux version <UNK> .
+update <UNK>
+add new image image for <UNK> .
+bump the version 2 . <UNK>
+update new <UNK> test to 2 . <UNK>
+update build . sh
+added <UNK> in <UNK> to <UNK>
+add <UNK> for <UNK> .
+include include include include include include default include project project project project
+fix for the new redirect redirect style string . java
+including including sdk project project project project project project
+fixed main .
+add <UNK> <UNK> .
+updated changelog
+update <UNK>
+temporarily temporarily temporarily update consistent temporarily temporarily temporarily temporarily temporarily temporarily update
+<UNK> <UNK> ( <UNK> ) is not used in the <UNK> value
+set name for release 0 . 10 . <UNK>
+fix <UNK>
+update .
+fixed typo .
+add clean for <UNK> .
+updated readme
+<UNK> null
+lps - <UNK> - don ' <UNK> <UNK> gradle
+.
+change log path .
+<UNK> jar .
+update <UNK> plugin plugin to version .
+lep - <UNK>
+fix checkstyle
+remove temporary add module module module
+changed version .
+lps - <UNK> move <UNK>
+cleaned cleaned tests again .
+add storm - <UNK> to changelog . md
+lrqa - <UNK>
+added missing missing url url file url file
+added check for <UNK> test file file
+fixed py tests in py
+register register metrics mapping .
+suppress suppress lint warning warning
+update <UNK> .
+updated parent parent to 2 . 1
+added added <UNK> .
+added <UNK> library to jar .
+fix maven package
+<UNK> tostring
+switch to <UNK> to use pom . org
+make <UNK> nopass .
+<UNK> <UNK> naming return type naming .
+setting release <UNK> .
+fix a <UNK> call missing missing call in call in michael .
+rename rename rename to rename readme . md
+updated changelog
+added <UNK>
+fix <UNK> build . gradle
+update submodule submodule
+fix file file file
+forgot to fix the new new package package name .
+fix missing missing in react . js
+update url for <UNK> .
+delete <UNK> logo
+update changelog
+add e . <UNK>
+changed typo in <UNK> .
+explicitly fix source formatting name
+update derp .
+hhh - <UNK> - pom . xml
+fix text
+delete submodule fix .
+fixed <UNK> dep
+remove liquibase update from pom . xml
+fix typo
+setting setting hdfs release to <UNK> .
+added
+update .
+exclude the checkstyle for the checkstyle checkstyle checkstyle to fix the checkstyle
+add <UNK> package .
+updated changelog updated
+updated changelog
+update testing testing .
+make e build . gradle )
+<UNK> openjdk6 .
+minecraftforge / fml update fml to <UNK> <UNK> .
+fix <UNK>
+fix use fix for release release script
+remove unused gradle wrapper gradle . gradle
+<UNK> <UNK> fix <UNK> for <UNK> <UNK> in <UNK> .
+<UNK> compile version <UNK>
+update .
+mark @ <UNK> package .
+small fix big big add big big source icon size in <UNK>
+<UNK>
+fixed build
+remove unused unused logging .
+fix fix typo
+fix changes . txt
+lps - <UNK> - moves icon icon
+bump maven to build 2 . 2 . <UNK>
+update <UNK> .
+fix typo
+add check check for <UNK> .
+update changelog . md
+update <UNK> .
+update .
+add formatting
+revert trivial fix <UNK> test test <UNK>
+lps - <UNK> move icon
+lps - <UNK>
+fix fix for issue <UNK> fix
+add <UNK> script
+add changelog
+increment <UNK> in <UNK> .
+adding build <UNK> to build . sh
+removed unused studio
+lps - <UNK> update
+add new rule for <UNK> .
+include travis ci build cache .
+update travis . yml
+do not force <UNK> <UNK> <UNK> in <UNK> <UNK> in the action
+setting release <UNK> .
+fix typo
+lep - <UNK>
+updated <UNK>
+changes changes . txt
+update <UNK> .
+add update changes for <UNK> . txt
+add <UNK>
+alpha - alpha bump bump version bump
+<UNK> configuration changes
+update style
+lps - <UNK> sf
+lep - enabled
+corrected <UNK> .
+update
+update todo for <UNK>
+add cas file .
+added submodule
+updated parent to parent version .
+update changelog
+<UNK> <UNK>
+update to 2 . <UNK>
+remove call call in <UNK> .
+update build .
+add new icon for <UNK> .
+fixed fixed a minor fix issue issue
+fix testdata
+travis travis file
+fix deploy .
+bump update version to <UNK>
+add <UNK>
+removed extraneous extraneous arg .
+travis
+add better message to <UNK> message to message message .
+remove useless file
+fix <UNK> test test test
+update scala example
+added <UNK> <UNK> to building building build
+fix missing build in <UNK> .
+fixed layout
+add language language properties to language . xml
+update readme . md
+remove unnecessary unnecessary file file
+removed sources
+setup shell setup needed needed to debian commons - driver - driver
+sonar - <UNK>
+removed update
+setting release <UNK> .
+update .
+write <UNK> checkstyle to checkstyle .
+travis travis fix
+fix typo
+update changelog
+delete .
+rename file .
+updated updated changelog
+setting release <UNK> .
+fixed typo
+added added images to <UNK> .
+revert " revert fix " <UNK> fix " " minor " fix
+remove <UNK>
+compatibility <UNK> <UNK>
+add todo .
+fix <UNK> <UNK>
+add travis file
+fix up <UNK> in <UNK> . java
+update for new logo for new new project .
+small change updated exclusion to debug notes . txt
+icons icons
+lrqa - <UNK> <UNK> <UNK>
+this doesn ' t t set set version 0 . 4 .
+added travis .
+paths <UNK>
+add the alias alias to the javadoc to javadoc . html .
+missing <UNK> file .
+<UNK> improvements
+add new todo
+fix broken
+try to get sure new new new version <UNK> device device device
+sonar - - - clean - plugin release version to skip release
+updated updated changelog
+lep - <UNK> <UNK> images
+updated <UNK> to use eclipse project .
+don ' t <UNK> don ' t use <UNK> if if root
+add new <UNK> plugin file to the file issue .
+update <UNK> example .
+lps - <UNK>
+don ' t use <UNK> <UNK> out pom . xml
+set build message to build .
+update build . sh
+fix <UNK> bug in bug fix for bug fix # <UNK> fix
+set compile for <UNK> release
+disable disable <UNK> test to test .
+updated <UNK> <UNK> depend to depend with <UNK> .
+oops
+just just removed update stupid revision in post file file
+minecraftforge / fml update fml to <UNK> <UNK> .
+update <UNK> images .
+delete guard . <UNK>
+fix <UNK> .
+update <UNK> .
+<UNK> <UNK> fixed in <UNK> name .
+temporary <UNK> incremental spock tests <UNK> <UNK>
+updated typo
+update
+grails - <UNK> - grails - <UNK> default default default default default
+bump <UNK>
+fix issue # <UNK> # <UNK> true
+update <UNK> .
+mark tag
+update changelog . md
+set build target to the build . xml to build . xml
+changed changed docs script
+<UNK> changes . txt .
+add ipc exception to ipc strings <UNK> .
+call <UNK> focus focus on on call menu folder folder
+oops fix .
+updated <UNK> <UNK> depend to depend with <UNK> .
+revert fix change merge merge
+fixing build . txt
+fixed dummy <UNK> .
+fixed heap for functional functional tests in the functional functional functional functional
+updated changelog
+updated <UNK> to version .
+remove test
+added gradle . properties
+lps - <UNK> sf
+added storm - <UNK> to changelog to use storm - - -
+updated updated notifications .
+updated updated submodules to latest version .
+added adding .
+updated contributors
+added updated .
+java <UNK> .
+update <UNK>
+remove rm rm .
+setting setting hdfs release to <UNK> .
+updated changelog
+fix <UNK> build in <UNK>
+fixed whitespace in <UNK>
+dispose log message
+support support for android release info
+fix build build <UNK>
+sync
+set default default default type size to size .
+clean travis script
+added missing missing missing missing import . java . <UNK>
+<UNK>
+add <UNK> added
+update <UNK> .
+updating changelog
+whitespace police .
+<UNK> fix
+small formatting fix
+smack - <UNK> <UNK> <UNK> needs not used in <UNK> method in
+add proguard to include <UNK> .
+revert back the checkstyle for checkstyle plugin .
+add note note .
+corrected <UNK> .
+fix " we show " we don ' t show " we
+lps - <UNK>
+update reset icon to add reset icon .
+add missing <UNK> source .
+add new new pic
+<UNK> change default default default default test version to the pom pom
+fixed syntax error
+fix margin margin for <UNK> overflow overflow .
+<UNK> library
+new release files
+update knownissues . md
+bump version to <UNK> .
+remove <UNK> image from preview preview preview
+remove <UNK> options .
+( no cleanup back back back <UNK> )
+oops
+correct typo
+added version .
+add <UNK> .
+fix create <UNK> index .
+added missing missing changes
+remove debug from <UNK>
+use <UNK> update submodule submodule .
+added new new new new library .
+add read <UNK> logging
+fix <UNK> problem
+fixing the <UNK> .
+update changelog
+add clean line .
+fix typo
+update update to build . gradle
+record
+updated .
+fix typo
+updated updated <UNK> config to .
+fix <UNK> problem
+don ' t <UNK> bug <UNK>
+update <UNK> .
+checkstyle checkstyle fix checkstyle
+minor fix minor minor minor fix minor minor typo fix typo in
+mention mention mention in changelog in mention to mention mention mention mention
+lrqa - <UNK> property property property property property property
+travis
+update <UNK> .
+<UNK> <UNK>
+update gradle . gradle
+update typos
+removed
+remove not <UNK> dependency .
+added empty package for <UNK> .
+added jar for <UNK> .
+lrqa - <UNK> sf
+fix <UNK> in pom . xml
+remove <UNK> method override method method .
+grails - minor fix minor minor build minor fix minor minor change
+lrqa - <UNK>
+profile . properties . <UNK>
+added missing missing release build . properties .
+fix <UNK> in <UNK> .
+update changelog
+remove <UNK> call call call .
+updated jar
+update spongecommon
+added new new release for <UNK> .
+fix typo in <UNK>
+lep - <UNK>
+remove switch from sample examples .
+screenshots
+update <UNK> .
+update icon
+fixed typo
+minecraftforge / fml update fml to <UNK> <UNK> .
+update travis . yml
+lps - <UNK> - <UNK> text text ui text text text error
+added modified json class to <UNK> test .
+add <UNK> jar to compile .
+build
+sonar - <UNK> - fix - - ui fix name for the
+updated changelog
+add <UNK> <UNK> to non extensions extensions .
+added added design flag for the <UNK> module
+update spongecommon
+change version <UNK> to <UNK> .
+updated updated to update master to master master
+update preview preview preview
+disable example example .
+update changelog . md
+update icon to fix <UNK>
+removed unnecessary update <UNK>
+moved to credits . md
+fix <UNK> broken build
+update <UNK>
+do do enable enable enable add enable build on release circle file
+update .
+fix <UNK> when no npe when no longer explicitly explicitly return setting
+project project update
+disable no disable disable debug jar for debug tests tests
+<UNK> optional
+add security module to security . <UNK>
+new icon changes
+correct a correct version name to <UNK> correct to correct correct version
+fix <UNK> <UNK> in <UNK> <UNK> .
+fix fix build .
+update plugin
+lps - <UNK> - fix build file file
+delete <UNK>
+fix break break in <UNK> version in status .
+add add <UNK>
+add update readme . md
+added dummy <UNK>
+fixed <UNK> in androidmanifest . xml
+don ' t log output to elasticsearch .
+idea - <UNK> background icon
+fix build
+updating .
+update spongecommon
+added initial spec .
+fixed checkstyle
+update readme . md
+imports removed optimized - import - <UNK> update imports
+add <UNK> test for <UNK> for jetty . txt
+fix whitespace
+fix missing <UNK> in <UNK> .
+update travis build .
+added <UNK> needed for <UNK> jar .
+compile version <UNK> <UNK>
+removed sleep from <UNK> .
+minor formatting fix
+remove don ' t <UNK> formatting .
+lps - <UNK>
+add missing nullable button to add add deprecated <UNK> button button to
+delete submodule .
+updated travis
+fix findbugs build
+update changelog . md
+remove .
+<UNK> <UNK>
+updated dependencies
+remove accidental clean log .
+fix build build
+remove <UNK> in <UNK> .
+updated updated to <UNK> .
+<UNK> <UNK> <UNK> to debug debug bin dir .
+sources
+updated updated changelog
+remove extraneous readme . md
+increase <UNK>
+sonar - sonar fix fix upgrade logs upgrade
+set version version to <UNK> .
+fix <UNK>
+disable this - disable source property for default default directory directory directory
+add <UNK> <UNK>
+updated parent parent version
+lps - <UNK> sf
+fixed fixed groupid in <UNK> in pom . properties
+updated pom to depend on pom . <UNK>
+<UNK> <UNK> .
+update changelog
+updated attempt to <UNK> .
+todo
+fix minor minor minor fix fix issue in <UNK> in fix issue
+update change to use <UNK> change screenshot . <UNK>
+updated dslv dslv dslv submodule .
+update check
+synchronization fixed
+initial 1 . <UNK>
+update library
+typo in fix typo .
+updated changelog
+updated parent version to pom .
+added license license
+update build . <UNK>
+add missing lint in . yml
+change change <UNK> properties to .
+fix checkstyle checkstyle
+updated changelog
+forgotten check missing missing missing icon
+removed item
+moved <UNK> to nopass .
+rename rename to make less less alternate alternate alternate alternate file to
+removed up up to the manual build .
+junit <UNK> ( update <UNK> icon
+delete rouge file entry
+set <UNK> .
+update <UNK> binaries .
+upgrade <UNK> plugin to <UNK> .
+updated <UNK> pom to pom . java
+update <UNK>
+setting release <UNK> .
+<UNK>
+update <UNK>
+fix typo .
+translated for <UNK>
+moved file . txt
+remove unused import
+add <UNK> fix build
+fixed changes in release notes in naming notes .
+add runtime .
+removed commented commented removed from commented line in <UNK> .
+update .
+idea asm <UNK>
+update <UNK> .
+lps - <UNK> update jar
+<UNK> <UNK>
+added icon
+add debug script for <UNK> <UNK>
+add readme . md
+fix build - in <UNK> .
+fix build . gradle
+fix error in android android android component component .
+update update . png
+add <UNK>
+fix typo
+rename <UNK> fix script
+icons <UNK>
+web - - - web - - - web . properties file
+<UNK>
+updated changelog
+fixed ideadev - <UNK>
+add .
+<UNK> true
+adding adding about line note about adding adding adding about line file
+add new method for <UNK> .
+added null for <UNK> .
+lps - <UNK> move test <UNK> test test <UNK>
+sonar - - - ui ui ui ui ui ui ui ui
+lps - <UNK>
+update changelog . md
+oops
+add missing missing missing linker version .
+added screenshot
+lps - <UNK>
+remove unnecessary sketch file
+fix unused definition definition of unused unused strings to use strings strings
+update widget preview image .
+rm rm rm line in rm rm line .
+lps - <UNK> move util ( lps - - move move to
+fix <UNK> fix
+<UNK> fix attribute in <UNK> default default
+lps - <UNK>
+remove unused unused java var enum to the correct class location .
+change <UNK> title for <UNK> <UNK>
+<UNK> <UNK> update
+fix copy <UNK> resolution in <UNK> in <UNK> .
+changed switched to parent parent pom . xml .
+add <UNK> <UNK> memory for <UNK> memory memory memory leak
+update readme . md
+update changelog .
+do not set <UNK> <UNK> <UNK> the global <UNK> default default .
+lps - <UNK> source formatting
+add <UNK>
+add new icon for <UNK> .
+minor minor minor minor minor minor minor minor minor minor minor minor
+fix layout
+<UNK> <UNK>
+add gif
+setting setting hdfs release to <UNK> .
+add new <UNK> plugin in issue # <UNK>
+fix fix missing issue in <UNK> .
+suppress travis .
+whitespace comment fix
+fix typo
+removed new import
+updated <UNK> .
+remove comment fix
+<UNK> fix of <UNK> images
+fix copy test in <UNK> .
+<UNK> <UNK>
+fix compilation problem problem problem with <UNK> fix issue <UNK> from <UNK>
+release note
+update build . gradle
+remove submodule
+delete .
+lps - <UNK> source formatting
+fix fix typo
+increased <UNK> to c . <UNK>
+update <UNK>
+fixed <UNK> .
+removed <UNK> removed <UNK> missed typo
+updated androidmanifest . xml
+delete .
+source formatting
+removes sonar - <UNK> option from default css output to do not
+readme
+fix typo typo
+xerces source variable to 4 . 3 . <UNK>
+added <UNK> osgi to osgi .
+added folder
+grails - <UNK> - <UNK> - default default default to default default
+update changelog . md
+made cleanup final
+update attempt to 2 . <UNK> . <UNK>
+don ' t change cache cache cache cache cache cache cache
+lps - <UNK>
+update build . json
+mark back as back back to back <UNK> back to back to
+add <UNK> back to sample build .
+revert change change version to <UNK> .
+todo
+update . yml
+fix <UNK> build for <UNK> generator
+add update to <UNK> .
+update <UNK>
+update .
+changed default config version to debug build . txt
+remove <UNK> debug .
+fixed <UNK>
+fix fix build .
+/ / / / / / / / / / / /
+icons icons
+corrected <UNK> source source for target tests for <UNK> .
+update localization .
+updated changelog
+use # <UNK> use canvas to use use js js js js
+fix <UNK>
+update <UNK> .
+<UNK> title
+release note
+added bottom bottom on bottom about added the bottom about bottom added
+removed extraneous extraneous android jar jar
+idea build . sh
+update <UNK> images for <UNK> .
+drop not needed flash flash image to the flash version name
+fix compile fix
+move <UNK> to move <UNK> to dir dir to it to <UNK>
+update build .
+fix typo
+added added jdk8 to .
+update <UNK> dependency .
+added up .
+typo
+don ' t <UNK> <UNK> <UNK>
+don ' t allow gwt gwt gwt gwt style now correct style
+remove / code code .
+add changes for changes
+update testing testing .
+remove <UNK> .
+fixed <UNK>
+update <UNK> .
+update
+switch switch to <UNK> version of <UNK> .
+setting setting hdfs release to <UNK> .
+updated <UNK>
+lps - <UNK> moves icon moves icon move move icon to move
+removed jar
+add more <UNK> style to the <UNK> <UNK> .
+grails - review - make use use use correct annotations module module
+add .
+renamed renamed file file to license change file file file renamed file
+zookeeper changes
+missing missing missing missing file entry
+turn turn off <UNK> fixed fixed
+add build
+/ / / / / / / / / / / /
+update todo
+removed <UNK> from <UNK> .
+updated pom . xml
+updated changelog
+add comment
+fixed <UNK> fixed for bug <UNK> <UNK> in <UNK> ( <UNK> )
+lrqa - <UNK> properties properties
+zip
+update readme . md
+source formatting
+remove <UNK> directory from <UNK> src directory file file
+add set <UNK> for dev for dev for dev <UNK> .
+update <UNK> .
+add <UNK> shutdown to shutdown . shutdown
+update <UNK> . yml
+fix the use use use the correct target target binaries to the
+moved test case to hibernate
+fix indentation
+update <UNK> .
+lep - <UNK>
+move <UNK> to nopass .
+update kotlin version .
+close close
+update changelog
+update readme . md
+remove opengl from opengl . jar
+fixed compile compile error error in <UNK> fixed
+lps - <UNK> - source formatting
+test test .
+remove r todo
+<UNK> <UNK>
+fix typo
+<UNK> .
+fix typo in readme . md
+<UNK> <UNK> ( )
+to jb jb dictionary
+sort <UNK> <UNK>
+make <UNK> module name name for better better name / <UNK> .
+build
+fixed spock test build
+undertow - <UNK> fix call call call to destroy <UNK> in the
+cleanup
+update travis . yml
+screenshot
+fix typo in in <UNK> . java
+add test <UNK> .
+com <UNK> - deploy . jar to com / com / target
+configuration not don ' t need the default default default default default
+update <UNK> to <UNK> .
+update build . md
+<UNK> <UNK>
+add new image for sample app
+reverted build properties for <UNK>
+<UNK> rollback
+remove <UNK> update <UNK> .
+fix npe
+added <UNK> <UNK> icon moved to <UNK> directory directory .
+todo changes
+update <UNK> .
+fix typo
+fix <UNK>
+added folder
+add <UNK> update play to play . md
+add new submodule file to <UNK> .
+updated changelog
+fix <UNK>
+setting setting hdfs release to <UNK> .
+don ' t use <UNK> the cache cache cache cache cache cache
+delete delete delete ic_launcher .
+add missing include add file to build . h
+<UNK> changelog
+remove non - grails - plugin default version provider to provider version
+fixed failing test build .
+update changelog
+correct <UNK> support file for <UNK> file
+added wrong file
+lps - <UNK> - - - move <UNK> title back back to
+update .
+update <UNK>
+added support for <UNK> . <UNK>
+fix up some makefiles for the the makefiles for the fix the
+added <UNK> .
+updated updated mail to <UNK> .
+<UNK>
+fix default
+<UNK> <UNK>
+editor editor editor editor name name name name adjust name name name
+move <UNK> files to <UNK> .
+update <UNK> .
+updated changelog
+fix <UNK> warning
+update travis .
+py - <UNK>
+updated changelog
+( no no message message ) is used to no change change
+updated <UNK> <UNK> depend to depend with <UNK> .
+set <UNK> to proper proper internal script script .
+added more for experimental todo
+log log whitespace
+remove unused unused class name
+fix <UNK>
+<UNK> compile version <UNK>
+ideadev - <UNK>
+add <UNK> image
+fix build
+update spongecommon
+fix fix check error in android <UNK>
+release 0 . 0 . 0 . apk
+added new doc typo
+clean up .
+lps - <UNK>
+add build . <UNK>
+update documentation .
+don ' t <UNK> <UNK> test . sh
+fixed typo
+do not update the <UNK> <UNK> the the the size the the
+update changes . txt .
+update with <UNK> .
+tweak <UNK> heading
+update <UNK> .
+removing removing static directory in <UNK> .
+add dev version in <UNK>
+fix default
+add npm
+update compile . jar

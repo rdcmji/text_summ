@@ -1,0 +1,1981 @@
+retina icon
+lrqa - 16928 add new property property
+check videobridge jar
+fix the list of the sample
+set all path to enable all build
+fix possible constraints
+updated changelog
+prepare release checkstyle 2 . 2
+update bower - flow - flow .
+images , fixing the images in the version .
+docs
+setting version to 1 .
+removed circleci ci
+fix windows build
+add javadoc
+lps - 17074
+adding a merge to head
+add bookmarks - bookmarks .
+make nopass .
+test data data data
+add missing import for package plugin
+update changelog
+prepare version to 7 . 2
+set all path to enable all build
+13 version 13 - 13 . 13 - beta2 .
+set the project level
+update .
+fix the proper translations in the menu
+add missing folder to grails - plugin
+update project . pbxproj
+enable rendering rendering for rendering dialog .
+update changelog for storm - 454
+include android dependency in android - app - app
+this # 1
+add index
+update readme . md
+removed openjdk6 to travis ci
+add pimage . setmodified ( )
+fix an bug in uploadmediatask
+added recognizer ( ) function
+use gradle instead of gradle
+fixed typo in packaging
+setting version to 1 .
+lower targetsdk to 24 . 14
+added changelog
+add demo apk
+fixed a shutdown file has been has been closed .
+random random random random in random data
+updated parent version
+added logos
+added releases / releases / .
+add permissions icon
+add tag notes to tag notes
+add storm - notes to changelog
+close method of cached cached constructor
+fixed a actionbar actionbar bug
+lps - 49409 sf
+updated version
+better all info - plugin rule
+prepare - snapshot prepare version
+added storm - 1887 to changelog .
+check travis
+make a static static class to static
+don ' t log tests in the jar
+specify maven release plugin
+sorry
+updated changelog
+fix a scan in examples
+remove old readme
+added warning
+updated todo
+don ' t log log in global log when drop log is specified
+fix incorrect module id in `
+update spongecommon for tileentitypiston fix .
+add .
+add library back to linux library
+defaultjavaprogramrunner - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr - cr creation
+fix reference to appl
+upgrade to airbase 49
+add native install to install - install
+update gradle plugin
+add file for sequence package
+added storm - 1899 to changelog
+idea - idea - plugin plugin
+added a 13 .
+changed gradle properties to gradle
+fix a compilation error
+removed
+update todo
+skip the gradle classes
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+update .
+lps - 52040 - deprecated @ override
+changes . txt . txt
+added new version to the new version
+add file note
+use shorthand class in class
+gradle version 24
+disable access in android transform
+don ' t run input input in input
+mapjoin_mapjoin
+remove posix . bat
+changed idea version .
+fix javadoc jar
+disable travis - ci
+updated .
+fix # 182 warning
+fix checkstyle of javadoc
+remove ntlm - naver module
+updated changelog
+add supportsrtl to androidmanifest . xml
+updated changelog
+updated file to 0 . 0 . 0
+added makeglmmodel test .
+fixed stupid typo in shutdown .
+test test fix
+if a exception if only jna via an exception
+setting version to 1 . 7
+update .
+forgotten c2s truststore - command variables
+adds the max object in the object .
+updated changelog
+set hardware app string
+remove accidentally checked
+removed imports
+add missing tag
+update changelog - 66 - 66
+add storm - 651 to changelog
+added storm - 401 to changelog
+add smackx - migrator
+add @ suppresswarnings
+ensure language object for shell
+tie of new scrollbar
+fixed gradle wrapper version
+add h2o_hosts of sys sys '
+fixed comment
+add spurious clean
+removed xml file
+increase min version to 14
+python change flow window by demo
+added tag for changeset tag
+folder configurations - > files
+forgot to return the crash when launching to the crash
+add the new jar to latest build
+use version
+add icon
+add isplaying ( ) to the objects objects
+updated to target api
+update readme . md
+lps - 53630 move icon
+"
+add words suggested by users
+new build - snapshot .
+fixed compiler in generics
+add xxhdpi xxhdpi icon for xlarge
+don ' t keep the title name .
+let result output
+fix readme
+push version to 13 - beta4 - beta5 .
+revert ' fix .
+remove a newline
+remove log4j jar
+update readme . md
+ensuring
+add support support jar
+lps - 10749 source formatting
+fix style
+retroweave smack - libs jar , which supports java 2 . 6 . jar
+set samples version
+add guava to guava for hadoop - compile
+samples in samples
+still a a test .
+correct test script
+added bigbluebutton version of bigbluebutton
+idea - > apply button is not not apply to the interpreter .
+add support library jar
+commit commit
+fixes javadoc for pycharm - javadoc
+changed surefire release .
+remove app_name
+remove dependency . properties .
+added testserde to check
+remove a line .
+move testbikerental to the correct package
+removed mmultapp files
+idea - 66561
+added httpclient = provided to provided .
+rename to 2 . 12 .
+updated changelog
+test fix
+update .
+add storm - md to changelog
+fixed py - 2679 django django django
+updated to exe 6u16
+prepare to keep latest version
+use more more in constants
+fix margin margin
+set version to 15 . 184 - beta
+remove my vote
+push version to 13 - beta5
+set maven - plugin - plugin version
+update facade image
+mapplotlib checkstyle of checkstyle of checkstyle .
+add project project to .
+added checkstyle checkstyle
+update changelog
+update jportaudio . dylib
+fix findbugs typo
+update changelog . md
+lps - 38288 - admin admin is set to the page
+move the file to correct the groovy typo
+fix test error
+update license
+fixed bug
+set javadoc plugin for javadoc
+sysloglogger logging does not send
+added version of bigbluebutton - bbbvm
+add demo app to demo
+lps - 14606 add new portlet name
+mahout - 1798 remove accidental needed ( )
+add monitoring sources
+changed default to android android 3 . 3
+enable a branch in the release
+issue with ui ui
+gh - 24837 add illegalargumentexception ( )
+updatet minidns
+set maxsdkversion to use project
+added storm - 584 to changelog .
+remove whitespacek
+session session session on session
+updated changelog
+lrqa - 26404 add new property for test
+fix ci heap .
+whoopsie to remove binary
+enterprise folder in clover folder
+remove obsolete library
+remove 666
+added icon for the command icon
+updating readme . md
+revert " fixed whitespace
+add method method method to method .
+added the the the the the the the the the the the the the the the the the the the plugin of the two plugin .
+fixed
+lps - 55274 removes this title
+fix build in setup
+add gradle build to travis build
+added storm - maven to changelog
+add ios image for the device device
+don ' t compile java as java 8 .
+removed a constant
+added width width to width
+added sqldialect
+add stacktrace to travis build .
+lps - 67914 sf
+bump version to running pom
+fix test for this
+changed parent pom .
+return code when creating new code
+push jna jar
+update .
+travis - ci
+removed json2viewflow . exe
+/ / file .
+fix a bug in the outbox list
+added readme
+add gradle task to the gradle task
+added icon
+moved the test to nopass
+added icons
+icon for command icon
+changelog
+add new manifest to manifest
+fix checkstyle report
+add new line to new line in the new line .
+add getserveraddress to singlechannelmongoclient
+added binaries for emma
+fix spacing
+bug with bug with lazy with 1 . 1
+add missing docs manager to indexing list
+disable travis ci size
+lps - 55591 move icon
+lps - 58341 the the modules in the modules
+folder files
+fix maven build
+added parsing of cython typedefs
+lps - 51605 - source formatting
+fixed a mistake in setmodulesresourceid
+oops
+removed extra release from readme
+updated changelog
+zeppelin - 1414 cassandra0
+translated using weblate ( danish )
+add cdv native for native
+sources sources for sources
+upgrade library jar
+white image
+add hammer icon for the two_spiral image
+specify platform level on travis
+fix test
+change notice
+proguard - shrink proguard .
+fix null pointer
+oops
+lps - 41160 - source formatting
+add gif
+follow the default attribute on the favorite portrait
+lps - 54293 sf
+move the link to the release directory
+remove redundant build - ci - build . xml
+removed unused property
+added out files to .
+lps - 53683 move
+fix deskshare applet - zero / zero / plus / plus / plus / plus / plus / plus / main / plus / zero
+forgotten required for webflow - 7
+add publish notes to notes
+proper proguard
+add storm - 640 to changelog
+updating changelog
+add solr notes
+add xxhdpi launcher icon
+removed the real properties
+update gl2 - rest - source .
+remove a new line
+rebuild ia64 - rebuild
+lps - 62787 use the latest
+use groovy - groovy javadoc for groovy - groovy - groovy - groovy - groovy ' s groovy level
+fix bad mistake
+reduced jetty logging
+try to disable travis build
+fixed order of the end
+added storm - 437 to changelog .
+added a value for a listener .
+clean imports
+correct method
+updated readme
+use default dependency for pom . jar
+use different platform options
+icon is adding missing icon
+update " of " " of " change "
+lps - 19623 source
+add values - robots .
+lps - 17102 source formatting
+double double build
+prepared version
+update gradle plugin
+add the default module to the classpath
+fix alignment
+added new jar jar
+changing android url
+lps - plugins enable notifications in notifications
+detect misspelling " doppelpunk "
+use the ssl handler to be the exception in the method
+added defaultcomeslast checkstyle
+revert travis build travis
+updated changelog
+generate cobertura encoding
+fix dashboard in session session session
+revert " revert " revert " of enum - 443 ' s benchmark to hello enum
+update readme . md
+fix compiler - compiler in compiler .
+add changes entry for changes
+enable travis ci
+rename to rename the current rename .
+use default default constant for default server
+jetty - conf - issue - issue - issue issue
+updated changelog
+update install - install .
+fix nullpointerexception
+use java 15 . 15 . 1
+modified title
+gradle plugin updated
+add dev version
+modified test name
+fix root error
+removed checked
+lps - 27200 what - update bundle - bundle - bundle - bundle - bundle - bundle to bundle
+add a a a a a a a a a a window for the a window . js . js . js .
+fix grammar of a hotspot hotspot crashes
+add two icons
+auto_sortmerge_join_5 down limit_partition_metadataonly .
+removing a @ override
+include the lower include bounds in the bounds
+update .
+fixed problem
+remove unused class
+doc changed doc
+fixed fixed test
+new line icon on help
+add storm - 53 to changelog
+use parallel release of travis
+lrqa - add start start start
+updated changelog
+added a changelog
+enable default default for travis
+push version to 12 - central
+added proguard to properties
+changes . txt
+update
+enable a unnecessary v in notifications .
+documented patch in plan
+update library reference to fix after merging pr
+test fix
+add a test
+updated file
+removed netty error
+prepare version bump
+moved hasxpath into java
+pycharm 3 . 3
+updating to latest iocipher head changes
+change version number
+changed idea version to 8
+updated readme . md
+updated function
+update readme . md
+add build for linux build .
+fixed connecting bug in the gpx
+make the default memory level to be defined .
+update gradle script
+update doc commit pointer to latest new commit pointer
+some some types where means are be now .
+simple simple simple only
+lps - 15939 sf
+update gradle lib file
+fix type error
+quick should be good
+push version to 13 - beta5
+updated .
+update .
+add # 1 . 1 . 1
+add docs and > guide
+prepared . properties
+wfly - 5815 default range
+remove tune key
+update changelog
+remove runit_nopass_rdoc_prcomp .
+updated .
+add xsltproc
+" add " " " " " " " " " " " " " "
+fix for bluetooth . ticketcountavaliablefor .
+lps - 62763
+add new cursor to the new cursor
+add storm - 555 to changelog
+fix java_home in match class
+updated changelog
+fix up previous warning
+added method method in neoapp . neoapprelationshiptype ( ) method .
+revert " in new user in the user
+update changelog . md
+fix eclipse
+use different path in flow key .
+fix ` category ` category `
+disable default profile profile
+lrqa - 19074 add missing property
+adds build build build
+travis ci script
+set maven - javadoc plugin
+rename to linkbubble
+updated jar
+fixes groovy - 500
+eliminate unused path
+add scala native to scala build script
+typo
+add c2s truststore version
+use different task task
+add session page for user page
+set cloning button for cloning classes
+added storm - update changelog to changelog
+removed unnecessary device memory optimisation
+increase style style for bullets
+set release version
+fix missing violation texture
+revert back to allow default default default default default
+remove pos jj from ' fouling '
+create readme . md
+update travis config
+gradle properties
+travis travis and travis and travis
+removed pdf file
+remove usr - dyno - env .
+publish comment to get javadoc generation
+increment gradle version .
+using a delegation ( ) to save using null
+alpha - 23 / 256 version bump
+added p5 . png
+update submodule
+check check in git plugin
+update assets
+add travis ci
+hide focus of the dialog dialog .
+changed parent version .
+remove unnecessary unnecessary line in unnecessary line .
+changed a whitelist to fix # 31 .
+updated slovak size to show and convenient action 78
+changed parent version
+update readme . md
+update spongecommon for tileentitypiston fix .
+revert " update to proper proper value
+use the build tools
+changes update
+update travis build to find license
+lps - 47071 sf
+add assets for netflixoss branch
+making a new value in the package .
+nullable
+fix scala test for java 1 . 8
+update to last 3 . 3 . 1
+fix comment
+lps - 56692 rename
+use a a test in the test .
+add storm - 803 to changelog
+test test
+rename
+travis travis
+use a string ref
+removed log4j jar
+add contributor evans
+changed gradle properties to .
+fix config
+added gradle version to gradle title
+don ' t use right right of default
+update icon .
+add images images
+updated changelog
+fixes java 1 . 5 compatibility .
+add changelog - simple changelog
+addressing clean jar
+add screenshots
+updated changelog
+adding words suggested by users
+update media icons
+readme
+removed script
+don ' t always this .
+added a deploy deploy file
+fix indent
+change gradle build .
+add icon for rg3 app
+added a tag file for changeset tag
+updated .
+update android url
+changed to 14
+lps - 1726 add " / doc "
+lps - 3959 source formatting
+module module
+webview should be a webview calls .
+minor tweak
+use idea - plugin plugin for gradle plugin .
+updated changelog
+set to version 8
+add keystore
+remove unnecessary line
+resize qrcode
+added readme . md
+travis travis
+remove overridden test
+remove unused constant
+fix test error in documentation
+setting version to 1 . 7
+added simple 7
+jsqlparser now < > native
+updated icon
+fix test case
+removed whitespace in docs
+specify basename in uberjar javadoc
+update changes
+lrqa - 46862 - properties
+changed a bug in the factory .
+
+pass ref ( )
+updated changelog
+fix typo for standard build scripts
+removed unnecessary assets ( )
+fix memory
+removed neo4j - neo4j - neo4j
+changed parent version .
+use the lower usage to use the usage
+added storm - portlet to changelog
+update gradle build
+bump version to trim and and better version
+remove an code
+updated changelog
+revert ' disable pom - command - command
+fixing compiler warning
+added storm - 1941 to changelog
+flush cname
+support for compilation
+removed credentials
+remove redundant static modifier
+removed accidentally checked
+noticed revently ' t display button don ' t handle successfully ' t successfully in config .
+added gif
+update pom . xml
+added missing benchmarkrunner config for svenson json databind
+prepare version bump
+fix typo in nativecomponentsandroid
+update travis
+log - npe fix
+fixing build
+remove unnecessary todo
+rename file to 2 . 2
+update spongecommon for tileentitypiston fix .
+updated test
+update gl2 - rest - source .
+fixed typo
+bump travis travis configuration travis
+remove invalidate notification
+revert a unit unit unit unit unit unit unit unit unit unit test .
+added missing translation + + + + + + + + + +
+travis - ci
+added close code for close .
+add changelog
+icon
+reload options in options
+stop preloading class is not defined
+update readme . md
+fixed typo
+fixing # 41
+fix typo in layoutpanel hotspot
+set up the timeout - snapshot
+add support jar jar
+run run encoding
+remove screenshots
+prevent new state of state
+add section to list in list
+add scalability for overview documentation
+ideadev - 1169
+fixed gradle configuration
+adding missing file to .
+don ' t run console in tests
+fix test error
+update runningondevice . md
+fixed travis build configuration
+fixed the source in the jar jar
+removed libraries and wildfire icons
+fixed stupid . py . py - > py - > stupid .
+fix param param
+fix ci ci
+rename readme
+remove extra - android - plugin
+update gl2 - rest - source .
+set up dependency to false
+update readme . md
+add support jars to support crash
+update android version
+fixed crashes in py . py ( )
+prepare to keep latest version
+push version to 12 - central
+do not merge always always null in subscriber line
+fix crash always not not always always always always always always always always always always always always always always always always always always always always always always always always always always always not always always not null
+don ' t clear the reference to the keyguard value when the reference
+fixed stupid npe in logback
+add mpackagebroadcastreceiver . enum ( )
+init
+create readme . md
+add the ' d '
+favicon
+added storm - 1473 to changelog .
+fixing travis configuration jobs .
+use a var in the var .
+respect respect respect macro for community - community - community macro
+ideadev - 1 . 1 . 7
+update changelog
+update gradle deploy .
+update changelog
+typo
+lps - 53683 moves icon
+add design design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design and design .
+add storm - user to changelog
+fix @ redo
+add storm - 375 to changelog
+adapt some media logs
+updating images . md to the wiki folder .
+fix hash in ` view ` in ` view `
+changed the culling value to rectangularshape
+remove extra sleep
+only indent
+added a path to make the target target system - build
+remove a builder
+fix reveal
+updated files to index
+change gradle build
+update project
+added activiti - plugin in the plugin .
+add proguard configuration to travis
+update .
+apply idea - idea - idea to idea - idea
+updated the more extractor .
+lps - 66660 forgot to make sure is not fetch
+setting version to 1 .
+review - review in contributing . md
+fixed a bug in opengl ( )
+lps - 40766 remove old zip
+added chinese style to .
+added a assert option for testing
+create draft file
+enforce auto - time
+lps - 50228 - source formatting
+ideadev - recursive recursive recursive ( ideadev - recursive )
+update proguard . gradle
+time - time time
+add hadoop - hadoop - hadoop .
+add hammer command command
+adds tostring ( )
+removes the project settings . gradle to the gradle project
+added onsequencestep
+added googlecode jar
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+add changelog
+minor align
+write the lookup in the fake doesn ' t write itself
+lps - 41438 sf
+use lazy . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 .
+update windows bullet bullet native bullet .
+fix field_type_null build
+updated the build error in travis
+rename header
+push version to 13 .
+silence debug build for debug build
+got changes . txt . txt
+remove unused density texture
+update pom . xml
+revert gradle wrapper to gradle 1 . 1
+added circle ci script
+added javadoc to comments .
+use groovy - core dependency by default
+add function msg in function
+update spongecommon for tileentitypiston fix .
+comment linting
+add two screenshots
+add an ensureopen method method .
+nullability should be a license know
+add a @ hide @ to suppress .
+fix a bug .
+update art . gif
+setting version to 1 .
+includes the notice in the release
+revert "
+rename file to rename to rename directory
+prepare - snapshot
+remove javaversion task
+new new group name
+add eclipse project to .
+missing missing import .
+update library reference to fix after merging pr
+changed snapshot version
+add clover list of py . py
+fix typos in readme
+rename file to rename file . md
+update changelog
+readonlystatushandler is access
+update mixin . gradle
+adding cname file for now
+changed gradle properties to .
+do not dumb based based mode
+updated gradle . properties
+"
+compile run
+fixing warning in debug ci
+set app app app to app
+update idea jar
+add missing import to allow style
+upgrade to 1 . 1
+lps - 62787 use the latest
+one a todo
+prepare to keep latest version
+lps - 1715 removed duplicate icon
+lps - 57905 deprecate portal
+upgrade to publish snapshot
+fixed module module module to module
+update readme . md
+install install install install in install . md
+updated recovery .
+trying to fix between spec
+fixed bug in bug
+don ' t show unsaved region in unsaved bar section
+forgot to provider
+change build . gradle
+fixed config in config
+change version name
+added getter for stats class
+avoid merge in avoid symlink
+update location module
+removed test
+travis - liner
+added screenshot
+adds maven build to maven build
+fixes an author in english
+added the relativepath to the build so that temporarily use the jar
+fixing changes
+add screenshots
+prep travis
+updated changelog translation
+add scalability . md
+gdx - libs . jar .
+small link in system interface
+added missing file
+testing installation installation
+update news
+add new image
+updated contributors
+add basic script .
+lps - 28944 source formatting
+move to dynamic java 6 . 6
+added threding to index to index
+elseif
+update bower . json
+revert " some javadoc option .
+moved the test to nopass
+add dependency dependency
+updated changelog
+added gradle gradle to gradle version
+fix samples dependency .
+update audioplayer to speed .
+version 0 . 0 .
+use compile of compile test
+added stub to true
+removed index . js ( )
+update
+added * . xml to license .
+setting version to 1 .
+add dependency dependency for dependency
+updated version to 8 .
+add usage usage
+add camel - script to script
+fix ios build
+removed library reference
+lps - 45043 source formating
+update changelog - storm - snapshot
+added comment
+fix quality
+clean up imports
+set all path to enable all build
+remove extra line
+updated changelog .
+remove unnecessary information .
+typo .
+disable parent - deny - uncovered - uncovered - uncovered
+lps - 62557
+lps - 64382 add language keys
+icon for idea
+fix bug in the selector
+updated screen shots screen
+updated changelog
+fixed npe when npe is found
+update location module
+lps - 62787 use the latest
+removed outdated outdated name
+disable test start for ci ci .
+update version to 1 . 14 .
+set jdiff version
+remove unused code
+added a new script file
+proper openid - osgi - osgi - proper proper
+fixed bug was not delete path .
+update icon . png
+push version to 13 - beta5
+changelog changelog
+updated dependency sample to non - dev
+revert " add " checkbox to " checkbox .
+update readme . md
+add missing icon
+add demo
+add stub ( # 1012 )
+add function space for macosx space
+add jdk include to travis ci
+gradle plugin
+rename
+reduced test command .
+added java java options
+travis ci
+13 version 13 - 13 . 13 - beta2 .
+updated version properties
+lps - 67281 add dtd
+fix ec2 for prod ec2
+update dependency . gradle
+don ' t check error in method .
+lps - 7116
+add storm - 1596 to changelog
+updated one more images
+add hadoop - hdfs - hadoop - rule .
+minor a minor of a new list of a list of a " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of " of "
+update visualvm image for documentation
+fix typo
+skip javadoc plugin
+remove warning in method
+added dependency dependency
+typo
+don ' t show newline from test generation
+don ' t run the the gradle level
+test readme
+fix incorrect pipe in rctgeolocation
+rename gradle
+add travis - ci to travis build
+lps - 63528 move jsp file
+deploy a test file
+fixed typos in jmm
+lps - 58562 move unit test
+rename readme . md
+added explorer2 module for the module
+adding exceptions
+add some build to build
+make tests
+made now method needed
+lrqa - 26506 use default
+remove outdated intro
+support support exception in support
+set maven - plugin - plugin to plugin
+don ' t change title
+update travis config
+minor update to minor in minor spec
+add new jar
+remove unnecessary dependency
+update readme . md
+give a comment in a test case
+move id in the assembly .
+support test notes
+removed unnecessary post - javadoc
+fixed module jar
+update android library
+update imports . md
+added readme . md
+fix typo
+fix a indentation in compilerexecutor . cpp
+test
+add docbook and images and and acknowledgement
+remove some unit dependency .
+update .
+updated readme
+lps - 67504 rename stub
+setting version to 1 .
+fire a soft task .
+add missing document in linux ( )
+update pom . xml
+lep - 7031 - icons in the icons
+fixed travis
+add dependency info .
+groovy test is no test
+new size
+change version
+added .
+lps - 55252 source formatting
+add subprocess to shutdown ( )
+typo
+fix issue
+added readme file
+add travis ci
+update spongecommon for tileentitypiston fix .
+use it , not used , it was now out , not used out out
+added shadowremotecallbacklist . class to robolectric .
+update screenshots
+libs - libs with older libraries
+updated aspectj include .
+remove exception exception
+attempting to correct column in docs /
+fixing node . xml
+fixed import .
+dictionary to dictionary
+added smaller screenshots
+add sys import
+make help visible link to help line
+idea - 136064 quick make history changes
+lps - 67352 add check ' annotationusestyle '
+testing line
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+update changes . txt
+decreasing default default max to connections
+running running doc
+lps - 55103 format
+add encrypted encrypted repo
+removed debug test
+fix broken docs in documentation
+new screenshots
+remove unnecessary code
+cosmetic change
+remove mavenlocal from gradle
+fix a bug in the fake - sizes
+organize imports
+disable children as the javadoc library
+preparing version
+update changelog . md
+remove worst empty line
+better placeholders
+gradle plugin
+remove duplicate task
+update multiwords . txt
+moved the intro image
+update library reference to fix after merging pr
+don ' t set groovy property
+fix gradle block
+parent parent module
+changed example example in example example
+add missing classes to call settings
+update changelog
+use maven android plugin 8
+use specification of specification hosts
+update news
+setting version to 1 .
+added invalidatemaster method to outside outside .
+help topics ( py - 5122 )
+force max version in notice . txt
+updated changelog
+update .
+add hero photoshop file
+fixed encoding of false script
+add missing @ annotation to the valid jsdoc annotation .
+fixes if if cause if return bin - bin values
+fix a typo in enderpearls .
+idea - compatibility with default compatibility
+add storm - 1745 to changelog
+updated a typo in readme . md
+source formatting
+remove unnecessary example
+mention authors . csv top updates
+add reference to docs . md
+show dpi progress name .
+push version to 226 .
+fix npe in 8143
+proper whiteboardaccess for options
+fix missing error in readme
+add .
+bump version
+missing pre - > the submodule
+set maven plugin to maven plugin
+adding .
+remove overridden import
+set shippable build
+adding a photoshop checker file
+add new adapter adapter to adapter
+update news
+add cloud - gce module
+update .
+add scalability . png
+proper port in autoexpandingtextinput docs
+updated changelog
+bump version to 100 .
+auto_sortmerge_join_5 down limit_partition_metadataonly .
+fixed peer - > device
+update introduction course
+imports
+add th line of extractor . alert .
+updated changelog
+set intellij base to the root
+remove unused jar
+fixed variable of variable
+making a text width
+restore kuromoji plugin
+provide javadoc javadoc for javadoc
+update location module
+add missing include in linux
+remove duplicate ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of ` of `
+add notice
+add travis ci
+prepared title changed title .
+added gradle jar
+prepare for release
+make gradle push gradle plugin
+update install - install .
+added hammer icon for the installation
+setting version to 1 .
+rename deeplearning .
+add the build ( ) to hidden .
+gaussian fixes
+revert unnecessary thumb thumb
+rename pt_br translations file to korean
+fix syntax .
+added travis config to travis config
+rename generickmlbikerentalsource . json .
+set to install - aws - build
+renamed changes . txt
+add netty dependency
+remove unused build for makefile .
+updated changelog
+remove newline
+default default default path to use default default build .
+adds tostring . tostring ( )
+include h include for h h h
+updated changelog
+lps - 13776
+add new apk
+added threding to index to clear purposes
+show pending global to show pending project in the global
+fixed minsdkversion
+added storm - 1120 to changelog
+added saxon to top - modules
+update spongecommon for tileentitypiston fix .
+include server examples in the build .
+changes - 1547 some changes
+lps - 57110 move basestagedmodeldatahandler
+travis ci build
+update pom - reduced - version
+added storm - rb to changelog
+add ios class to ios control
+add - info to travis
+add new jar to latest build
+updated to latest
+remove bouncycastle library
+fix headers in headers
+add readme . md
+update readme . md
+create the server stuff after the end stuff
+add missing task files to the core jar
+update gradle build . gradle
+enable encoding encoding
+added travis ci file
+added layout script
+move import to 1 . 1 .
+fix textarea of the line
+remove explicit from travis build .
+add .
+update readme . md
+lps - 56505 increase default cache to avoid cache
+fix the comment
+changed library in library
+fix build
+remove the version file .
+log message is a new message
+minor didn ' t remember between assertion between two test .
+fix stupid reference to using using using reader using using reader using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using using one .
+suppress unsatisfiedlinkerror
+remove unused import
+update readme . md
+lps - 51439 move layouttestutil from portal - test
+make a test in test . cfg
+fixed typo . txt .
+added camel - yammer in pom
+update readme . md
+fix # 1049
+update jar
+lps - 66925 move file
+updated changelog
+fix our npe in our panel panel
+include netty level
+lps - 6055 source formatting
+added readme
+make the default test scope as default
+travis - android - android build
+added sources to redist
+remove the sysout flag .
+make large nopass .
+fix source error
+remove erroneous line
+idea - idea plugin
+renamed an unmodifiable in order
+removed system . println
+applied smack - applied ( )
+added file
+the mavencentral on the gradle level
+give a heap - robots . sh
+more more output for all tests
+add javadoc task to the build .
+make the message in the package
+add support jar to projec
+remove a comment
+fix a newline in stub
+upgrade parent version to 2 . 0
+open leak removed
+lps - 50752 move to 1 . 1
+idea - 54765 lambda separator fix
+remove between between between between between between between between between between between between between between between between between between printer
+upgrade to apache apache jar
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+updated dashboard .
+/ / / / / code . apache . org / bugzilla / show_bug . cgi ? id = 45628
+windows windows of windows
+updated xpath name
+remove daoexample module .
+adding .
+removed scalar_intersect from exact function
+protect should be invoked
+fixes groovy - 500
+update spongecommon for tileentitypiston fix .
+lps - 40381 - source formatting
+update .
+set the travis . java set to the correct java
+add logo
+add storm - 66 to changelog
+multiple multiple multiple loading for multiple multiple loading .
+rename en code to correct
+changed parent dependency to use parent pom
+fix compatibility
+fixed the saving book in the first bar
+version bump
+remove runit_nopass_rdoc_prcomp .
+another build fix
+added .
+moved the file to core - core
+update .
+fixed typo in java change
+fix license in license
+added cython to py - py .
+set version to 1 . 8
+remove a misleading variable to use a variable
+prepare - 2061
+fixing travis config
+fix npe ( ) to null
+add a mac variable to be used
+fix a bug in the viewport
+check in check .
+remove a annoying stream titles
+update windows windows dll .
+export ] for tic canvas
+fixed test data
+gradle wrapper
+add ci ci
+bump version to 4 . 4 . false
+update behavior
+revert " remove import
+add pom . xml to pom
+update .
+added guava jar
+lps - 35743 not thrown
+move test name from test . java
+removed jar
+update changelog . txt
+add missing module module module module module
+updated todo
+add - - - - - - - - - - - - build - tests
+update to deploy release
+update .
+fix npe
+use patch version of debug patch
+add support support for support key
+updates to new new mac glibc of glibc
+add index in index
+add docbook and images and and acknowledgement
+changed gradle to gradle project
+edited a new - aggressive - startup
+define openfire file for openfire define build
+ensure should be defined .
+add one to changelog . txt
+fix typo
+fixed forge ore code
+add dexguard rule
+fix classpath to sample package
+add new class to the new
+updated changelog
+memory optimized
+pom is not optional
+bugfix in class in class . m
+use system - compatible - system - bit
+fix for issue
+update .
+fixed compiler in generics
+fixing failing logic
+removed a google link in readme
+fix issue
+lps - 62787 sf
+prepared next development version .
+update to use gradle level of application . gradle
+add new new version
+update libs .
+osmand ant plugin
+update .
+remove otp - module module
+fixed a problem
+lps - 61793 rename java file
+remove liquibase - osgi module from pom . xml
+added storm - 1709 to changelog
+lrqa - 26694 use default
+path to fix ant url
+send file file
+( no test )
+filter filter filter
+make action activity is not used
+scope on gradle
+upgrade to parent version
+add - - add test script ( # generation )
+adds support library jar
+update jdk version
+fix typo in android library
+fix build
+km2 .
+minor handles things in method .
+setting version to 1 . 7
+the the the the the the the the the the the the the the the the the the the the the the the the the the the first state in the first bar
+rename readme . md
+updated changelog
+added link to bigbluebutton . md
+fixing build
+update submodules modules
+renamed file name
+forgot to git git
+fix typo
+minor rename
+removed swp file
+changelog
+change the config script
+add to add source option to work
+fix signing
+update gradle - iconics - http - m2repository
+include the project in the release project
+remove unneeded line
+remove netty submodule
+update idea - idea - plugin
+revert " disable pom - level
+update readme . md
+setting version to 1 .
+added binary file
+travis config on travis
+add checkstyle tests
+add package to pass to copy
+updated changelog
+updated changelog
+testing installation installation
+revert " update
+added travis
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+removing name in episodesfragment
+add jetty - start command command command command command command command command command
+build .
+removed class from class .
+13 version 13 - 13 . 13 - beta2 .
+update .
+added missing namespace for tag
+less updated color of tablets
+ea - 57805 - paste in a usage in usage in usage statistics - statistics - in a statistics usage
+fixed tests .
+no need
+fix a warning
+changes . txt for cassandra - 1800
+lps - 50900 move icon
+update to idea - idea - plugin 2 . 14
+update roadmap . md
+non - 65093 renaming name name .
+keep javadoc of now in .
+added storm - 747 to changelog
+commenting out as wip # magiclinksignin
+adds mavenlocal to repositories
+fix width width
+add dev config
+lps - 68937 move icon
+lps - 24444 source formatting
+fix wrong import in import
+to .
+updated changelog . md
+too commit
+use two of two
+removed some files
+updating libs with google libs
+added missing namespace
+add travis ci
+enable caching of cache cache
+handle drag of drag when calling long .
+setting version to 1 . 7
+fix reporting color when gradient is not set action of gradient .
+update
+add .
+update changes . txt
+update upcomingchanges
+update dev . txt
+add 666
+alpha - 28 / 321 version bump
+adding adding build to gradle build
+es es request
+lps - 33739
+lps - 52675 add ant to ant
+removed cname in example
+fixed travis build configuration
+update win32
+added git channel ( git )
+add a submodule for git module
+changed parent dependency to use parent pom
+update changelog
+add android functions to fbobjc
+fix version
+removed papplet .
+add the logging to the gradle ci
+add globus
+remove excess
+fixed test data
+added travis ci configuration
+fixed unit build
+change package name to comply
+don ' t accept " leereichen "
+removed unused jar
+fixed travis ci
+change to id in the plugin .
+remove unnecessary file
+test - test
+fix deployment
+keep commonscompress for desktopfilters .
+add missing output to output
+fix a bug in landscape button
+add bootstrap idea - bootstrap for idea build
+update readme . md
+remove outdated file
+removed jar
+remove unnecessary jython - server .
+fix metrics of metrics of mssql video
+accidentally did not a class of a class
+setting version to 1 . 7
+added .
+make checkstyle checkstyle
+fix travis
+fixed pom . xml
+added storm - rb to changelog
+remove jre . jar
+renamed the file of the plugin .
+update changelog .
+setting version to 1 . 7
+not unnecessary new file
+added version of the gods
+fix source , go remembering to set log message
+fix incorrect usage in usage .
+check ideavim for compatibility
+javadoc
+add a store functionality to the store functionality .
+added travis ci configuration
+update redirect to reflect redirect
+add " icons , " icons , " icons , " re "
+change security - security . json to security . json
+icon
+lrqa - 69044 - start start
+use newline of illegal hotspot .
+added travis ci configuration file
+target target log level
+added todo to groovy tag
+added a check check for a check
+lps - 1070 add new icon
+revert "
+removed a init init after creating init
+alpha - 28 / / code code
+increase the version of the parent pom
+updated changelog
+add image for macosx image
+prepare - snapshot
+use stack use stack stack selected stack .
+bug in order of the circular address
+add getter
+lps - 52554 source formatting
+revert "
+add .
+more strict ( more strict )
+add exchangenode to graphviz printer
+update gradle . properties
+replace an index in the ` api `
+change version
+removed tpc jar
+remove old documentation image
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+add and and and and and and and and and and and and and and and and and and and and and and acknowledgement and and and and acknowledgement
+fixes onadapterabouttoempty call
+remove a comment from javadoc
+update rxjava . md
+remove unused import
+added gradle - core - task to gradle script
+updated changelog
+fixed travis build configuration
+fixed gradle version
+increased heap on full server heap
+set mockito to set cached constructor in constructor
+rename to linkbubble
+added missing namespace for tag namespace
+update changelog
+typo
+update gradle . gradle
+update changes . txt
+ipc exception
+diagnostics focus in diagnostics line
+remove unused preview icon
+change version
+remove inout
+added two char to license
+gradle version 24
+fixed heap tests for functional tests
+updated changelog
+specify surefire version
+lps - 51532 - dependencies
+gradle gradle change
+lps - 48927 source formatting
+added storm - 464 to changelog
+fixed travis configuration .
+updated submodules
+add build_tmp to .
+add self file
+updated .
+fix last assembly
+changed to fml
+remove old files
+setting version to 1 .
+updated changelog
+add gradlew to test
+javadoc javadoc
+notnull p4 to p4
+update project
+fix travis build
+sync
+added error error for capture component
+update .
+revert import
+fix unit data data
+updated changes . txt for breton
+fix gradle dependencies in gradle script
+updating changelog
+fix typo
+fix search search script
+fix broken ( )
+fix typo
+revert proguard from proguard
+fix checkstyle
+document patch
+reinstate * in docs docs
+update style .
+lps - 46229 divide ' configuration ' in configuration
+update icon .
+edited ping ` s class
+new icons
+report report report for now
+don ' t run title .
+fix width of width of event
+add support library to use new library
+add demo adapter
+update knownissues . md
+update to r08 - snapshot
+remove a low collected icon .
+remove unused import .
+annotated by safevarargs .
+removed gradle jar
+add changelog entry
+add and store jar to upload
+add corey downing to .
+revert " set to hide "
+incremental javadoc to incremental maven configuration
+exe exe exe
+changed to git submodule
+added a package file .
+clear auto - app " dialog .
+correct window . js . window . window . js . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window .
+fix typo .
+update changelog - - - - - changelog
+add razorrepository crash to crash
+fix typo in doc config
+update app version to main
+record
+.
+changes - changes add changes . txt for cassandra - 1382
+update example . yml
+correct window . js . window . window . js . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window . window .
+finish uploads
+reset a picture
+message message * * *
+add default log tool tool
+changelog
+lrqa - 29213 add property to new property
+fixed travis config
+changed version number to 100 . 95
+add asmack to use jar of googlecode
+add android path to android project
+removed a reference from it .
+remove outdated pdf slides
+clean - conf
+correct package in license . jar
+exported lib jar
+lps - 29462 rename changes
+specify the root java size
+remove a class
+fixed typo for grails - plugin
+lrqa - 26186 add new property
+added a file file for deploying file
+add build sources to build sources
+additional fixes for grails - additional additional additional additional additional additional additional additional additional additional additional additional additional
+add storm - 1596 to changelog
+fix long content content content bar
+new jar jar
+update spongecommon for tileentitypiston fix .
+rename plugin name to false
+fix translation
+fixed the param in the bottom
+fix gradle properties in example properties
+add manifest
+update gifs
+add button button
+address out address address
+minecraftforge / fml @ 570faeb790745c35403c67fabab57651b71da576 fix the dispatchers in the saveinspectionhandler
+remove travis config
+lps - 34206 visual formatting
+added small diagram
+add last last last binaries
+revert " add default threads level
+fix ui size
+updated changelog
+export java_home in init init
+add multichat icon
+update spongecommon for tileentitypiston fix .
+push version to 13 - beta5
+update doc - authentication .
+update screen
+removed extraneous naming from naming
+update changelog
+round globus
+need to get rid of the simple
+rename .
+adding websocket module to the top level
+updated idea version to 14 . 04
+added circle ci configuration .
+gh - 471 - add email of travis
+return clipbounds value
+changing android url
+disable tests for tests
+fixing guava dep
+add osgi infinispan to the main pom
+less two less icon
+test file
+fix crash in always always always always always always always always always always always always always always always doing crash .
+fix javadoc
+use maven maven plugin version defined
+add missing file
+remove a obsolete icon
+allow cases - line option
+accept ' indices '
+update readme . md
+add check - netflixoss check
+use the default javadoc version .
+don ' t work on the gradle
+idea - 83589 value in idea - 17972
+set javadoc configuration in javadoc
+cleanup
+update spongecommon for tileentitypiston fix .
+added unicode file
+skip maven plugin plugin
+updated readme
+remove unused imports
+add version of version of dev version
+fixed a rule rule
+fix bug
+use global global build
+add truth support jar to knx
+push version to 13 - beta3 .
+remove sleep 3600
+sparcematrix - warning
+only an an exception error
+lps - 58931 not needed anymore
+add tree tree button
+removed error
+added authors . txt
+lps - 46537 - this this should be this
+added storm - 1596 to changelog
+updated .
+minor css of css in css
+fix travis build
+remove the bug
+build should notify
+remove docs
+new plugin jar
+dist
+removes this from win
+updated changelog
+grammar readme
+fix properties
+sonar - sonar - sonar - sonar - sonar - sonar - sonar - sonar test of sonar
+push version to 13 - beta4
+making using testing function
+fixed
+fix missing @ override
+changed parent version .
+lps - 67914 sf
+set all path to enable all build
+updated parent version
+change super . shutdown ( ) in shutdown .
+added changelog entry into changelog
+move dependency - test - test
+added checkstyle checkstyle
+start start in quick start
+update visualvm image for documentation
+updated dslv build
+typo
+synchronization with assert branch
+adding whack jar
+update library reference to fix after merging pr
+update ie_dom .
+updated changelog
+updated version of pom . xml
+added license header
+use android android tests android tests
+remove travis
+prepare version codes
+add newline at eof
+updated changelog
+icon added
+removed bottom character in the bottom character
+change test to nopass
+improve xxx xxx
+this # 1
+new icon
+removed copyright .
+set to master
+update windows bullet native native .
+set gradle version
+update platform - 8 .
+remove unnecessary allowbackup
+setting version to 1 . 7
+added service_graph image
+update authors
+fix enum type
+push translation
+renamed filename
+remove unused warnings
+update package . dylib to git git script
+reduced release of test notes
+package file correctly .
+remove unused file
+add travis -
+cvs asm
+fixed an error in penntreereader ( )
+lps - 54745 update
+adds library to use library
+add new flag icon to the new icon
+update to install - dependencies
+added readme
+exclude scripts to include build . sh
+fixing path in grails - reactive
+disable native native location to native
+removed old bigbluebutton
+add 444
+fixed missing warning .
+fixed documentation in documentation name
+new icons
+running running modules in running modules
+a a test data in the test
+updated japanese translation
+npe is module
+added target files to .
+changed timeout
+adding exceptions
+add isclosed to hex .
+break after the end after the process has been has been break
+lps - 51439 move to portal - test
+sonar - 5718 small ui fix
+lps - 49936 add the zip to the build .
+update changelog
+remove unused jar
+change wrong code for wrong - snapshot - - - - > 1 . 1 . 1
+add bubblechart screenshots
+lps - 65607 unable to portal - osgi default default
+remove js file
+use light rendering of the rendering of the user .
+change game category image
+remove an comment .
+lps - 63925 move portlet file to correct portlet
+fixed margin
+fixed doc naming
+include all integration .
+remove velocity comment from velocity
+changed version to the code .
+added userdao functions name
+tests on tests
+changed parent version .
+fix debug bit .
+added link to readme
+updated changelog .
+add should should defined to .
+lps - 7433 source formatting
+update readme . md
+add image to haxm
+better icon for the chat icon .
+try to search clickable
+change the file name to work
+add demo gif
+setting version to 1 .
+allow debug logging logging
+changed classpath to classpath
+update .
+auto - auto auto - auto - > auto ' s auto - > auto ' s auto ' s auto >
+added file for scripts
+remove missing import
+hadoop - 5937 .
+remove unnecessary comment
+update splash folder
+removed unit test in unit test
+add @ suppresswarnings annotation
+more more test is more
+add note
+add proguard configuration for gradle
+remove submodule
+deleted a intro file
+lps - 37741 @ annotated
+bump version to 14 . 14
+make a sleep if not 10gb .
+update gl2 - rest - source .
+minor use vm in our package in our list
+remove square rules
+fixed the problem
+delete jain . jar
+removed icon
+lps - wrap remove
+minor change to description
+removed deprecated to graph .
+update to see 1 . 3 . 3
+adding a project name
+add hero assets
+fixed gradle plugin
+update changelog
+revert " change method
+update libs
+request request request changed to request energy .
+lps - 56015 we want
+set memory to 16
+removed flaky assertion from flaky test .
+added synchronization
+don ' t compile compile to compile .
+revert " of new todo
+add gradle gradle to travis build
+use latest build
+update changelog . md
+snapshot
+update .
+fixing build
+removed debugging from system . jar
+fixed typo
+compile - see catch compiler is nothing
+making need to reset flag for headless
+added command images
+fixed # checkstyle - # info
+updated localization
+updated changelog
+use a method method to use strings .
+fix an crash in example
+prepare release checkstyle 2 . 2
+change the event of the java case
+starting notes
+adds sql store constructor
+remove old library
+use travis
+add docbook and images and and work
+remove unused crash from xoom figures
+( ) ( ) ( )
+rename license file
+lps - 11771
+update changelog
+added .
+update gradle lib to latest
+added / file / releases .
+change a illegal param in string . py
+fix checking 847
+more more mode in canceling mode
+remove unnecessary code
+update changes
+testing installation installation
+add ken to authors file
+enable test output
+fixed typo in namespace . sh
+updated sources to 2 . 5
+changed versions name to snapshot version .
+setting version to 1 .
+updated to commit
+lps - 53683 move icon
+remove lib / lib / lib / lib / lib / lib / lib /
+using short context map
+remove duplicate dependency dependency
+add new apk file
+rename to jsonhelper .
+update changes . txt
+add language script
+fixed real tests
+update gradle . gradle
+fix logic in handler
+set todo
+improve an path
+update lzmajio
+updated changelog
+change a bug in audio audio function
+fix the bug in the apr
+lrqa - 22780 add highest component
+removed unused files
+update readme . md
+icon
+forcing commit at stop
+update version .
+use the ci ci if test run
+improved line of eof
+set travis config to travis
+fix description in description .
+moved the test file
+more data advanced
+unflipped terrain .
+lps - 13863 source formatting
+moved the test to nopass
+push version to 202 .
+now it now now it it now it .
+update changelog
+update readme . md
+remove unused jar
+update gradle . gradle
+lps - 9589 - visual formatting
+updated documentation in documentation
+eliminate markdown
+slight no message
+changed default version
+include all plugin from bin .
+fix readme
+default default value in default
+to jb dictionary
+fixed imports of arguments ( py - 283 )
+renamed a file to 0 . 0
+remove javadoc .
+fixing some test .
+remember and close all line in the line
+notnull
+enable slack output
+added images
+fixing the typo in the overview
+include the build in the toolkit build .
+update to version 1 . 1
+configuration not needed any more .
+try increasing another another another the another test .
+update readme . md
+revert not not not editable .
+splash image
+added proguard config for grails - properties
+moved to correct library
+remove checkstyle
+fix npe in openinig action
+and get - > get and get the images
+moved todo from txt from news
+updated versionname
+use cobertura property
+fix typo
+add hero assets
+update story .
+add changelog
+updated changelog
+request request active processing
+setting version to 1 .
+remove javadoc exception
+remove ic_launcher .
+add missing include for event
+updated changelog
+removed " statement " causing " statement "
+add integration tests to .
+update changelog - md
+add full font for windows
+added handling handling
+lps - 60868 sf
+build tools
+fix gradle properties properties
+fixed a constructor in api . api
+fix build .
+added circle test script
+prepare up locale
+add missing @ override annotation
+changed gradle properties to .
+fixed example script
+get default state with default state
+moved to proper case file
+changed gradle properties
+updated changelog
+added todo
+update .
+don ' t trace debugger exception on debugger debugger
+updated changelog
+more
+change version
+add line added to validate generation
+updated to note
+javadoc
+remove unnecessary file
+change bbb - test - test " to bbb - record bbb - record
+13 version 13 - 13 . 13 - beta2 .
+more commit
+add simple image for dl and a device image
+revert " gradle version to 1 . 6
+update spongecommon for tileentitypiston fix .
+fix warning
+sample apk 0 . 0 . 0
+note to show releases .
+remove extra build from gradle
+lps - 57534 use full path
+make build api build .
+update config . yml
+fix build # 563 build
+removed travis ci
+set animation to set animation to set animation to set animation
+document changes for 3733
+update readme for major code
+add michael to pairs
+set default flag to set android - api
+remove pdf file
+release notes
+changed gradle properties to .
+add package to npm . json
+changed akka path to 16

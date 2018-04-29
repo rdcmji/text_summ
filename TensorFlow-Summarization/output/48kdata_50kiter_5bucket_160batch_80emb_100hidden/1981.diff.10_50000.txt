@@ -1,0 +1,1981 @@
+icon for icon for the icon for for the new icon for
+lrqa test
+added / resources / index .
+add disable sample apk
+update to jboss .
+fix fix video memory don ' t wrap fix memory for video
+updated updated updated updated changelog updated changelog updated changelog
+update maven release release .
+fix fix to fix breaking flow flow flow issues
+more logo to logo logo on logo .
+add fix # asciidoc
+setting snapshot snapshot version to snapshot
+removed revert removed the parse the parse build to the parse build
+add build build to build build fix build build build build build
+add suppress comment
+lps - run run use run use use use use use use
+add the flow flow flow api of flow api api
+add include include include include include to include include include - -
+use the a a the the the the the the the the
+minor test test fix test test test .
+add super index add add index to index .
+update update changelog
+update
+update to jboss .
+adding new version to fix build build build fix build build build
+switch back to guava
+update .
+fix fix fix bug in fix fix bug # fix
+added a test test name fix for the test for the the
+fix win32 dependency
+add report view view on view view view
+added storm - added storm - storm - - - - -
+use use use use appcompat use use appcompat use use use appcompat
+set to the the the branch changes
+initialize index index on index
+update readme .
+removed removed removed duplicated duplicated duplicated duplicated logging in travis
+fixed typo
+made made big big applied big big big true true to true
+added call function function function function ( ) call function ) )
+fixed build
+added properties
+update snapshot snapshot version
+corrected aar aar for aar aar
+add adding adding making making adding adding adding adding making making making
+added missing check check added back for for for add missing for
+fixed a a a a a a a a a a a
+make temporary ensure temporary make temporary temporary temporary temporary disable temporary temporary
+use use use use use use use use use use use use
+add for 0 - for release 0 .
+add .
+add add glossary glossary to add rpm_install for documenting branch branch
+document tag for for parent parent tag
+added added storm - storm - - - - - - -
+( also fix also also also also also also also also also
+add missing missed the return stream back to the first first fix
+lps - 42230 sf
+updated the the new version number
+made more fixing switch to switch to switch to switch
+removed update maven version .
+add changelog to changelog
+fix fix in travis .
+don don don ' t don ' t don ' t disable
+don ' t add mark property property to the handle property property
+use comment
+don fix the the the the the the the the the the
+updated changelog changelog updated changelog .
+remove an remove missing reference reference reference reference reference to an an
+remove remove remove remove removed removed dead dead reference
+the the the the the the the the the the the the
+fix todo
+don ' t use use use use the use use the use
+fix env ` env ` env ` env ` env ` env
+update update update update spongecommon for update common for update spongecommon for
+add fix file to makefile
+added back back back back
+don added gitrepository ( ) ) added to allow the the new
+fix context context fix context context fix context context context context fix
+upgrade parent parent parent parent parent parent parent parent to parent parent
+add linux install to install linux
+update build . gradle
+add ticket also also add migration migration for migration migration for ticket
+added storm - added storm - added to changelog
+include plugin plugin
+added added to googlecode .
+update gradle . properties
+fix use a use a use a use a use use use
+removing removing removing removing removing removing '
+add custom todos
+lps - generate generate bnd bnd . jar
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+update travis .
+lps - 52534 add source formatting
+update changes
+update gradle version .
+added comment
+fix use use obsolete obsolete reference reference reference ( idea - )
+smack smack upgrade to smack 0 .
+fix . java make the . java make the single . java
+added fix grails dependency for grails -
+update to pass the the the the the the the the the
+fix change xss for # sh fix
+change build . properties
+exclude exclude jar jar
+travis travis update travis
+add .
+remove fix a a vote fix vote .
+fixed the maven maven - maven maven - maven maven - maven
+fix pom pom pom pom fix pom pom
+update changelog for changelog
+fix
+update update changelog update changelog
+updating updating documentation file file file to manifest file
+added makeglmmodel makeglmmodel makeglmmodel makeglmmodel python python mistake .
+fix show error error of use error of connect error of error
+fix failing misprint in configuration configuration fix failing test configuration test configuration
+add package package in package .
+setting version to 1 .
+update travis
+added the added the launcher as the the the the the the
+fix fix for uninitialized uninitialized uninitialized uninitialized uninitialized for if data data
+updated updated changelog updated changelog
+update sample
+remove removing removing removing removing bin / jar
+removing unused import in import
+added tag tag tag for for tag tag
+added changelog
+added storm - added added storm - added storm - - added
+added storm added added storm - added added storm - added to
+add back back back back to the the the the the the
+make the public public public in public public public public
+move spring grails - - - - drop service " map "
+fix send use load send load load load load load in load
+revert " " added " " " added to " " "
+don fix for the the the the the the the the the
+doh .
+remove exe don ' t don ' t don ' t remove
+remove removing removing removing removing bin / bin / / directory /
+fix build version to fix build build to build fix build build
+fix updates binding binding binding in binding binding binding
+added fix tag tag for tag for tag tag
+add adding sync task sync task build build task
+make the the the the the the the the the the the
+adding lib lib use lib use lib use lib lib use lib
+changed changed changed comment to comment
+added fixed an a wrong the icon for the the the the
+fix fix uninitialized uninitialized ( ) in the constructor ( ) )
+enable default default default default default default
+update readme
+lps - web - web - web web web web web web
+prepare next next next functions
+add adding words suggested
+make the use the correct the buck new the buck buck level
+fix
+add xxhdpi xxhdpi xxhdpi icon for the back back back back back
+fixed fixed typo in the state fix state
+update travis .
+update readme update readme .
+push version to response version code as the the the version code
+fix renaming renaming comment in rpm comment
+fix make clearscrollrequest fix make the the make the the the the
+remove / / bin / / / / / / / /
+update .
+adding sync for sync build
+add add support back to support support support support support support support
+lps - 9748 visual revert " " " " visual " "
+increase ui ui fix wrap ui for ui ui ui fix ui
+retroweave retroweave smack retroweave smack retroweave debug debug debug debug java java
+update to build .
+update to build fix build build fix build build fix build build
+updated the latest new samples
+moved to nopass test nopass .
+added test to standard test .
+added add icon to add icon for for the the the the
+don ' reset reset reset reset to reset reset to reset to
+add apache apache apache apache commons - apache commons - apache commons
+more more more more more
+fix fix use use use use use use use use use use
+update to - maven maven maven maven - maven maven - maven
+removed removed last removed migration migration migration migration migration migration from
+don '
+adding a adding a glossary glossary for adding a a adding a
+remove remove unnecessary remove unnecessary unnecessary remove unnecessary unnecessary unnecessary unnecessary draw
+fix test to fix correct test case fix
+update / / / / / / / / / / /
+revert unnecessary unnecessary unnecessary throw unnecessary unnecessary unnecessary unnecessary unnecessary throw empty
+fix mark mark mark mark dependencies scope to mark test scope scope
+updated release master master master
+updated updated changelog
+removing incorrect import in indexedsettest
+update .
+added storm added added storm - added storm - added storm -
+fixed fixed django py - tests fixed tests to fixed django django
+fixed the exe exe
+use maven buildtools use use buildtools use buildtools use use use use
+use use use use use use the use the use the use
+fix fix the one of the one of one of one of
+update - - snapshot snapshot version to 1 .
+fix no typo .
+fix push version to the version code code update update to the
+updated maven - plugin plugin maven plugin plugin change to maven plugin
+fix small texture texture texture back back back back to the texture
+remove remove remove remove remove remove remove remove to remove remove remove
+added . gradle . gradle for . gradle for adding . gradle
+fix pom
+added storm added adding storm - added changelog to add storm -
+more more fixes to order fixes order order to fixes order order
+updated version
+added storm - added added storm - added to changelog
+lps - turn fix turn don - turn off auto turn off
+move this this this test fix this test the this this test
+store store array array as array the the store array the array
+update update update update readme
+corrected one one syntax to number
+only only only only site only only only only only only only
+use use use explicit gemfile gemfile in gemfile gemfile log log #
+add add blur add add blur add blur diagram to add blur
+update build .
+lrqa - 14606 14606 lrqa - 14606 14606 14606 properties back to
+remove fix build build .
+rm
+add default default default default default default default default config - config
+fix fix typo
+fix touch activity
+add gh - gh - run gh - run gh - -
+updatet reference to 0
+update build build
+add storm - to changelog
+remove whitespacek whitespacek
+added added added value doc doc to use value notes
+updated updated updated changelog updated changelog
+lrqa lrqa - lrqa - - - - - test - test
+don ' t make unit test run tests for unit run tests
+removing removing removing removing removing removing back back back to the since
+add browser browser examples browser browser examples browser examples examples / browser
+revert in the build build .
+remove remove remove 777 remove 777 remove 777
+added add missing missing icon for back for a a missing missing
+update readme .
+change comment
+add support support method method
+fix issue not allow provide node node and provide node node for
+updated
+remove remove unused remove unused unused unused unused properties properties
+don ' t attempt on fix on on on run on run
+update travis
+add storm - changelog
+add add to the the a a a a a a a
+disable don ' t t disable editorconfig in .
+fix fix typo
+added padding
+added added added sqldialect
+disable travis .
+lps need
+update to use latest latest pom version
+fix fix the eof in the fix the eof build
+switched to parent parent parent parent parent parent parent - parent -
+don ' t remove show used used in message message
+added added added forgotten forgotten forgotten forgotten dependency to add forgotten runtime
+adding build build for travis build build
+fix tell suggested
+removing removing removing removing removing
+remove removing removing removing removing
+fix fix allow quick fix allow quick fix allow to allow quick
+fix release readme
+add update docs to include docs
+added adding adding favicon logo
+move back to pass the test test back to pass nopass since
+added for lines for and and and and new new lines for
+icon for icon for for icon for icon for the icon for
+changelog changelog
+allow support on it
+added test test
+fix tostring fix for tostring fix tostring for tostring ( ) for
+added a added a handle method to handle the the handle case
+add minimal images
+remove extra remove extra extra extra space
+don ' t add add reference to compile reference in to skip
+move to proper proper proper link .
+
+lps - 53630 53630 53630 icon
+lps - 43715 - 43715 - 43715 - modules - - -
+add adding build build build
+fix readme fix readme fix readme for readme for readme readme for
+added added added parsing parsing updated parsing to include parsing include parsing
+lps - - source formatting formatting
+fix fix typo
+fixed fixed incorrect assertion -
+update readme
+updated updated changelog updated changelog
+gh gh - ( gh - gh - gh - gh -
+translated using weblate try ( remove remove remove exception try using remove
+added added added messenger to messenger messenger
+added for performance sources
+adding lib / / / / / / / / / /
+better better better better better icon icons
+add add image for for a a a add a a a
+add cache cache for travis cache
+fixed typo
+updated notice
+fix build .
+fixed pointer pointer pointer for pointer for false ) .
+remove cosmetic remove unnecessary cosmetic remove unnecessary cosmetic remove unnecessary remove unnecessary
+lps - 51874 lps - source lps - 10075 - source formatting
+add added added demo added demo demo to add demo added demo
+set the back back back back back back back to the bottom
+fix
+fix fix the the the the the the the the the the
+lps - lps - lps - lps - - - - -
+enabled grails enabled enabled enabled grails build build
+.
+lps - 61574 - - - move icon to 13 - 13
+add placeholder drop placeholder placeholder placeholder back back back back to the
+add back back to the / / / / code / code
+add section note note
+fixed proguard proguard
+added storm - added storm - added storm - added storm -
+update
+add comment about add comment about in markdown
+add back back back back back back for back back back back
+remove remove accidentally remove accidentally accidentally remove accidentally accidentally accidentally removed accidentally
+update rest update rest client client client client client client client client
+use default elasticsearch context context context context
+update merged update update to jmm fix update to jmm jar so
+lps
+add javadoc javadoc javadoc jar
+fix review
+jetty9 jetty9 - reduced jetty9 - test reduced jetty9 - test test
+adding trying to fix travis
+fixed wrong test catch catch catch catch test catch catch test catch
+added storm - - added changelog to added changelog
+fix add a returning a flag on count add local flag for
+remove checked removed checked import in the the the last import fix
+fix fix suppress incorrect method method
+updated the update readme . md updated updated updated
+use the use latest version to latest latest version .
+update package
+fixed dialog dialog fixed dialog dialog dialog
+use the " map map " settings " settings " in settings
+lps - fixes .
+added " created to the the the the the the the the
+lps
+update travis
+adding format version code code
+add .
+include include include exclude include include include to include include . jar
+fix fix fix the " to fix the build " quick "
+renamed renamed renamed jar from properties
+add fix build build
+update comment
+do fix do do do do do do do do do do
+need the internal / internal / response / / / / /
+add defaultcomeslast defaultcomeslast portal build
+update changelog for gradle gradle - pages - pages - fix for
+updated updated changelog updated changelog
+increase comment for the test test
+sonar fix sonar
+remove remove remove remove remove remove remove remove remove remove reference max
+update readme update readme update readme
+fix getter fix method since use correct method method method in method
+add changes changes for changes for filtering for filtering for filtering for
+on travis travis travis
+rename rename .
+make cosmetic fix removal fix change removal to use display removal type
+update pom
+updated changelog
+fix install setup setup setup setup install install install install install install
+don don don ' t auto always auto always always always always
+change console from console code code
+added updates for testing the source script updates
+fix build
+move to the new config
+fixed exclusion fixed fixed exclusion exclusion
+fix joda - disable disable disable joda - local local joda -
+remove remove remove unnecessary remove unnecessary removing unnecessary removing removing removing removing
+don
+add the tighten to the the the the the the the the
+fix the the the the the the the the the the the
+added added filter filter icon back back for back for the first
+auto_sortmerge_join_5 limit_partition_metadataonly for in auto_sortmerge_join_5 .
+mark c5fd6e5 mark mark mark mark mark cannavigatetosource cannavigatetosource back to the
+remove remove remove accidental remove remove accidental remove accidental remove accidental remove
+remove update buildtools
+idea idea - - - idea - - - > empty empty
+remove remove remove remove remove reference reference reference reference to remove (
+fixed fixed typo
+fixed fixed indentation
+new icon for new new icon for sharing alpha for sharing sharing
+added changelog changelog
+update .
+test test fix
+updated updated changelog updated changelog updated changelog updated changelog
+comment
+added cache cache cache in travis cache cache
+fix style fix style for code style fix for code style for
+fixed build fixed build build
+update changes #
+update .
+an an empty empty line log to the an an empty missing
+added fix enhancement
+update reference reference to library reference to fix reference
+fix fix the the a line line fix in the line fix
+added added a added a a test a test fix the test
+create images .
+removing fix the the the the the the the the the the
+rename / .
+move move test back to the test test test fix test test
+added for for 2
+upgrade to use latest latest latest iocipher changes pull use use use
+use back
+use maven maven - maven maven - - maven - maven -
+updated update update readme update readme
+allow typo for instances .
+update readme
+fixing fixing sdk sdk install sdk stlport
+move cursor after after the cursor after clicking move the the the
+revert revert " revert " revert " revert " switch " "
+update realm realm merge fix realm merge fix realm merge fix realm
+update update doc to latest wiki wiki wiki to wiki wiki wiki
+fixing even more more static static even even even of even even
+fix fix fix in cfdefinition fix in cfdefinition
+lps - 2008
+use use use use use use use use use ` use use
+fix cb fix process process cb on process process on process process
+fixed typo .
+fix push version to the version code code update update to the
+revert " removed in .
+revert / / / / / / / / / / /
+add some to do fix do do fix enable # enable add
+pdf of of of of of of of of home of of
+
+removed empty empty empty empty empty files files
+hhh - id
+added added storm - added changelog to changelog
+remove remove remove not remove remove unused again again for removing again
+.
+mention mention mention mention change change note change to note to mention
+fix translation
+fix . . . . . . . . . . .
+lps
+show success functions
+added storm - added added changelog
+add missing missing missing missing missing missing missing in missing missing missing
+updated changelog
+removed up the the the the the the the the the the
+added tostring tostring in tostring tostring ( ) method method ) added
+don ' for cpp for cpp for cpp for cpp for cpp
+fix fixed typo
+update build
+fix fix for html5 do fix do don ' t t use
+deleted deleted removed unused cluster removed
+enable enable maven maven release profile
+lrqa lrqa - lrqa - - - - tests add portal -
+add travis travis travis . yml
+fix travis build
+fix the default default comment for .
+change the the the the the the the the the the the
+new new version to 2
+applied patch applied identifier for sub '
+remove default default default default pipeline ' from pipeline shader
+add ios comment
+removed removing unnecessary removing unnecessary unnecessary removing unnecessary removing unnecessary removing removing
+added a missing a class a class diagram for for a a
+fix more build
+add add session session session add session session session session session header
+fix fix in the the the the the the the the the
+added storm - added changelog
+removed to fix mistake
+fix title don ' t fix title in fix title
+change build
+add .
+react fix
+add close postag postag
+added adding template .
+remove debug .
+update .
+try try to fix build build
+removed removed / bin / /
+update
+added eclipse eclipse eclipse eclipse
+prepare next development version version version .
+remove remove remove accidental remove accidental remove accidental remove accidental remove accidental
+rc rc bump rc rc
+added launcher class
+adding link link to .
+added missing export code for free free script for free script
+update update update
+added added travis travis travis added support for travis travis ci support
+don fix the chat the the chat chat chat the new dialog
+switched to fix parent pom pom .
+don make the the the the the the the the the the
+fixed fix a bug fix for the the the the the the
+add publish to publish editor editor editor editor in editor editor editor
+bumped to parent parent parent pom build .
+fix fix documentation fix
+update update update update spongecommon for update common for update spongecommon for
+add add document key key key key key key key key key
+update to build build fix gradle build build build fix build build
+fix changes
+adding tell '
+lps - 36447 sf
+add add add add a add a placeholder placeholder add add placeholder
+don need the the the the the the the the the the
+remove " remove " no " no " no " no "
+update to latest latest latest latest latest build - latest latest latest
+update update to fix allow reference to fix library version to fix
+update to the the the the the version the the the the
+modify bundle zip
+fix enable the enable the enable the enable the all default the
+added storm added storm - added storm - storm - added storm
+fix use the the the the the the the the the the
+no file file
+update
+fix error .
+remove remove remove removing removing removing bin / jar
+signed signed signed signed signed signed signed signed signed signed signed signed
+update gradle
+fix config
+update version update to 1 .
+removed removed removed unused unused message
+update icon enabled icon update icon to the icon
+added added for for the export for gh for gh - add
+updated updated changelog
+fixes java java 1 .
+added storm - added changelog added storm - added changelog to changelog
+switched switched to let the let let let the let let let
+add
+updated updated updated changelog
+add add add add words to add words
+replaced zrtp zrtp sip sip sip sip sip icon . sip .
+create create readme readme .
+remove / bin / bin / bin / / / directory /
+upped double doc allow the double double double doc in the doc
+added added initial components . yml . . . . . .
+classes classes / / / / / / / / / /
+bumping up the release release release candidate 1 .
+added add new demo new demo for demo demo for demo demo
+checkin checkin check for directory
+remove temporarily remove removing removing removing bin / bin / bin /
+fixed path
+fix fix build guava to fix builds
+lps - 64991 add 64991 add 64991 add doc add doc doc
+lps
+fixed npe
+embedded prop type type type type type type .
+suppress typo in
+update .
+updated updated changelog
+added added dep dep .
+added java to java java keystore
+removed removed accidentally removed accidentally removed accidentally removed accidentally removed removed in
+updated updated smaller smaller smaller new smaller sample sample
+added readme readme update readme .
+fix travis build
+fix remove missing missing import in missed non - fix non -
+fix make the the the the the the the the the the
+fix in all build
+setting version to 1 .
+added back back back to test build
+adding stupid this back back back back back to the the the
+revised revised revised revised new new icon to use new new icon
+fix test for the test fix the test test case of fix
+fix typo
+added indy added added basename for uberjar task for indy task
+fix fix typo
+lrqa - - - - - - - - - - -
+fixed wrong the wrong test the wrong test getters in the test
+fix update method method
+fix switch every bash switch to fix switch definition for every ci
+updated updated updated changelog updated changelog updated changelog
+fixed windows to generate windows windows generate windows generate windows windows -
+updated jain - updated source to use of the jstl source of
+increase setting setting setting timeout
+remove this removed this of the this of of a recipe recipe
+updated to parent parent parent pom version
+fix enable use the use the use use use use use use
+added adding adding adding storm added added storm - added adding storm
+upgrade version to gradle 0 .
+update for play update play play play play lock play play play
+remove remove empty migrate empty migrate empty method
+updated updated updated changelog
+fix finished todo
+fixed osgi - osgi - httpclient - httpclient - httpclient httpclient httpclient
+added storm added added storm - added storm - added storm -
+ensure ensure really really ensure really really ensure really really ensure really
+don ' t don ' t don ' t skip missing skip
+don doesn doesn ' doesn doesn ' t matter doesn ' t
+fix remove comment fix
+remove removing removing removing accidentally removing removing removing removing removing in the
+fix make make revently allow allow allow echo check in allow echo
+added added added added r .
+changed maven build .
+added missing missing added missing missing dependency to added missing config dependency
+rename / .
+fix typo
+increase try to fix build
+fix wrong wrong action of action in action search
+set the project project name name name name name changed name name
+allowbackup allowbackup fix androidmanifest
+fix fix wrong name to fix name fix name
+update update update update spongecommon for update common for update spongecommon for
+fixed fixed test list
+update rest update rest client client client client client client client client
+fix fix custom custom custom profile profile profile profile
+modify
+fix fix fix build
+revert revert revert / since revert revert revert revert revert revert revert
+added more more dictionary in dictionary
+fix travis
+fixed p .
+update readme .
+add icon for icon for for the new new new icon for
+added default value to true settings .
+don ' t allow t allow about about about about about about
+update update readme update readme
+typo fixed typo
+temporarily don ' enable enable slf4j temporarily update for order to get
+typo fix typo
+remove old comment that that create the old comment that that the
+add back back back back back to the back a back back
+fix errors
+fix
+reset the buffer reset reset interface buffer ( ) ) when using
+updated updated
+add image for the export the the export the the the the
+
+lps - enable gradle remove gradle gradle cache cache
+adding / .
+removed removed removed removed from the index
+don failed failed test failed test failed test failed test to test
+fix
+update for gradle gradle gradle build fix for gradle gradle pages -
+gh .
+update to old old old old old old old / / /
+fix allow double guard of allow of double guard of of of
+docstring for ref for per docstring
+use packaging
+adding readme readme
+remove remove remove remove task remove task remove task remove task remove
+update rest update rest client client client client client client client client
+removing not clean up
+updated link to fix readme
+support libraries
+update update
+allow allow exceptions to connect to connect . py
+use maven buildtools use use buildtools use buildtools use use use use
+fix style fix style for code style fix for code style for
+remove remove accidental remove accidental accidental remove accidental remove accidental remove accidental
+fix fix quick quick fix quick fix quick quick fix quick fix
+don need after don don ' t need to cache cache after
+fixed wrong return error in websocket context .
+ensure call call call call call call call to oncreate ( )
+try fix the bug
+update readme .
+added fix build to build fix build fix build
+replace favicon favicon
+add storm - add add storm - add changelog to add changelog
+fix trying for server build
+fixed typo
+fix suppress 1065 suppress suppress order for order
+update tostring ( ) ) update to update date dialog dialog dialog
+added added changelog to gradle changelog
+update rc - 1 .
+updated updated updated updated changelog
+fix fix an missing missing missing enum
+lps - icon move icon
+add minimal metrics of of minimal minimal minimal minimal minimal of of
+added storm
+fix fix missed error
+added storm - added storm - added changelog to add storm -
+fix sonar
+updating image image .
+don don ' t use the the use fetch the ` the
+fix after fix the the the potential potential after double double the
+remove fix the the jpa the jpa the jpa the the jpa
+return the unnecessary return the reference method in the method the method
+added ` target task for target task
+fix enable native support remove support turn remove native turn remove remove
+fix win32 win32 win32 control win32 control win32 control win32 control control
+added " to " add " to " add " to add
+update
+added proguard enabled to enabled android builds
+added added added added added build to the build build added build
+use proguard updated updated proguard proguard to use proguard proguard proguard to
+added update travis for travis cache for travis travis fix travis build
+use use artifact task version properties
+fix fix for the the the the the the the the the
+lps lps - 31796 do do not do not not need the
+setting snapshot snapshot version to snapshot
+mention mention mention change mention to mention mention mention change change to
+increase fixed fixed rate scheduling for fixed scheduling
+remove old old old old jar
+added .
+test test for rules
+add create for letter test letter first test first first first first
+fix
+lps - formatting
+disposing disposing content
+fix .
+use auto use auto version use use use version since since use
+use a a more hdfs - hdfs - hdfs - hdfs -
+add add add new new image for for new new new new
+fix fix for getname # getname
+fix fix id fix
+fixed fixed fixed issue fixed fixed issue fixed
+coping coping coping coping sources sources sources for sources sources to sources
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+update update readme .
+fix fix typo
+ensure adding the the the the the the the the the the
+lps sf
+fix deserialization fix the the the the the the the the the
+update linux linux linux linux linux linux dll linux
+/ / native native / native / native / native / native
+update trying for travis
+rename go
+push version changes to seriesguide seriesguide seriesguide seriesguide seriesguide changes version code
+log debug log debug
+update changes
+removing removing removing removing accidentally removing removing the removing back the back
+update update pom
+use gradle gradle 1 .
+add add test test
+added adding adding missing comment to the the the comment the the
+fix build fix fix build
+add a break the break break break for the the break break
+update update update update spongecommon for update common for update spongecommon for
+fixed fixed typo
+remove adding adding adding adding
+fix add gather available for getname ( close ) close ) )
+added missed an forgot forgot forgot forgot forgot to the correct package
+add add suppress annotation annotation to the build build .
+fix null fix throw null throw null throw null throw null throw
+update art art gif update update
+setting snapshot snapshot version to snapshot
+includes includes the includes includes includes the includes includes includes includes includes
+remove removing removing removing removing removing
+move back back to the the the the the the the the
+update pom .
+fixed problem fixed
+added zeppelin to use zeppelin - zeppelin - use force use use
+revert eclipse project project build
+updates . org . org . org . org . org .
+update reference reference to library reference to fix reference
+fix .
+add makefile add add kmeans makefile for write write to makefile .
+update reference
+rename txtfielreader to the documentation .
+update changelog for example
+fix access check in access access access check check in access in
+use use support non - use use gradle use use use gradle
+add a add missed to include a a a a a a
+update gradle
+fix do fix do fix undo undo undo undo unnecessary unnecessary unnecessary
+lps - gradle .
+prepare next next next functions
+change to c builds
+cleanup
+moved filter filter to filter filter
+updated updated build
+fix fix fix final final bug
+use use use use use use use use latest to latest latest
+lps
+add missing library for enum enum library fix enum
+use maven buildtools use use buildtools use buildtools use use use use
+revert / / / / / / remove the / bin /
+lps - source lep infinispan infinispan infinispan infinispan infinispan infinispan infinispan infinispan
+
+fix dependency
+put status
+update update install install install install install install install install install install
+better recovery better recovery better recovery to assert recovery better assert recovery
+fix increase permgen to rest test fix rest rest rest rest rest
+fixed wrong typo
+fix run pane run run run pane add summary summary in pane
+fix for experimental experimental experimental experimental experimental experimental experimental experimental experimental experimental
+bump
+added comment
+fix
+add rendered added rendered rendered
+don use the the the the the the the the the the
+update location update update location module to module location module update location
+removing test test in test
+add .
+added added
+update .
+fix parse
+added the need the the the the the the the the the
+change changes to changes changes
+add add
+prep prep prep prep for next
+updated changelog updated changelog
+add add add a add part for add add a add a
+included included included included binaries binaries .
+fixed started started started started link to the correct import .
+fix properly properly fix properly properly properly properly properly properly properly properly
+comment
+update update update news news
+add git pdf for git git git git for git git git
+fix typo
+add write script to script .
+lps - 36119 lps - - classloader should be protected protected protected
+update update update update update update update update to api update update
+updated to index
+fix use the use the use the use the use the use
+fix bower bower bower fix flow flow flow flow bower
+cleanup file file
+move back to pass the test test back to pass nopass since
+cleanup cleanup
+updated updated changelog updated changelog
+adding pr version name code
+add dependency dependency dependency .
+fix clicking fix failing clicking have use send use work in the
+add fix readme for readme for readme
+don ' t fix task ' t fix task in the gradle
+fix fix typo
+fix the the the the the the the the the the the
+update regenerate gwt update dependencies
+exclude exclude exclude reference to include include pom
+setting snapshot snapshot version to snapshot
+use use gradle use gradle use gradle gradle use use gradle gradle
+rename to rename .
+updated pdf pdf pdf pdf pdf pdf pdf pdf pdf pdf pdf
+added add comment for dictionary
+fix dependencies
+fixed default project
+lps lps - 45043 source formatting
+add add storm - plugins add to changelog
+
+remove remove remove weird remove left left removed removed left removed from
+fix another fix build fix another build fix imports
+update to jboss .
+changed change style
+update update changelog
+remove evil remove remove garbage remove garbage turn remove remove garbage remove
+fix fix fix missing error in the config fix error
+fix
+move move portal - 60542 move constants from portal
+add / service module add service module add service module add module
+added added added to image for for the the new new new
+fixed fixed bug fixed bug where bug fixed the post the bug
+freshen freshen freshen freshen screen screen screen screen
+updated updated updated updated changelog
+fix issue )
+update location update update location module to module location module update location
+lps
+remove fix reference to get get get get get get reference reference
+tests memory memory memory for tests
+use use back back back to build build .
+disable default default default default default obfuscation for jdiff obfuscation
+fix remove don ' t don ' t remove extraneous extraneous reference
+added a added a a reserved a a reserved a a a
+remove remove remove unused core from core .
+use rethrow ) )
+updated icon
+fix push version to the version code code update update to the
+adding adding adding adding adding adding adding adding adding adding adding adding
+don ' fix
+fix fix fix the icon
+update readme to fix readme # md
+added for for the right right right right for right right right
+added added demo demo demo gif
+return binding as binding method .
+changed logo image for changed a a a a a new a
+update travis build
+update gradle
+fix renaming from nopass from nopass
+don ' t run don ' t make single single single single
+add new build build to include the build new build build build
+enable on travis travis enable travis travis ci config on travis ci
+adding new version to fix build build build fix build build build
+back back back back back back back back back back to build
+lps - 19149_social_bookmarks_addition_via_hooks
+remove cleaning cleaning cleaning from builds
+fixing dependency in dependency test
+fixed npe
+rollback
+added storm - added storm - storm - added storm - -
+fix offset fix match the match the offset one of match one
+add missing changes . txt
+fix wrong configuration configuration didn - configuration didn ' t catch catch
+add image of image of of image of 0
+update build
+get we not get we not get not get not get not
+fix an the the the the the the the the the the
+added test test test every tests every tests every the tests every
+update changelog .
+remove don ' t remove an an an empty empty empty statement
+updated source .
+update readme
+fix recommend correct correct correct prototype prototype prototype
+update version to build update build to build fix build build fix
+gh - - - - - - update - - web -
+lps lps - 63528 - js lps - 63528 ( lps -
+add add add add add add add add add add a add
+fix pdf fix
+lps lps - 64368 64368 rename rename to portal - portal -
+rename readme
+act broken broken
+adding exceptions
+fix missing missing support fix
+configured tests
+remove remove fix the comment fix reference to the the the the
+lrqa - lrqa - - to lrqa - - - - -
+remove removing removing removing back back back to the /
+fix catch catch catch catch catch catch catch catch catch catch catch
+updated # id
+fixed fixed fixed nesting ( on the last fixed the the last
+update travis .
+update fix test spec .
+use lib lib the lib use lib use lib lib use lib
+use 16 . properties
+update readme update readme
+fix change name to use correct correct name name
+fix in the correct correct type
+working not working working do not working working do not working working
+removed removed removed removed removed removed removed comment .
+removed removed unnecessary unnecessary unnecessary unnecessary unnecessary teardown in teardown
+updated the latest android latest android latest android android latest android android
+fix broken broken documentation
+added created created readme .
+disable force force force force switch to use force explicitly explicitly force
+fix use the the the the the the the the the the
+import import in import .
+add add of of of of of of of sort of of
+don enabled t enable enable the history use true as the the
+update .
+added readme added back to readme back to readme to added readme
+revert fix dir to correct correct correct properties
+setting snapshot snapshot version to snapshot
+fix fix typo
+make default default default default default default to make the the the
+update pom
+lep - added adding new image icon
+travis .
+add add add metrics for ticket add ticket migration for ticket add
+added missing missing missing read added missing missing missing read in read
+added the last version fix the the the the the the the
+support android support android support android support android support android support support
+adding adding .
+lps lps - - lps - - fix - fix - -
+send send send send send send send close on close close close
+fix fix grails
+fix use correct correct default default default default default value
+added adding adding adding comment added comment a comment to add comment
+add travis travis adding travis travis travis . yml for travis travis
+update update update update spongecommon for update common for update spongecommon for
+upgrade upgrade jar
+added added added shadowbase64 added shadowbase64 to added shadowbase64 to support robolectric
+update readme
+tolerate thread for rebuilds for allow to use thread thread thread thread
+fixed problem .
+adding tests
+mark as a a a a a a a a a a
+fix documentation
+flush back to false to false to fix false .
+dictionary to dictionary dictionary
+added added screenshots
+registry configuration .
+remove unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary
+do fix idea - idea - idea - idea - idea -
+lps ' 67352 add check check check check check
+jetty9 test test test
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+fixed fixed typo
+decreasing decreasing decreasing decreasing set max max max max max max max
+make the better better better look update the the mysql better the
+lps lps - lps - - - lps - - - -
+add add add android android project .
+don ' t remove extraneous extraneous extraneous extraneous of unused imports to
+updated to include the the the the list the list tweak the
+updated updated updated test screenshot
+remove don don ' t remove remove reference reference reference to the
+fix change
+removed removed removed removed remove mavenlocal removed remove mavenlocal from remove mavenlocal
+d a ) ) a ) " ) a " ) "
+adding missing import import import
+disable need to the the build .
+specify up version version to 1 .
+update changelog
+fix make the the the the the the the the the the
+updating license
+update gradle
+fix docs docs build .
+update update todo
+removed removing removing removing removing the removing the manually removing removed reference
+update reference reference to library reference to fix reference
+disable default default default default default default property
+fix fix readme fix broken readme fix readme fix readme fix readme
+update pom pom pom .
+don fix the the the the the the the the the the
+add comment the comment add comment to add comment to allow comment
+update updated changelog .
+use javadocs for javadocs
+fix bad fix bad bad remove obsolete obsolete obsolete obsolete comment in
+update news news
+setting snapshot snapshot version to snapshot
+added added invalidatemaster method method to
+idea - regexps
+use the use use flow install core - core use use use
+updated updated updated updated updated changelog updated changelog
+try on travis travis travis
+added adding missing missing returned back
+enable add print print param to print param
+add the the the the the the the the the the the
+fixing fixing which which which which really create the the create the
+fix must use a use use correct ) ) )
+compatibility
+add storm - add storm - add add storm - to add
+update update update update typo
+don don ' t don ' t remove unnecessary reference reference to
+removing removing removing removing removing removing
+minor fixed minor minor make proper proper proper title .
+update docs docs
+fix the the the the the the the the the the the
+use seriesguide seriesguide seriesguide seriesguide seriesguide version seriesguide code code version code
+fix
+fix allow autojoin for autojoin fix for viewing autojoin
+update readme .
+add added .
+bump build
+make the global global global global fix the global global global global
+added caching on container javadocs
+add added .
+remove removed removed trailing removed removed trailing comment removed
+changed build
+added add add missing missing check for the add missing a missing
+add add app app of app app dir for the app app
+update news
+mahout - module add missing module add missing module
+add pom . sbt exclude exclude . properties
+added image for for the the the the the the the the
+fix fix for showrange for showrange showrange fix for showrange # showrange
+update updated updated changelog changelog
+update pom .
+auto_sortmerge_join_5 limit_partition_metadataonly for in auto_sortmerge_join_5 .
+fixed fixed peer profile gradient
+updated edu edu edu
+remove unused unused import in groovy
+fix text of of of box box of list box
+updated updated updated changelog updated changelog changelog
+change default default default default default language property
+removing removing removing removing from removing / / bin / / /
+added the adding the the the the the the the the the
+fixed a small stream of stream stream to increase stream of stream
+fix build
+add deprecated javadoc javadoc jar to jar
+update location update update location module to module location module update location
+fix fix makefile fix fix makefile
+fix fix for # m for for the for for the the
+added notice to fix notice
+added travis travis added travis travis added travis travis travis ci ci
+update release release .
+add gradle jar added gradle jar to use the gradle gradle jar
+update update update update library library for update reference for library for
+moved " moved " to the directory fix directory on the directory
+fix install setup setup setup setup install install install install install install
+added add missing icon to the the a a a a a
+setting snapshot snapshot version to snapshot
+rename rename back back back back back back to back since since
+fix fix fix build fix fix build fix for stagefright
+fixed fixed gbm test error
+add fix scrolling scrolling
+fixed to the the the the this this this of the default
+removed not not not not not not not not not not not
+fix travis travis
+move wrong back back back to correct correct location
+update pom
+fixed typo
+add jetty pack to pom .
+fix build fix building building building jni build .
+updated updated changelog
+fix .
+use use use use use / use / version / use /
+make the make the the the the the the the the the
+include include include include the include the include extension include to include
+update changelog for changelog
+lps
+add add add add release release to add release release for release
+fixed typo
+fix save save to initialize initialize after initialize initialize to initialize initialize
+fix fix for the bug fix fix bug for the fix memory
+added storm added added storm - 1467 added storm - 1467 to
+add add dependency dependency to jar . jar
+update update update update spongecommon for update common for update spongecommon for
+added the include the the include the the the the the the
+update
+lps - 56388 lps - 56388 modules - module module modules module
+added added travis travis added added travis travis travis ci support travis
+fix rc .
+added storm - added adding storm - added to changelog
+revert " " " " ref to " " " to "
+added clean clean build in travis build
+use lib lib use lib use lib use lib lib use lib
+add no include include include include to activate include image
+remove revert the the the the the the the the the the
+allow a a cookie cookie correction in the comment .
+add reminder note note .
+update readme .
+ensure if if the the the ensure if the the the the
+added missing missing only only added missing test . only added added
+update update build .
+fixing the compile compile in the the config config
+add travis travis travis travis added travis travis ci travis ci ci
+add / / gitattributes / / / / / / making making
+organize import fix import import
+fix on sonar on sonar on sonar on sonar
+update travis
+add .
+add to list list list no more list list list list list
+lps - 53563 avoid 53563 user user user avoid user user user
+remove empty code code code in the code code code reference to
+disable inline inline inline inline inline
+fix fix fix apostrophes
+remove remove remove update for remove remove remove update version for remove
+fix add the the the the the the the the the the
+use a use use method use use the use the use method
+remove unnecessary unnecessary unnecessary unnecessary unnecessary reference in the the the the
+make unsatisfiedlinkerror resolving resolving debug info debug info
+fix for for for for for for for for for for for
+fixed fixed readme .
+lps - java move portal java java java 1
+fix disable ' rest " rest ' rest in rest test
+fixing a updating changes for cassandra -
+added missing @ the missing missing correct ref
+update readme update readme .
+fix
+update build update update build
+lps lps - lps - - - - - - - -
+updated updated changelog updated changelog changelog
+changed change to the the the the the the the the the
+fix compilesdkversion enabled compilesdkversion enabled to fix build
+lps - lps - - - - - input - input input
+addes readme readme in readme build .
+don ' t don ' t keep the guava scope as the
+fix travis
+added / / druid / added / druid / druid / added
+remove disable disable remove remove remove remove extra disable host to remove
+make gbm make test make test nopass make test make test nopass
+fix also drop drop drop drop resource resource fix resource resource resource
+remove completely completely completely completely completely remove completely completely remove completely completely
+fix build .
+fix fix typo
+removed removed removed system system out system system system . out out
+applied applied applied applied for smack
+add updates to system system file .
+use use use use support support to use device support for use
+use use small use use use use use use use use use
+now disable test now as test in test test now
+added making making create task task for making create task task for
+make a making making a making making the a temp performance report
+add add jackrabbit add support support back back to support support support
+removed removed comment
+fix use long exit use exit exit to use exit exit exit
+use / use use use use version version since since use use
+fix a there fixes there that no show the the the the
+lps - service move service service service service move service move service
+fix incorrect assertion
+fix fix a warning fix
+removed added back back back to the the the the the the
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+add screenshot image
+fix the the the the the the the the the the the
+fix shared comment fix
+documented documented include socket in documented documented documented socket for documented server
+use make default use use use use default default as default default
+added .
+fixed display display display display row iframe attribute
+fix the misuse fix on the the the the the the the
+applied patch applied identifier for sub '
+update update update update spongecommon for update common for update spongecommon for
+lps - lps - lps - source do not remove source remove
+.
+fix build build build
+add add image for for first first add first first first first
+added storm - added storm - added storm - - - added
+make center use work use use use use work instead of of
+moved icon to notebook right right icon
+fixed bumped to parent parent parent parent - project - parent -
+java 1 .
+fix fix created access access
+smack upgrade to gradle 0 . 2
+don ' t added stdinstream to use the the the the the
+fix fix fix permissions
+add .
+fix fix test to case fix
+disable faster build faster build on travis build build
+small comment for for small small in small comment
+updated update license
+added urllib3 to requirements .
+bump version to 1 .
+fix un fix fix init init init
+bumping version to snapshot of development version .
+fix fix whitespace
+fix a fix a bug fix ( ) also fix the the
+add missing ref to ref .
+fix bug don ' t t allow revert switch to the revert
+add load load cache cache fix for cassandra .
+fix don ' fix remove height to fix height
+do fix recompile jdirectshow for 64 - 64 - bit bit 64
+remove unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary trailing trailing
+fix test fix method
+use gradle use gradle gradle gradle use use gradle gradle gradle gradle
+add add makefile
+bump version to 1 .
+shade for thrift for thrift docs .
+removed fix in test
+added pom in pom pom
+use travis travis travis timeout on travis travis config
+adding minimal back to use of iocipher iocipher use iocipher use use
+lps - 10616 lps - 10616 ran add ran ran to the
+move unit test to test test fix unit test case
+remove removing removing removing bin / bin / / / / /
+updated updated updated changelog changelog
+add / / the / / / only / only / only
+remove marked marked marked report report for for do do do do
+add test module module
+update update config config
+add travis .
+fix
+bump logback to 1 .
+fix count count count count count count count ) count in count
+update to global global global global global global global global global session
+window window .
+add add of of of of of of of sort of of
+use build gradle
+added start to start the start start start start start start start
+made made mistake made made generated generated generated generated quoting quoting more
+adding adding memory memory of memory comments in create
+fix a typo
+remove temporary remove useless useless gradle gradle
+fix correct missing ore ore dictionary for correct .
+added support obfuscation for obfuscation
+added missing sample sample template template template template .
+add / copy / copy copy / update for jsp lib update
+update change changelog
+idea idea - icon ( idea idea - idea fixed idea idea
+fix path in parent
+don fix leak fix enable tests in the the the the the
+fix updated server config in config config
+fixed like correct correct logic name
+update . properties
+fix
+fix grailsbootstrap
+fix
+make the the the the the the the the the the the
+lps - 66860 lps - - - - - - - -
+push push version version to next version .
+lps .
+add add back config config config config to add config config config
+updated updated to record record record updated to record record version to
+fix fix build build file
+add .
+change pom pom pom
+fix comment
+lps lps - lps - - - - - - - -
+add pom enabling include web include test web . xml
+added storm - added to changelog
+lrqa lrqa - -
+lps - lps - - - - - - - build -
+add load exposed exposed for load . properties
+fixes tests fixes .
+add add add adding the the the add adding the the the
+add url
+.
+remove update shade encoding
+added added super super . so the object super super . clear
+adding adding back back back back to the the googlecode
+update .
+fixed fixed name in correct name
+update pom
+pass pass pass pass pass to pass pass to pass pass to
+fix a a a a a a a a a a a
+setting version to 1 .
+don also also also add the the success the success call the
+rename readme readme
+updated updated updated updated changelog updated to changelog
+updated updated updated reference to include the include compatibility .
+change build
+added update module for module module module module module module module module
+rename rename file rename file
+added added forgot to added the the the the forgotten the the
+init init
+increase build snapshot build increase increase build default build
+removing removing removing removing removing
+changed changed changelog
+disable comment
+fix bad type fix type type to fix type type
+fix reference in reference .
+enable enable use new new dependency dependency
+use use maven maven maven use maven maven maven maven maven maven
+remove capitalize unnecessary text to text text .
+removing removing removing removing removing removing removing removing removing removing removing removing
+update
+update pom pom pom pom
+update update readme update readme update readme update readme . md
+setting snapshot snapshot version to snapshot
+added app_image
+remove fix build build
+added headless checkstyle to checkstyle .
+include include include include include include duplicated include duplicated include to include
+updated changelog to changelog
+updated updated updated changelog updated changelog changelog
+comment
+rename .
+added fix
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+remove just remove just just just just just just just just just
+make the make sure make the the the the correct pre -
+update
+fix make dosleep now use use use reference method in constructor
+adding new version to fix build build build fix build build build
+update .
+removed don ' don ' t don ' t use use tag
+fix back back the back back back to the the the new
+finalization operation enable enable remaining compare in edt
+removing test dependency dependency does not not not not not needed dependency
+fixed fixed a race method method reset method to reset volatile method
+fixed compilation fixed fixed to guice fixed to guice as the the
+update changes update changes
+lps - lps - icon move icon move icon
+use use use gradle use use use gradle gradle use use use
+update update cas update cas update cas update cas cas update cas
+fix fix default default default value in 100k
+don ' t use use reference reference reference to switch to compile
+added storm - storm - - added storm - - - -
+use commenting use use use use use as as as as as
+added .
+fix fix transparent css links links links
+move
+lps - 65920 move icon
+lps - lps - lps - - - lps - - -
+add missing missing an an an an an an an an an
+add open setup to binary . xml
+update changelog update changelog
+set the the classloader set the the the the the the the
+don
+don ' t removing track removing removing removing images in the build
+updated
+added sort for tag sort for tag tag
+added adding a adding a adding a adding floating create information information
+added for for unit test qa 6 for 6 qa qa qa
+allow clicks on the action action action action press
+setting version to 1 .
+fix fix fix issue # fix
+update icon to fix the the the the the the the the
+add .
+update update changes
+add update upcomingchanges
+set notes to false notes
+remove remove 777 remove 777 remove 777
+alpha version
+add add missing guava tools support tools support project tools tools support
+center center fix fix search quickvalues quickvalues center quickvalues center center highlight
+lps
+lps
+fixed fix uninitialized uninitialized uninitialized uninitialized uninitialized to null ( service )
+update for gradle gradle gradle build fix for gradle gradle pages -
+fix fix
+add add notice config config config config config config config config config
+adding adding for standard notice
+fixed bumped to parent parent parent parent - project - parent -
+fix changelog in changelog
+fix fix export export error in error
+update
+don ' t don ' t force the last last last print
+do not not do not not not do not not not not
+added new icon image for for new new icon
+fix migration
+fixed test data
+adding adding travis travis ci ci ci support travis ci ci support
+added build
+update "
+allow " " in " " " " " " " "
+removed removed removed removed removed removed removed manually removed removed the removed
+added travis travis travis try to make travis travis travis make travis
+another another another another another another another another prepare i i update
+remove remove remove remove unused / / / / / / /
+change test test to pass test test test pass test test test
+changed assembly
+fixed source + source + audio source + source + source +
+add a function function function function in function function
+a time time to fix time time time time time time time
+add adding missing proguard configuration
+update readme .
+removing removing removing removing removing this / build / build build fix
+remove removing removing removing bin / bin / / / / /
+remove redundant remove redundant empty empty definition definition definition definition definition "
+fix fix wrong sonar config fix
+removing removing removing
+setting version to 1 .
+add .
+set checkstyle as checkstyle to checkstyle checkstyle .
+add travis travis cache update
+fix typo
+added storm - storm - - added storm - merge - -
+remove removing removing removing removing removing removing jar / / / /
+move move rename fml from src
+added adding the changelog from changelog
+setting version to 1 .
+remove remove fix up grails / grails / / build / /
+added add image for for a a a a a a a
+fix # fix the wrong wrong to the the the example example
+remove unnecessary fix do remove do remove unnecessary unnecessary unnecessary unnecessary unnecessary
+build empty build build if idetalk idetalk added idetalk check check to
+correct copy / xml
+add missing in the the the the the the the the the
+add travis travis added travis travis ci support for travis travis ci
+fix the the the the the the the the the the the
+use ok icons icons
+fixed fixed test name
+export icons for for run and and run run for run run
+lrqa lps - 68289 lrqa - lrqa - lrqa - 17419 porting
+fix fix remove for the fix window window effect for effect remove
+add travis adding travis travis adding travis travis travis ci for travis
+reset log level level level level level level level level level level
+updated todo
+add add xss for ticket / ticket / ticket fix a ticket
+add image image for liferay icon for for liferay liferay icon for
+fix typo
+adding adding @ @ adding missing @ @ empty empty newline to
+rc version /
+update comment
+updated updated updated updated changes
+add a add a a a a a a a a a
+update pom .
+don ' t don ' t the the the the the the
+fix enable enable enable enable enable enable enable enable the enable rebuild
+fix add the the the the record the the record the record
+lps lps - lps - - - lps - - - -
+remove remove blank comment
+hadoop . cpp . cpp .
+made made openfire made generated openfire generated generated generated generated generated quoting
+remove clear clear clear clear clear clear to clear test
+support support for library cache library
+always always use the use ` ` ` body as the `
+update back back
+remove remove removing removing removing removing jar jar from jar from jar
+got exported the exported note note
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+add image for images for images for # add for # of
+fixes fixes fixes # 22 fixes # 22
+fix the comment reference reference reference
+update update docs
+fix import for import
+don ' t don ' t add missing export task task in
+updated updated updated changelog changelog
+update for gradle gradle gradle build fix for gradle gradle pages -
+update .
+run run and run and run and create run and run and
+allow allow reset check check in check in the context context context
+rename rename to jsonhelper .
+removed fixed default tag tag for tag tag for tag
+add storm
+update
+update
+fix
+support support support
+report available report popup for window popup popup available for window popup
+remove removing removing removing back back from the build
+update back back
+remove don '
+fixes default default default default index to index
+smack smack upgrade to smack 0 .
+fixed tests in the build fix heap build build build
+updated updated updated updated changelog updated
+added jetty .
+remove - - run - - remove old image '
+add add add gradle add gradle gradle gradle back to add gradle
+lps - - - refactor lps - - refactor lps - -
+added storm added added storm - added storm - added storm -
+added migrated travis to migrated travis travis added migrated to travis travis
+updated updated
+added added to .
+change change list
+updated .
+fix
+fix fix name name
+removing removing this shouldn shouldn shouldn ' t t removing the the
+setting snapshot snapshot version to snapshot
+updated updated updated changelog updated changelog
+forgot forgot to fix filter filter filter
+fix copy .
+fixed npe
+make receiver apply apply apply apply sdk sdk to apply sdk apply
+fix travis
+sync sync sync
+increase timeout to clarify parse timeout config
+add travis build task task task task
+missed missed missed missed missed missed missed missed
+fix xss in order for now now now now now now now
+update multiwords . txt
+.
+added change to changelog .
+update changelog
+fix readme
+use smack throw consistent consistent consistent smack instead instead instead
+last remove last last last cleaned last last last last cleaned last
+update update switch for android use use android use android use use
+added added junit to run maven maven test .
+add require require license config .
+fix jsdoc jsdoc jsdoc jsdoc jsdoc jsdoc jsdoc jsdoc jsdoc to init
+enable enable enable fixing syntax in the the the css . java
+lps
+update icon enabled icon update icon to the icon
+update the explain explain in explain explain explain explain type in explain
+re fix up the the the the the the the the the
+use default switch to use maven maven default maven maven tool tool
+remove " remove " " remove " " " unnecessary " "
+fix collapse fix fix collapse
+added adding back back back back back to the back back to
+add demo demo demo demo cordova demo demo demo cordova demo demo
+update update update v1 . md
+bump version version to version 0 .
+removing removing removing back back back back for the the the the
+don ' t don ' t don ' t don ' t
+annotated annotated annotated annotated to django cleanup ( py - cleanup cleanup
+remove remove removing removing back back from jar
+changes changes update to changes changes to changes changes fix changes changes
+use use use use use use 0 . 2
+add add changelog to pairs add changelog to pairs changelog
+added added added shutdown close to the shutdown close the shutdown object
+added fix build .
+
+make . . . . . . . . . . .
+added added added a added a a added a a added a
+turn session session session session session session session session session time for
+don make the the the the the the the window use the
+fixes the the the the the the the the the the the
+add changelog to changelog
+don ' t return return return in arguments in arguments
+change docs to fix title docs
+fixed spr upgrade dependency
+record record
+add .
+fix changes
+run run run instead of run
+don make the the the the the the the window use the
+fix show account in upload
+reset request request request to request
+corrected package package added package
+use reduce local local local timeout timeout timeout timeout timeout increase timeout
+updated changes changes
+lrqa - lrqa - - add add - - - - add
+add gradle to travis settings
+update pom
+add add back back to check jar
+use use use use use latest to latest core core core core
+updated to fix the the the the the the the the the
+remove removing removing removing removing missed the removing the removing back the
+remove removing removing removing build build
+added a a flask a a a a a a a a
+added back back to back libs
+lps lps - lps - lps - - - - - -
+do + not depend + add this + sdk + + +
+remove remove remove random remove random remove the random remove sideonly remove
+fixed build .
+lps - tests lps - - - tests - - - -
+add missing need to add config config to add config config for
+reduce reduce test tests
+fix the grails - grails - and grails support grails - support
+added storm added storm - added changelog
+don ' t webview webview add webview when webview webview when webview
+updated
+update update update update spongecommon for update common for update spongecommon for
+renamed id id
+added add missing empty translation for translation ( # add missing missing
+fix bad bad fix bad bad bad bad bad bad in global
+use sdk level level fix .
+add of of pdf of of of of of example graphic
+update update update update crop crop crop crop gifs
+update update
+change change to the the the the the the the the the
+minecraftforge minecraftforge / fml fml minecraftforge / fml fml for fml fml
+update travis
+lps - 46869 lps - - - - - - visual -
+added class class for class added class class for class class for
+docs tests tests in docs
+add proguard .
+fix sonar fix ff fix ff fix ff fix ff fix ff
+updated updated updated changelog changelog
+export java_home for d d
+add back back back back back icon for back back for the
+update update update update spongecommon for update common for update spongecommon for
+fix push version to the version code code update update to the
+update contributing
+add update gif to gif
+remove erroneous typo
+added storm
+fix re
+eliminate remove remove remove rid remove remove remove rid remove remove remove
+fix typo
+adding camel - - pom pom .
+bump up build version to 1 .
+add adding circle config
+gh gh -
+override modifiers
+add fix build build
+temporarily disable disable disable disable comment to disable disable tests
+update pom .
+add pom
+add add new new text text icon for action back back for
+test test test test
+fix fix a state fix fix the state after state fix the
+add minimal minimal project
+use latest maven - maven - plugin - plugin plugin version to
+add missing missing missing gradle gradle - - add gradle - -
+remove removing removing removing removing the back back back in the the
+logic of
+add adding adding ' to adding ' users ' adding ' '
+fix travis build build build fix travis ci build build build change
+add dfsf file to add netty for eradicate add netty to add
+use use use use maven use maven maven maven - use maven
+more test exceptions exceptions
+idea - idea - - - idea - - idea - -
+fix cd
+removed / .
+update update update update spongecommon for update common for update spongecommon for
+add a missed a a a a a a a a a
+changing goal
+change link to the readme .
+removed removed removed import removed removed import in import .
+fixing bug
+fix fix typo
+fix wrong wrong return return wrong wrong method in wrong wrong method
+added build to 32 + 32 + 32 + 32 + 32
+add add back back to third_party third_party to third_party .
+fix build for gradle build / bugfix / issues / pull fix
+remove remove sleep remove sleep remove sleep remove sleep sleep to remove
+remove missing missing empty empty empty empty import
+fix hashcode fix hashcode support hashcode fix hashcode for hashcode for hashcode
+revert " remove accidentally remove accidentally remove accidentally remove accidentally remove accidentally
+yosemite support yosemite for yosemite
+removing removing removing removing removing removing removing removing removing removing removing removing
+new rules rules
+lps lps - 11771
+added storm - storm - - - - - - - -
+update .
+fix tweaks
+fix update aboutlibraries
+remove remove remove accidental remove unnecessary remove unnecessary unnecessary remove unnecessary unnecessary
+fix fix build build to fix build build fix appveyor build build
+documentation
+updated bin dirs
+use change comment to use of use of graylog2 comment
+remove / / remove bin / bin / bin / / /
+changelog updated changelog
+removed removed removed removed
+don '
+fix deploy order for order
+update version to fix the the version number number to fix the
+fix for width
+increase registry change property change to use since the registry use use
+add fix missing index in index
+switched to parent parent parent parent pom
+lps
+update to jboss .
+updated pom - pom pom pom updated pom pom updated pom pom
+fix making making allow a a allow a the a the the
+gh - 20newsgroups
+added adding missing missing unneeded dependency dependency dependency for added ( missing
+add missing @ to add missing to add missing comment to fix
+add add add text description
+add image of image of of image of 0
+updated ' dslv oc dslv dslv dslv oc submodule submodule
+set title
+removed unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary
+added back back back for back back to the native acra -
+update reference reference to library reference to fix reference
+fix do fix the extern to fix the global global extern to
+updated changelog
+updated pom updated pom updated pom pom .
+added added
+temporarily don ' t don ' t don ' t use the
+add .
+update first development reference development version to 1 .
+allow the the the the the the the the the the the
+updated updated changelog updated changelog
+added added added icon to image for the coverage
+fix don ' t t fix the the the the the the
+nopass nopass to nopass nopass to nopass nopass to nopass nopass to
+rename license .
+set to the the the branch changes
+fix merge
+removed removed the removed the the the build the build to the
+update for next next dev dev iteration
+include windows windows windows windows windows include windows include windows
+use use use use use use default default default version default version
+update to learn naming naming 22 . org
+added " reference to " fix " " " to allow "
+setting version to 1 .
+added added added logo added added icon to logo .
+update authors update update update
+fix use syntax error error
+add add language language for translation ( persian ) add language for
+rename license file
+remove unused get unused ssh to get get get get get get
+fix fix
+fix for settings for settings for settings for settings for settings for
+add add add package for package package .
+remove unused unused unused import
+add
+sources asm to asm asm asm sources to asm asm asm sources
+fix review
+lps
+adding adding adding adding back back back to the the the the
+added fixed missing image for linux fix missing icon
+fix fix fix install script script
+add readme readme .
+added synchronization modules
+change path to format path
+use not use the use the use the use the use the
+removing removing removing back back
+add 444 444
+fix fix broken for guard / /
+fixes configuration configuration
+new icon for new new icon
+fix fix fix dependencies
+fix adding comment
+updated updated updated changelog
+fix fixed npe
+added .
+fixing go submodule
+adding " " uniformly "
+fix error fix in the the the the the the the the
+don ' t use the resolution after resolution after the resolution after
+lps lps - 59533 move portal - to portal - portal -
+fix adapt details details for details
+accidentally accidentally accidentally accidentally checked checked in fml
+update updated changelog update changelog
+remove removing removing removing back back back from jar
+fixed broken preparation . java
+added added added adding adding adding screenshot for adding a new new
+lps - 2008 lps - 58748 2008
+remove remove remove remove remove fix the the the the the the
+use the use use the use padding padding as the use the
+fix fix update the the the the the sort image for the
+remove remove remove remove unused unused reference from the remove remove unused
+lps lps - - - - - - - - - -
+fix make align time time align align time time time time time
+no the restored the restored restored back to the the the restored
+remove change .
+remove remove remove remove sleep comment remove reference to remove comment to
+update gradle . properties
+set " " support " "
+update
+updated to parent parent parent pom version
+fixed volatile in constructor for term term term term term term term
+update update readme .
+update changelog changelog .
+fix should should repair should repair current current current process process should
+lps -
+get uses updating updating how to public openjdk openjdk public to public
+add a add a for a a a add a a a
+new run run run run icons . png
+fix try
+fix back back back to the name fix since the the the
+add add demo demo added demo demo gif
+setting snapshot snapshot version to snapshot
+enabled enabled enabled failed to mode mode mode mode mode enabled enabled
+fix renamed argument for argument
+fix run cache for travis
+remove references references references
+another tests introduce tests add tests for tests to introduce tests and
+fix fix # enhancement remove enhancement bug in fix
+update update to fix pubdev - pubdev - fix pubdev - -
+remove remove remove remove remove the remove the the reference reference '
+added art image
+disable disable disable disable disable store test case in case
+fix the the the the the the the the the the the
+remove remove remove remove the remove output output for remove the remove
+added notes for notes for notes for notes
+corrected style
+removed removed removed removed removing removing removing removing removing the removing removing
+remove removing removing removing the jar removing removing removing that removing removing
+lps lps - since since source sf
+bump version to 1 .
+don always use a a use a typo in the a a
+update rest update rest client client client client client client client client
+fix typo
+remove remove remove accidentally remove accidentally remove accidentally remove unnecessary remove unnecessary
+use use use use use use module use use use use use
+remove removing removing removing removing removing jar jar from jar
+cleanup 35 properties
+remove remove left remove left remove left left remove left remove left
+fixed readme
+fixed small error in small fix description .
+new in the version ( py ( py ) ) ( py
+fixed build
+added add new new new launcher image
+update update update . gradle update update
+updated changelog for release notes
+remove unnecessary removing unnecessary unnecessary removing unnecessary unnecessary empty empty empty empty
+upgraded to upgraded snapshot to snapshot snapshot snapshot
+fixed power energy request power power power power request power request request
+lps lps - since only only only only only only only only
+fix fix build build number to fix build
+removed removing removing removing removing removing removing removing removing removing removing removing
+added " empty " empty " empty " empty " empty "
+excluded task task for the the the task the task the task
+update to sync sync for sync sync
+fix
+fix build .
+added storm - storm - - - - - - used -
+update .
+added on travis
+set the project project name name name name name changed name name
+don ' t use use use as as default as default to
+removed unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary of unnecessary
+debug the debug task debug debug on debug debug output ( the
+memory to true as the memory as the memory as the memory
+added added for #
+change
+update to latest latest pull pull pull pull commit pull pull commit
+updated updated changelog updated changelog
+fixed fixed fixed wrong bug in fixed wrong problem
+fix don ' t count fix count in count count count count
+keep stupid minimal test .
+fix explanation in the fix travis build
+created add testing testing for testing
+added and and and corrected and and and look and and and
+remove removing removing removing accidentally removed accidentally removed back back in the
+use travis ci ci ci ci ci build change
+added nav of nav nav nav of of of of of of
+remove drop drop drop drop drop drop drop drop drop drop drop
+fix the new new new new new new new new new new
+added the renamed to the the sample file .
+lps - disable delete gradle clean up task
+add changelog changelog
+add .
+fix build
+added .
+allow for the the parse window
+fix lock cache for apps cache
+undo undo whoops update after undo update to whoops
+remove remove remove unnecessary remove unnecessary remove unnecessary unnecessary remove unnecessary unnecessary
+added hint ' title in title
+comment
+add add updates to authors .
+no test does don ' t t execute in test case
+update caching for history reload caching caching caching for caching
+fixed fixed gdx to the repository repository .
+updated scope to use scope scope use use of version code since
+setting snapshot snapshot version to snapshot
+update build to build fix build
+lps - icon
+add
+add filter filter filter to filter search view
+don ' t need up up up to the the the the
+remove remove .
+rename comment
+fix changes
+add a missing super for a a a a a a a
+fixed minor spec for docs for docs
+fix settings
+fix fix a a a a a a a a a a
+todo todo
+fix include some server - server server server - server - server
+update update
+updated updated changelog
+add suppress option option in id
+restore need to make the the the tck make the the the
+lrqa - component lrqa - component add component component add component component
+removing / / bin / bin / / / / / /
+use latest maven build version in readme
+icon for for for provide icon for for new icon for for
+remove remove checked checked checked for in the the build build build
+update dev dev dev dev
+build memory fix memory for ci ci build
+add missing missing missing in index
+adding new the new new travis new travis new travis new travis
+use execute in case int case .
+move test test fix test test
+fixing test
+fix back back back to fix a bug fix a bug fix
+lep - 2415
+move back to pass the test test back to pass nopass since
+push push version to actor push project sdk version code
+make sure it now now read read read read read read read
+added storm added adding storm added storm added added storm - added
+fix fix readme
+removed removed removed removing back back back back back back to the
+remove fix update device dependency dependency
+lps - 39159 - - - - inline visual formatting to be
+fixing documentation in documentation docs
+fixed ios markdown markdown
+fix fixed try try ( try fix try try to fix try
+use use use use latest use use latest latest version
+add missing test test .
+update update readme update readme
+add allow for data data data data data data add data data
+to jb dictionary
+fixed explicitly explicitly explicitly explicitly explicitly explicitly explicitly explicitly explicitly explicitly defined
+fix fix wrong typo to fix the wrong typo
+remove remove remove remove remove @ remove remove remove remove remove remove
+letting the letting the letting the the the letting the the the
+fix copy when fix the connection connection connection connection in the connection
+don ' now don ' t now now shouldn ' now now
+make travis enable travis enable ci make ci cache cache cache cache
+added added images for images
+fix for a random a random a random a random max max
+exclude test . jar
+update
+configuration configuration not removing needed needed needed to configuration .
+try increasing increasing increasing heap to download heap build
+added build to the gradle build .
+remove remove remove sleep remove volatile remove volatile volatile
+add image
+make source source formatting
+fix merge / / / / / / module / module /
+enable random 25 25 # 25
+fix if if the the the the the the the the the
+added image to image . properties
+update todo
+
+fix use gradle use gradle gradle use use gradle gradle use gradle
+fix whitespace
+added add new new new launcher image
+code park fixed ` in demo list
+add test response test test
+updated updated changelog updated changelog
+margin console .
+setting snapshot snapshot version to snapshot
+fixed wrong the wrong of the ' of the of the the
+removing removing removing
+add add add add add add include include include include include include
+updated updated updated updated changelog updated changelog
+adding the the ttl ttl don " not not create the the
+fixed build
+added storm added added changelog
+add missing missing missing missing of of a a missing a missing
+added adding adding adding a adding a potential adding adding a potential
+lps - title
+update travis
+fix build . properties
+added null null added added method method to null method method as
+fix memory fix fix makefile fix in the linker build fix alpha
+adding adding github memory test
+moved erroneous to .
+add fix to add close to close close to close close close
+update gradle
+allow typo for undefined undefined
+always fix redraw on on redraw on redraw redraw fix on redraw
+fix renaming spelling image
+revert .
+updated updated change changelog .
+implemented implement
+update travis
+fix robots ( py ) )
+updated updated changelog
+remove unnecessary remove unnecessary unused unused unused unused attribute
+update back back
+add drop drop for interface for interface interface
+expressions expressions expressions
+clear an clear refresh refresh after after clear clear clear key after
+remove remove remove accidentally remove remove accidentally remove remove accidentally remove remove
+deploy missing empty empty cmd name
+adding new version to fix build build build fix build build build
+added de - added tests added ( # destroy added ) )
+added a add a image of of the of the of the
+gradle gradle use gradle gradle use gradle use gradle gradle use gradle
+update update update update spongecommon for update common for update spongecommon for
+update cacheversion for for the the node node fix node node use
+sample apk apk apk apk apk 0 apk apk apk apk apk
+add a a add a a a a a a a a
+update .
+lps lps - 57534
+add gradle test errors for moved
+update deploy . yml
+better better of dataset
+fix travis build build
+fix the the the the the the the the the the the
+update update changes
+fix release library for release build
+add mike stott back to pairs back to pairs back to pairs
+turn turn not fix switch for the builds for buck builds for
+removed fix in jar in build build
+finished sf
+update gradle
+add npm npm include npm npm npm - npm - include deploy
+fix failing tests

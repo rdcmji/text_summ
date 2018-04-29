@@ -1,0 +1,1981 @@
+missing missing icon .
+lrqa - 16928 enabled flag to test pass
+added missing jna version to code 1 .
+fix fix bug .
+change change pom .
+fix .
+updated updated updated changelog
+update pom .
+use use use options options
+updated and and compile and compile with latest compile gateway gateway gateway
+add missing docs
+rename rename title .
+related configuration configuration
+upgrade coverage - rule class
+add add for the add the constant .
+fix test .
+add alpha - - sentence on testing
+spec spec css
+rename rename test .
+fix test
+console console console .
+update to the the the authors .
+update
+change change pom .
+update build .
+update build .
+update .
+fix doc .
+added project - - project .
+update sdk project
+use visual note use use use layout use use change layout layout
+added to storm - storm - - - modify storm - -
+update update to api api api fix api api api api api
+updating reference reference .
+setting content content content content
+update readme
+remove enable openjdk6
+return return to return return return as as return return y of
+fix ` improve ` ` ` ` ` ` ` ` `
+add method method method method method method method method method method using
+fix up signing build .
+added to include include include 1758
+modified title
+update update build .
+add new configuration .
+added missing cvexample .
+added back to new button button button
+handle apache apache startup startup statement statement
+changed pom pom
+lwjgl lwjgl lwjgl lwjgl version 1 .
+exclude .
+jal - png added png png
+added missing for add missing notes for entry .
+add storm - storm - - - - - add storm -
+actually actually actually actually actually actually actually actually actually actually actually actually
+fix ios layout in text
+lps
+added enable enable dev dev .
+fix legend
+fix pom .
+added storm - - - - add storm - - - -
+update .
+ensure all all global global global global global global global global global
+log log log test dependencies
+fix warnings .
+fix the fix groovy error .
+updated for changelog .
+fix bad remove bad code code code code code remove code code
+remove deprecated comment .
+add a comment comment
+
+lower application component in activity
+update example example example in example example
+update update spongecommon update common .
+add snapshot to tracking tracking name
+added linux lib for linux .
+added method method method ( py ' ) method added method method
+fix fix # #
+update pom pom pom
+add missing build - - - build - - build - -
+update gradle .
+suppress warning
+added storm - storm - - - - known known storm -
+switch switch back to switch .
+added / / code src / src / / / src /
+change default default .
+made now now not not not not not not not not thrown
+delete .
+add update todo
+push .
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+update .
+lps - lps - - - - - - source - -
+fixes # 4399 support support support and # support support support #
+update gradle .
+ensure code code needed needed code on code code on code png
+fix ` return ` to ` ` ` ` ` in `
+upd .
+use use the use the correct view " view / / "
+hive - testing testing testing plugins
+update kmeans test feature - feature / r / / / /
+clarify polished .
+update update .
+update pom .
+update
+update .
+fix .
+fix typo
+remove
+updated updated changelog
+remove targetsdkversion "
+updated updated changelog
+add add to add to add new new to new new new
+don ' py ' ' don ' ' ' ' don '
+fixed working .
+fix indentation
+added class class class class for class class class
+update setting version .
+only fix travis
+added some built natives file to .
+set overlay flag flag in
+updated changelog changelog updated changelog
+included permission permission .
+delete file .
+remove unused unused imports
+add missing for include include forgotten include forgotten include for the forgotten
+added storm - to add to storm - 0 - - -
+added storm - storm - - - - - added to changelog
+added storm - storm - - - - - - - -
+update .
+add a @ comment comment to fix a comment of @ @
+revert groovy for groovy for groovy sync sync for grails - sync
+load load load load load load in load
+update gradle plugin .
+the the the the the the the the the the the the
+new new
+remove remove comment .
+removed old jar
+use java 1 .
+change border
+added missing for missing missing import .
+fix chmod file
+should have a note of output of apache hive - - -
+removed jar jar
+added osgi license
+fix decay - png png in png
+add for store store size for size .
+mark enabled target to mark android android android android android android android
+readme
+lps - 57626 migrate migrate migrate icon / / jira / /
+setting .
+add words suggested "
+changed changed example number to the example example
+should have the the the the cache the the cache the validation
+made transparent transparent png png image .
+return boolean boolean method for boolean method .
+trying slack .
+update readme . md .
+update build to build build wrapper 18 - beta3 .
+update pom .
+add don ' t actually actually actually actually actually actually actually override
+removed redundant dependency .
+added .
+exist .
+update so was android latest android android android android android android android
+lps - 16828 sf sf
+make change css / css / / / css / / /
+update smack with latest smack api version .
+fix do .
+update pom .
+update samples samples
+test again again .
+test test .
+added png png .
+refresh refresh refresh refresh file
+added reference in apache jar
+adding more more y .
+fix typo in fix
+added missing to generate maven assembly .
+remove newline newline
+removed blank source .
+added checked checked in order file .
+fix bad bad remove delegate / src / src / src /
+renamed renamed to correct correct bug .
+update jar jar
+fix shouldn .
+make mark mark mark mark mark mark mark test scope as mark
+changed back back to comment .
+updated updated updated
+fixed imports .
+added .
+added storm - 1674 to changelog
+fixed py py - 2679 fixed py py - 2679 2679 2679
+removed virus binary .
+format
+fix the uppercases var source var actually actually actually actually actually actually
+fix the small convert layout layout in layout view view
+modified artifact style
+don .
+update build .
+update pom .
+replaced transparent texture to texture work in texture
+allow this i .
+ignoring ignoring ignoring .
+fix
+add storm - storm - - - - - add storm -
+cvs on a a a a latest a a latest drlvm -
+change back back back to 1 .
+added storm - 820 to changelog
+lps - lps - - - - - - sf - -
+move move test test to fix test groovy - test - test
+remove remove tck / test / / / tck / / /
+update license license
+fix enable timeout fix timeout for method fix method method
+fix javadoc .
+suppress $ jar .
+added added back to chapter .
+add compile build .
+lrqa - 14606 lrqa - 14606 add portlet property property property property
+delete files .
+fix deadlock in svn
+changed package
+update docs .
+fix small small small small height to fix issue .
+gh gh - - - - - - - - add -
+updatet updatet updatet updatet open submodule
+revert " " " " " " " " " " "
+added storm - 1423 to changelog
+fix
+increased and and and pipeline pipeline pipeline pipeline pipeline pipeline pipeline pipeline
+updated updated
+lrqa - property lrqa - - property property property property property property
+fix trying .
+delete old .
+added glossary .
+removed changed directory .
+remove 777
+added missing icon .
+update to add ios to latest apache url
+removed pom pom
+add check check .
+disable get rid get rid get get rid get get rid get
+
+lps -
+remove /
+fix travis travis
+added storm - storm - to added storm - - - -
+added back images for .
+re
+use return return return public public .
+fix layout for layout layout layout layout change css highlight css highlight
+added sqldialect
+update travis
+lps - 56746 sort sort
+updated updated pom
+fix to ldap ldap ldap stream dir
+updated version version .
+do do not do do not do not do not do not
+fixed version .
+update .
+update .
+delete .
+removed /
+fix '
+readme readme
+add example example
+added missing diagram
+move back to nopass .
+added missing compile for compile compile compile .
+updated icon
+add doc note
+add forgot to test folder
+reduced test execution
+register null null check
+messageoutput function )
+added missing archive to last src 4 .
+revert "
+don ' t all all all all line configuration .
+fixed fixed .
+add
+lps - 50848 move move icon
+lps - - move module to exclude module module module module module
+fix chmod for executable executable executable executable executable
+create readme .
+added added typedefs .
+lps - visual - - left left left left left left left
+fix wrong bug
+fix npe code code fix npe
+readme
+updated updated updated
+gh - gh - - update gh - build - gh -
+revert " " " " " " " " " " "
+added messenger to messenger 2 . 2 .
+removed sources jars .
+added missing version .
+updates chat chat chat image icon
+added back to png png .
+trying .
+fixed test test
+update
+keep org . java .
+dont print print print print for synchronization .
+removed another warnings
+lps - - lps - - - - - css - -
+added added gif to .
+always allow always always allow space on always always always always always
+lps - lps - - - - - - - - -
+follow not not not not not not not not not not not
+lps -
+remove grails - build .
+ignoring .
+lps - icon move icon - - icon - move icon folder
+updated change to change core from 1 .
+coping was needed in .
+update value_count issue # include
+removed .
+added storm - - - - - added storm - - -
+update updating changelog
+add add about notes about about about users about add about buck
+update .
+remove remove / proguard / example / / / / / /
+update update rest - rest rest rest rest rest rest rest rest
+update docs
+update
+lps - 61767 do again to make next build next build ,
+revert "
+fix fix bug .
+reduced jetty logging .
+use use specify build - ci - build - ci build -
+fix compile . . . .
+added storm - - - - - - - - - -
+save save integration save integration integration tests .
+remove remove remove groovy import
+trademark static static static naming naming in js
+update update description .
+added all pom .
+add missing package .
+
+update ' about ' about warn ' about get ' about about
+lps - update
+library src dir .
+missing missing language key
+update .
+comment again
+update update gradle .
+add target target target .
+fix fade
+dependency all all all all jar jar .
+add to add to android android android android api api api api
+include all default default to default osgi classes .
+remove probably probably always probably always always always always always always always
+fix the i .
+make checkstyle make checkstyle make checkstyle make checkstyle make checkstyle make checkstyle
+default default version
+updated updated changelog
+enable building building = enable ' exclude exclude " true from "
+idea log
+remove redundant used used used used .
+update readme .
+fix indentation
+addec changes changes
+update build
+rename rename
+change default default constant to default
+update comment
+changelog changelog
+update comment .
+don ' t don ' t remove unnecessary unnecessary unnecessary unnecessary line
+change change name .
+add option option .
+update gradle gradle .
+
+updated sample test
+fix
+removed removed
+run run run run run run run run run run run run
+add add add to add the string .
+add " " to " for the the the the the the
+added new images for images .
+remove print print statement .
+add mike changes
+show show show show show show show bug .
+update
+ideadev ( ideadev - ideadev - )
+remove remove remove unnecessary code code
+minor minor convention convention update
+fixed fixed wrong test
+updated for retina again
+added storm - 1553 - to modified changelog
+travis .
+lrqa - test fixing test test test .
+updated updated updated changelog
+whoops
+update .
+update build build .
+added build dir
+fix changes .
+change change groupid
+do do not not do not i not do not do not
+documented explicitly explicitly documented documented correct events to tar .
+update reference reference
+fix the proper proper code order
+added missing test comment to the the the comment .
+fix skip - release - - - - - release - -
+removed the build file
+update pom .
+fix move to fix test case
+tip working updated
+update update submodule
+update
+change default version
+update readme . md
+fix incremental build .
+added missing readme .
+fix proper solaris proper image .
+improved typo in
+fix metrics .
+update update
+update update doc update doc update .
+corrected typo .
+actually actually actually stop stop commit from executing source .
+lps - 12437 temporarily disable disable disable now disable show show show
+do not not not not not not not not not not not
+don ' m call call call call the end from the end
+fix jm .
+update build .
+removed .
+remove .
+fix fix for optimize ui table
+added pdf pdf .
+comment comment
+wfly metrics
+use proper proper name
+added storm - storm - - - - - 1544 changelog -
+remove runit_nopass_rdoc_prcomp .
+update .
+update update readme .
+fix add
+fix the pre . . . . . . . . .
+lps -
+always always always always always always always always always always always always
+added storm - 1396 to follow changelog
+fix the default space in error
+changelog
+i i i i i i i i i i i i
+added tostring string .
+don ' t use print notification notification class .
+removed wrong code .
+update
+handle the convert the startup startup startup startup
+fixed some remove constant constant .
+
+lrqa - 49651 - update test .
+update .
+update travis .
+update pom .
+rename graphics
+updated examples
+patch patch patch patch
+remove remove comment comment
+fix works .
+nullability nonnls in
+added missing reference to doc in doc .
+make excluded tests excluded excluded excluded test classpath .
+add add pro session session session link for linux
+return the return dsl dsl .
+add add storm - storm - - 0 - - - -
+removed '
+fix .
+instance specify instance instance instance for instance optimization optimization bump
+update again .
+don ' t don ' t don ' t don ' t
+remove ' ' remove ' ' remove ' remove ' remove '
+standard standard release project
+update .
+fix
+try again again to travis .
+remove remove
+build .
+removes compile dependencies
+update comment .
+remove unnecessary unnecessary unnecessary broadcaster in lexer /
+bump up version
+removed checked checked to checked checked checked file in
+include include generated location location .
+added src src for src .
+update screen screen
+added travis .
+fixes the the the problem when creating the the the the the
+updated parent parent pom .
+remove remove obsolete debugging .
+change it on it .
+add help style settings settings settings
+updated updated to components .
+update update
+update update spongecommon update common .
+set default options .
+add uploadarchives for multi .
+update load_model .
+update readme
+lps - 55886 sf
+added .
+enable the declaredglobalexternsonwindow of the the the correct the portlet of the
+remove no no no comment , no no this no this this
+increase pom .
+update
+update gradle jar to fix gradle jar 20 jar 20 jar gradle
+add dictionary dictionary
+fix fix regression
+added storm - storm - - to modify storm - - -
+removed removed unnecessary unnecessary variable in changes /
+rename
+update .
+forgot camera ref for ref
+removed old jar
+update contributors .
+update gradle build .
+fix config config
+comment comment
+fix remove in
+add xxhdpi icon size for png png
+added missing images for for part compat doc - fix doc doc
+updated updated changelog
+fixes java java 1 . 1 .
+added storm - to add to changelog
+use init init 0 .
+added new configuration images .
+updated updated updated changelog
+add words suggested by users
+adding new icq assets for assets
+configuration tweaks .
+delete old
+turn not not not not not not allow default echo / /
+added rest rest rest / rest / rest .
+fix unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary
+change release build .
+added new icon - .
+added .
+removed old jar .
+added project .
+fix signing signing id
+lrdocs - - added comment to added comment
+lps - 29365 - fix sf
+do ( do not do not do not create suppress suppress method
+webview convert component component .
+added activiti - - - - - - - main - -
+update .
+updated updated changelog
+add missing name .
+update
+remove .
+new qrcode
+added readme .
+use use use latest build
+remove remove repeat
+eliminate space .
+fix default error
+update setting version .
+in jar .
+update jar jar 1 .
+updated updated icon
+fixed test test
+kafka a minor minor minor minor minor edit minor source formatting formatting
+fix jars
+fix changes .
+lrqa - 50692 - - - update - lrqa - - -
+do not not not not not not not not not not set
+put imports
+fix
+update update
+update sh sh
+specify specify specify component component .
+increase maxpermsize memory
+removed roles .
+updated to parent parent 0 version .
+fix the success in env .
+update updated changelog . md
+increment bin version .
+bump up version
+don ' t remove unnecessary settings settings .
+update changelog
+fix pom .
+turn turn .
+add storm - to add storm - - storm - - -
+forgot close statement statement in
+don ' t always always always always always always always always always
+removed build script .
+remove remove line
+removed /
+use use improve improve of integration comparison comparison option
+added added back to configuration .
+update pom .
+added missing benchmarkrunner
+update pom .
+fix some wrong code error .
+update travis .
+fixed mistake .
+update example example
+update androidmanifest .
+move move
+update update spongecommon update common .
+remove update data to data data data data data data data data
+update update rest - rest rest rest rest rest rest rest rest
+add missing comment
+default default default version to 0 .
+clean build .
+fix comment since reverted javadoc comment / src / / / /
+esperanto esperanto ( esperanto esperanto esperanto ) )
+testing travis
+fixed peer .
+update readme .
+added missing icon .
+small small fixes small issue # of upgrade as as api as
+remove some output output with output .
+update readme . md
+no default note note
+fix compilation compilation .
+fix auto - config / config /
+remove unused attribute
+remove needed reference file .
+added build .
+update images
+simple simple simple simple simple interface interface interface interface
+update readme
+added broken image to reflect 0 .
+make it not make it make it make it make make it
+disable comment
+newline .
+do ' do do ' do don ' do do not not
+fix test error .
+update update
+added default version reference
+fix pom .
+removed unused file
+fixed linebreaks in py .
+whoops / apache / apache / apache / apache / apache /
+include include include include include include include export to include include include
+updating readme .
+remove gradle gradle dependencies from gradle
+update update rest - rest rest rest rest rest rest rest rest
+disable logging
+add url
+update update to src 1 .
+update update scope
+fix py .
+format
+update build build .
+don ' t don ' t don ' t don ' t
+fix for the the the the the the the the the the
+don ' t store unregister sign settings .
+fixed return return return .
+ensure it is not ensure ensure they ensure ensure they ensure ensure
+remove unnecessary unnecessary unnecessary unnecessary of unnecessary unnecessary unnecessary of unnecessary unnecessary
+create readme .
+publish the publish the artifacts to publish the publish publish task task
+update favicon
+add storm - to add storm - - - - - -
+always always always make always always always always make how how how
+fix .
+revert 2
+ideadev for ideadev - ( ideadev - ideadev - for ideadev -
+update changelog
+test commit update
+update update changelog .
+fixed the test the regex test rule rule to use the the
+lps - 52093 move icon - - icon - - - -
+added added and and and and and and and needed and and
+added to added storm - - - - - - - to
+fix mistake .
+add storm - storm - - - fix changelog
+sonar .
+update openfire openfire new new screenshot image
+do not android android android android android android android android android android
+fix typo .
+fix line
+remove a debug line
+added target target target target .
+remove remove debug prop
+ensure doesn ' t ensure doesn ' t ensure doesn ' t
+added link link to link .
+fixed gradle jars
+added project properties
+added feature check to issue issue #
+added build .
+update .
+change change to build
+fix error .
+lps - to return return return return to return return return return
+rename rename title .
+update .
+fixed to validate validate validate code
+lps - -
+update .
+fixing test test
+added new header .
+update pom
+lps - 47828 - remove source formatting
+disposing bug
+fix build .
+added osgi osgi version
+added missing jar .
+made new new new png png png png .
+add the settings in settings .
+update
+update readme readme
+missing missing dir
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+update readme . md
+fix javadoc javadoc
+reset reset flag .
+lps - 36609 fix sf
+to start the start start start of start
+update windows windows dll dll
+update doc .
+update travis .
+rename rename
+prepare version bump to 1 .
+allow groovy groovy .
+update
+removed old notification .
+update pom pom
+add gradle version to 1 .
+use use build build will use jdk8 build build build
+add javadoc javadoc
+fix missing - dependencies
+add add success for pubdev .
+update update spongecommon update common .
+note note
+added screenshot .
+add check check to publication .
+update to make api api license license license license update license .
+fix fix warning .
+fix the old the old the old the comment .
+update gifs
+rename rename title .
+includes minor includes includes includes includes includes includes includes includes includes includes
+added / .
+move move src to src module .
+fix pom .
+removed unneeded release notes
+updated export server server server .
+update .
+update update .
+update reference reference
+switch back to snapshot
+added new methods
+fix .
+rename txtfielreader . md
+updated updated changelog
+output output bug
+remove broken build .
+added .
+update gradle build .
+fix didn .
+more properties
+setting .
+fix fix build .
+added jdk 1 .
+renamed keep example to keep renamed sample api example
+update com .
+add some private javadoc as javadoc
+update 1 .
+lps - 61767 do again to make next build next build ,
+add add comment
+format
+removed old favicon .
+lps -
+unchecked unchecked
+update pom pom
+update readme
+add install install - install - install - install install install install
+update
+wait wait port in integrationtest
+removed fixed system in order in order
+invalidate refresh png
+adjusting the adjusting minimal path .
+v0 v0 .
+add some some validation to exclude some some validation script
+trying
+update hide style style
+fix using fix the the the the the end of the the
+update update location update
+test test fix test test
+add migration .
+added added png png
+add maven maven central
+fix typo
+fixed the the the the the the the the the parent parent
+fix typo
+added new new png
+fix correct version
+updated updated changelog
+added pdf pdf .
+gdx natives .
+fix small
+fixed .
+update readme
+update news
+update .
+add about about about note about about about some note about about
+added configuration configuration .
+lps - 45461 forgot to work .
+fix bad scope
+added partitionservice index to index problem .
+use the correct correct log error
+use use options options
+remove around .
+move back to nopass .
+removed not not remove not remove core / core / core /
+updated updated changelog
+comment again
+fix broken build .
+removed last store last store last output immediately immediately .
+readme readme readme
+add export result to .
+fix ( # ) ) ) ) )
+remove unused method .
+lps - 52161 update highlighting highlighting
+include exclude url .
+rename rename title .
+use use use $ use use $ classpath $ classpath $ $
+changed liquibase version to 0 .
+added license for properties
+added missing jar
+update
+update example .
+lps - 45043 lps -
+add storm - storm - - add storm - 1468 - -
+access access stubs stubs support
+revert unnecessary indentation in editor
+remove imports
+change change pom .
+remove { { } } annotation annotation annotation
+update changelog .
+remove remove
+fixed typo in
+add "
+lps -
+support license .
+added retina icon .
+invalidate post post post registration on post list dialog dialog dialog dialog
+freshen images images for # screens
+updated changelog
+fix npe fix for npe
+update update location update
+lps - 58587 to make next snapshot snapshot
+delete delete startup in startup
+let memory let let memory let let memory let let memory let
+default build .
+update jdiff application application application version .
+remove not not get not get not get get get the get
+added dist .
+removed import import
+fix thanks issue
+publish publish cache cache .
+update build .
+added release .
+only test only only test only only test change test test to
+fix icon - - - - -
+example example
+fix for png png and fix png and and src and more
+added missing new gif to gif .
+add add add ) to add ` cache `
+added image for adapter .
+update travis
+update build .
+move to move useless annotation to case .
+fixed test test test .
+specify java java 7 7 .
+stop travis cache
+update build .
+set back back
+lps - update to publish demo module
+remove rctlog command from
+fixing podspec .
+fixed error error is no no it ' t use use use
+lep .
+added storm - storm - - - - - - - -
+update update
+add hadoop release .
+make change put put put put put put put put put put
+add image image in image
+revert
+turn in validate validate validate comment .
+fix copy convert .
+fixed grails script script
+update
+remove empty empty test .
+use force use force alternate alternate alternate 9 - 9 fix build
+update readme readme
+fix proper error error .
+update api .
+enable deploy deploy deploy .
+lps - 63528 .
+cvs change for google google google google google google google compatibility problem
+update pdf pdf pdf pdf .
+lps - - lps - - - - lps - - -
+rename rename to readme .
+added camel - pom - pom .
+add some exceptions
+fix fix issue issue #
+memory memory set set memory memory memory memory set set memory memory
+fix polished
+lrqa - lrqa - update config .
+delete delete .
+catch catch check catch catch catch check catch catch catch check check
+modified liquibase .
+fix the bug which i fix the the the the the the
+update travis .
+tweak whitespace code code .
+update jar lib lib
+remove remove
+updated readme
+fix wrong typo
+fix javadoc .
+update
+removed trivial comment
+don ' t use reference groovy plugin plugin
+update
+make $ 126 )
+release tracking
+fixed issue #
+fix typo for the typo
+fix testdata
+give missing missing diagram for watch and missing missing missing diagram of
+don ' t use don ' t use use full full jvm
+update .
+update readme
+fix typo
+rename rename title .
+fix still fix the the the the the the the correct the
+reserve file file in file
+update to make single single version
+fix missing png
+update
+working file for go part code file
+groovy tests
+check check to check oss commit oss oss properties version
+animated target target target version library library
+ignoring .
+lps - 61819 - update introduction template template
+ensure need when when when store when store store when store store
+fix grails - script for script
+fixed typo in
+added missing
+added cb config
+update update spongecommon update common .
+update jar .
+added shadowremotecallbacklist to visit cache shadowremotecallbacklist to allow shadowremotecallbacklist cache shadowremotecallbacklist -
+update update example .
+use latest linux binaries with binaries
+include link link to include ios fields .
+( check check check check check check check about check about check
+suppress doc fields fields in
+fixing documentation data
+fixed .
+add to english dictionary
+added new screenshots
+remove missed registry .
+don ' performance tweak performance performance performance size link
+do not do not do not do not do not do not
+lps - 67352 add check to check - check - check -
+shell shell shell fix shell - shell script script fix shell script
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+added added release to release release 3 .
+decreasing default default max max max max max connections output in per
+update configuration configuration
+lps - 18242 fix typo
+added debug debug .
+remove fixed debug .
+more documentation documentation
+added new image
+remove undo
+fix
+remove extra snapshot from pom .
+fix fix
+removed remove export imports
+make format format format format .
+update alpha wip wip - wip v0 .
+update changelog
+remove remove whitespace
+update
+update gradle build .
+remove remove comment
+update dictionary
+removed old logo .
+update reference reference
+increase encoding property to
+update readme . md
+add update pom .
+fix fix .
+include drawable drawable .
+update update changelog
+added temporary
+fixing default namespace
+update news
+rename rename title .
+added missed to control control control to control control control control to
+clear after run after share run share run run run run run
+don ' t make i don ' t make generated r r
+update changelog
+update travis .
+added added repeating src .
+don ' t don ' t use use use devnull ' t
+add .
+use use use executable dir dir
+fix wrong bug
+dump problem with 105
+add storm - - add to storm - - add storm -
+updated updated limitations
+don ' t enabled out bar bar when the bar bar when
+delete / .
+added .
+fix typo .
+always make the the the the the the the the the the
+change version to build version 1 .
+fixed fixed issue
+use start start user start start user start start start start start
+fixing the travis .
+add .
+bump version version
+update .
+fix '
+update .
+removed useless useless warnings warnings in
+shippable shippable shippable - build build build against shippable shippable shippable build
+added missing checked reference to file .
+fix copied and icns - time - - fix time
+update news
+add javascript console
+ignoring files .
+added missing png .
+changed to fix spaces
+updated updated updated updated
+update pom pom .
+remove print print statement .
+p .
+updated introduction course
+removed import import
+fix try
+updated updated changelog
+add need to build .
+removed old jar
+update change to class base base base base base base base base
+use style style of style of style style style
+fix test
+fix javadoc jar jar
+update update location update
+add add add add include include reference
+include include
+update notice file
+added travis .
+fixed for test 0 .
+jar jar in jar .
+properties properties
+update build .
+update comment .
+added back to png png .
+rename rename title .
+move move to move to java .
+fix ref .
+fix intermittent test error
+fix fix scrolling - - breaks config config
+fixed wrong name name name
+update wrong .
+update .
+move move to correct correct java .
+made change pom
+fixed percolation test name in
+kafka - as parameter parameter parameter parameter parameter parameter parameter parameter parameter
+remove needed needed .
+updated updated updated changelog
+modify target target .
+made standard standard standard standard version .
+add missing check annotation to make the the the the the the
+include include include include export export .
+updated updated changelog
+lps - 5383
+added added for 0 .
+corrected index for for index index shrink index index link link for
+user run cursor - after run user cursor - after run user
+removed back to the the the the manifest .
+add storm - storm - - - - 1837 - storm -
+update pom pom
+update update spongecommon update common .
+include include include include include examples to include the include examples build
+support
+lps - - - - - - - - js - -
+travis travis build .
+update pom .
+added storm - storm - - - 0 - - - -
+include type parameter type link link to include proper proper proper type
+update .
+removed new jar jar
+update update
+removed removed old logging .
+update h2o .
+added create release .
+update readme . md
+fix debug test
+fix the grails - run run run run test run
+make make now make make make default build build 20 .
+add building in building .
+added travis configuration file
+shell shell convention .
+updated
+part export export part of part of export / script / /
+update
+update .
+update
+lps - do do do not not do not always do not
+undo comment
+enable enable maven maven central maven central enable enable maven maven maven
+fix
+update update .
+ensure shouldn not get need when web when web web get get
+fix fix pom formatting
+fix the copy the correct action action action .
+suppress debug debug info info
+fix clone in sqlcipher ( ) ) )
+update readme
+lps - move lps - portal move test move test move test
+update test test data .
+reduced cassandra - comment change change comment for cassandra cassandra - cassandra
+removed updated build file
+update readme . md
+update travis
+update update build .
+lps - 66925 add wall 66925 tag tag tag tag to (
+updated updated changelog
+trigger the sign sign sign
+fix broken signing id id
+lps -
+readme .
+make this depend make this depend make this depend make this depend
+fix .
+added gson jars in order
+do don ' t remove fail it from from fail
+update gbm .
+add missing lang / lang / lang /
+remove cucumber line
+add modified to build .
+fixed an show show comment
+removed out out out out out out out out out out out
+fixed issue for smack - fix smack /
+updated updated bigbluebutton . txt .
+fix broken id
+hadoop e . sh
+removing * * * * *
+adding another stack .
+fix incorrect copy preference check in preference
+update to use latest latest apache version
+removed no no no no no longer care of function care ,
+fix typo
+updated cxf version
+do not fix the the the the the the the the the
+lps - 50752 move back to constants .
+remove remove idea / idea / sf
+add access access to access .
+removed in last last dist
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+added new png for png
+check npe check check
+update cpp url
+updated updated
+update build settings .
+updated .
+remove not working not not working not not working not not not
+fix fix
+patch patch patch patch
+update update spongecommon update common .
+lps - 37622 - - fix source - workspace source - -
+.
+trying travis
+enhanced enhanced enhanced enhanced enhanced enhanced more enhanced more enhanced more enhanced
+added to added storm - - storm - - - - -
+fix fix bug
+rename desktop desktop desktop desktop desktop desktop desktop desktop desktop desktop desktop
+updated version version to since the the version version bump version since
+update 1 .
+fixed smack - convert method misc to return misc / misc /
+update version 4 .
+add comma .
+fixed fixed typo
+update .
+trying move to fix grails .
+add support and jdk and and and include and include and include
+fix update
+update license .
+added numpydoc to list
+more css css .
+remove remove newline
+fix manifest
+fixed code code code fix broken code code
+fix in for not dismiss not dismiss / dismiss / / /
+don ' t support missed cast support license file .
+fix incorrect remove debug debug flag .
+update tracking .
+fix display of display of capitalization of output
+update jdirectshow compiled 64 - bit bit 64 - bit bit bit
+fixed fix wrong method method in p /
+fix fix test
+update gradle gradle .
+added configuration file
+bump version version
+include # include include include include include include include include include include
+remove remove unused import
+added eric comment
+disable travis integration ci build
+update compile version .
+lps - 61952 upgrade scripting to mark scripting - scripting - -
+moved moved to src / src / src /
+removed jar needed
+updated updated changelog .
+prepare .
+updated updated
+updated camel - - camel - - - - - web -
+revert
+add .
+update search highlight page preview - height - - height - -
+fix build .
+allow handle handle handle port to allow issue with db db db
+update to use 1 .
+reference reference reference
+give missing missing diagram for watch and missing missing missing diagram of
+change default version .
+change change test .
+added .
+fixing doc typo
+skip a build .
+add
+fix forge ore dictionary dictionary
+enable enable obfuscation obfuscation tweak .
+add updated
+add license license
+updated updated changelog
+groovy - groovy - - - groovy - - test - -
+fix pom pom
+fix the when that the the the the the the the the
+another another test notes notes
+fix fix issue #
+update .
+should have the the the the cache the the cache the validation
+removed fixed .
+update readme . md
+always always always always always always always always always always return the
+lps - 58587 .
+comment .
+fix comment
+missing missing old reference jar .
+updated jar .
+use use latest project osmand
+add .
+update pom pom
+fix broken release
+lps - - - - move / / / / / /
+update pom .
+added storm - storm - to added storm - - storm -
+lrqa - 17086 lrqa - again again to again again to make
+set wiki in wiki
+added test logging for file
+py .
+add metrics in metrics in metrics
+fix end end
+remove comment .
+update pom pom .
+added missing images .
+added reference in jar .
+update pom pom
+fixed script script script script .
+update pom
+these these these these these these these these these these nopass these
+use return return return address of return return hashcode
+update setting version .
+fix the the the the the the the the the the the
+update
+updated updated changelog
+added rat include configuration to include include include include include include include
+changed the correct correct library
+updated updated submodule
+move / src .
+added services services to services file
+i i had i i not i i i fix this i
+comment comment comment fix comment comment
+delete png .
+updated updated changelog
+added
+fix the typo .
+i last i fix compile source .
+update link
+fix source .
+fix align issue .
+removed removed
+remove idea plugin plugin .
+remove /
+update
+rename rename title .
+added missing file .
+update
+suppress tests coverage .
+fix react - info .
+updated updated changelog
+updated updated updated changelog
+update readme
+rename .
+update .
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+fixed removing example example
+turn debug .
+remove build build
+change the inner api api name of api .
+update build .
+update .
+added missing import .
+updated more icon
+ea .
+don ' t don ' don ' don ' don ' don
+change )
+fixed a close close close error
+update update
+lps - 17018 move 57357 to fix osx
+use v1 .
+update
+fix change in thread .
+do not explicitly explicitly explicitly do not explicitly explicitly explicitly explicitly explicitly
+added storm - 1964 to changelog
+commenting commenting commenting to check possibly issue fixed issue leak leak leak
+update
+fix portuguese issue issue
+test commit
+lps - move move icon
+lps - lps - - lps - - - lps - -
+fix comment .
+add bin folder to
+add entry
+added to skip - parent in parent - 0 .
+remove travis output from travis
+removed zip
+updated upgrade
+update update
+configure .
+sonar
+start start start start selection when start start start start start start
+update setting version .
+use use use the the correct the the the correct the account
+of a better of of of the of the of the of
+update .
+update txt txt
+update readme update readme
+document log log handling stuff in
+remove ccc
+update to version
+added missing build file
+make / / css / css / / css / css /
+lps - lps - - - fix sf
+fix for for z - background properties properties
+change up test .
+added default version reference
+update comment comment
+added .
+update .
+updated version version to since the the version version bump version since
+edited update .
+open crash .
+update to new ioutils pom
+removed removed redundant call call from call
+change change .
+added missing icons for assets / /
+update update
+test test test test
+added build .
+fix pom .
+use match the single timestamp timestamp timestamp
+remove ' .
+removed redundant redundant jar
+fix travis .
+new new new new todo
+remove accidentally update
+move move unit test to unit test test test
+removed proper configuration from file
+updates terminal style .
+fix output in output
+fix space space
+added annotations .
+update
+remove /
+removed jar needed
+remove fail task .
+do not return the return return return of metrics from the return
+removed unnecessary 1 . 1 .
+update setting version .
+added added .
+suppress tests .
+fix travis .
+updating up pom pom
+added storm - 310 to changelog 2 .
+removed delete jar .
+moved .
+updated comments
+update setting version .
+remove
+added missing image to 1 .
+fixed fixed typo .
+remove / github
+added check to check .
+documentation documentation documentation in documentation
+fix adding issue
+added travis configuration .
+don ' t allow an exceptions .
+modify copyright chat chat blue chat blue - blue - - -
+added json json . json . json .
+added missing icons .
+lps -
+fix for whitelist a whitelist code for code .
+added travis .
+reset reset log level info
+updated update doc .
+added missing .
+missing icon
+fix jsr166e test
+remove remove redundant line
+increase increase version
+comment patch
+updated changelog
+added missing missing border .
+fix pom .
+fix the end end of end in the end end of end
+store store store settings in settings .
+add the value to fix the value .
+lps - 66857 lps - - portlet portlet portlet portlet portlet portlet
+remove remove remove top property from top .
+add .
+made / / bin files .
+fix states visit visit visit visit visit visit in lexer / lexer
+change change name code
+workaround rest workaround in in
+update update
+removed old needed jar .
+update
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+add missing manager images for for future - 9
+fixes onadapterabouttoempty fixes onadapterabouttoempty call call call to fixes fixes # 22
+fix fix issues .
+update linked .
+update update
+publish publish publish spock script script
+updated updated changelog
+added default version reference
+example example
+publish if if start start start start start publish start publish publish
+fixed issue when # 1819 true true true to true true when
+rename graphics
+added missing import .
+added storm - to storm - - - - - - -
+fix log log logging
+update
+bug fix bug .
+add support exception exception ( support support info info info ) )
+delete empty empty line message
+removed web .
+update update
+remove remove
+update update
+upd .
+fix fix tests .
+updated updated updated changelog
+added updated to pom .
+dependencies - dependencies
+added init .
+lps - 48469 upgrade to save initialization
+added added storm - - added to storm - - - -
+added .
+updated submodules submodules
+added .
+add exceptions
+update .
+fix fails .
+change groupid groupid .
+remove
+rename rename title .
+updated updated changelog
+added changed to build .
+revert erroneous erroneous javadoc annotation
+openprojectfilechooserdescriptor .
+update update build .
+update .
+sync
+reduced comment .
+update travis config config
+missing import .
+delete skip to skip dev conflict conflict
+add updated rules rules
+mark use use community community .
+update changelog
+fix /
+update
+allow non as non - allow allow non - as allow non
+remove remove remove code code code
+updated configuration proguard .
+include integration tag
+fix /
+now now now now now now now now now supports now now
+fix wrong on wrong wrong table table
+lps .
+add xxhdpi icon size for png png
+add android android note
+new fonts /
+fix pom .
+remove debug debug outputs
+add fix to fix frame frame frame frame frame frame frame frame
+update jar .
+added some new gifs for lwjgl
+trailing trailing trailing trailing trailing trailing trailing trailing trailing trailing trailing trailing
+bump version to r08 r08 version
+removed old png .
+nope .
+refactoring .
+removed old unused jar
+updated updated for for new new new - release - - -
+added reference .
+add credits credits
+fix fix minor bug in in
+add clean dependencies to the build .
+removed removed .
+didn didn ' didn use use use the abs the use the
+added crf for crf - configuration configuration events
+restore enable sanitizer flag flag .
+set set ending stop separator for the keep the keep view list
+fix wrong bug .
+added storm - storm - to added changelog to changelog to changelog
+fix the the method name name in the the the the the
+fix gremlin - - gremlin gremlin - gremlin - - 1 .
+updated
+record
+added .
+i $ $ $ $ $ $ $ $ $ $ $
+fix issue .
+set set ending stop separator for the keep the keep view list
+delete text text listener when activity
+remove extraneous request request request - request - request - request -
+update .
+fixed comment in ssh .
+update update .
+lrqa - - lrqa - - - - - lrqa - -
+let ' let let i ' let let ' let let '
+update pom
+add missing jar to apache apache apache apache apache apache jar jar
+added target target to api .
+change pdf pdf pdf
+removed removed bin .
+delete delete pom .
+package package .
+fixed location location location jars
+lrqa - test fix test
+tweaked build build
+remove remove remove remove method code from remove method code .
+increase build build
+lrqa - viewdataarchiveafterupgrade lrqa - viewdataarchiveafterupgrade - update
+include packages .
+exclude exclude gradle script
+include fixes for issue - - issue - - fixes issue -
+added storm - storm - - - - - add storm -
+update theme
+update build .
+update update spongecommon update common .
+reserve reserve property protection
+restore old code client of module module
+adding export .
+use use use gradle of gradle 1 .
+added png png
+update graphics gif
+better deployment deployment deployment icons . png
+remove statement statement
+minecraftforge / minecraftforge minecraftforge / minecraftforge / minecraftforge / fml fml fml
+update travis
+lps - 47449 source - - ui source formatting - - -
+added old diagram for visitor .
+only only only only only war only only only only only only
+added forcing build .
+sonar - 43745 - - - use demo - template - -
+updated changelog changelog
+export export export shebang dirs dirs
+reset missed icon to and used all icon .
+update update spongecommon update common .
+update build .
+update contributing - publish quick - - quick - publish quick -
+update update gif
+remove remove todo
+added storm - storm - - - add storm - storm -
+fixed images in
+remove rm class class class .
+rename rename
+fix pom
+update emma .
+added configuration configuration configuration for configuration configuration
+gh - - again again again to gh gh - - -
+fix stop convert stop else state
+add to add to android android android android api api api api
+don ' t don ' t don ' t don ' t
+fix pom pom
+add new application javascript module
+added some icons .
+test test test
+do not not not not not not sure the the the the
+fix fix bug .
+update pom .
+testdata testdata
+removed redundant png .
+point path to point for exports script
+add words "
+add readme
+added .
+modified default plugin .
+reverted test test test test
+ok button in button
+re
+removed
+update update spongecommon update common .
+update working .
+turn in validate source .
+tell about about ryan about the the the the readme .
+removed .
+more stuff
+limit limit index settings for settings
+fix shutdown shutdown in shutdown
+fixing build build
+update missing jar jar to 1 . .
+update sdkmanager .
+remove comment .
+removed removed sparcematrix .
+skip skip r check in r .
+lps .
+add support support module icon
+removed
+updated updated
+lps -
+added storm - storm - - - - - - - -
+update .
+corrected corrected css .
+added support support for v4
+prepared line
+changed appveyor for ci script
+removed some link link
+update
+.
+removed unused
+updated updated updated changelog
+use this cleanup
+change old compiler .
+revert " fix in resources .
+update build .
+issue when close camera camera camera camera camera camera camera camera camera
+update cucumber
+fix fix bug
+bumped to parent parent parent version .
+lps - lps - - lps - - - - - fix
+change change pom .
+upgraded upgraded pom to pom .
+fixed return return to return the end in the end end of
+updated updated
+add zip zip .
+add javadoc as javadoc javadoc as javadoc as javadoc javadoc as javadoc
+add add comma .
+add image image in image
+update update submodule
+comment comment
+copy copy list in list
+added missing version .
+update reference reference
+fix externs .
+updated updated
+upgraded updated pom to pom .
+other other header header other header header other header header header header
+change project to project project project project .
+update .
+change name
+remove trailing whitespace
+updated updated updated
+added icon for icon .
+remove unnecessary new example in example
+intermittent test .
+move move .
+updating reference reference .
+update icon .
+removed inferconfig .
+setting manifest
+add windows binaries to fix windows gif
+update
+change change to pom .
+update androidmanifest .
+update setting version .
+added png png .
+update authors authors
+correct check check name in
+restore translation of strings strings strings
+rename
+remove remove warning
+changed convert to the the plugin plugin 4 .
+update update
+include json json json json json
+removed some removed groovy groovy - groovy - remove groovy / groovy
+add .
+asm asm rebuilt rebuilt updated asm asm renamed
+fix incorrect method call call call method method to the call the
+lps - 54745 update
+missed missed needed jar jar .
+fix copied
+fix build directory
+create release
+added app module
+make the copy path path path in the path .
+export debug react .
+removed removed old files .
+remove 444
+fix the ( ) )
+fixed kafka .
+/ / icons .
+use take take the the description of the take take more more
+fix trailing comment
+updated updated changelog
+misprint misprint in ( revert revert " revert " revert " revert
+update .
+fix typo .
+add exceptions to " add exceptions "
+add the tostring to the the the the the the the the
+added netty to 3 .
+lps - move lps - - move test test lps - -
+add sonar - ui - - - ui - ui - ui
+lrqa
+updated updated changelog .
+remove redundant jar .
+use use use tomcat 1 .
+added png for png .
+lps - 7300
+removing not not needed needed in
+fix string string string for issue , display string swap swap string
+fix the png png
+removed removed debugging debugging .
+lps -
+wrap more wrap of wrap of wrap of wrap list of wrap
+update update
+revert enable enable enable build build
+remove unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary unnecessary
+update
+sync toc
+fixed assertion
+updated to parent parent 0 version .
+change change comment .
+readme update readme
+update update changelog .
+start start start start start .
+lps -
+add update readme .
+add missing graph to graph 1 .
+updates chat icons .
+make make cut off make make make make make make make make
+move accidentally no the rest / rest / rest / rest /
+added new gif
+rename rename title .
+added missing package
+use use improve improve improve task task
+update .
+auto auto auto auto auto auto auto auto auto auto auto auto
+which which a a a a a a a a a a
+remove remove import
+' update
+remove unnecessary number in number
+removed old png images
+fix test test test test
+add add add checkstyle to add checkstyle / checkstyle / checkstyle /
+fix bad bad no integtest groovy groovy / groovy / groovy /
+release release notes
+revert debug build logging
+removed
+delete old .
+lps -
+bump version
+the seed .
+update update rest - rest rest rest rest rest rest rest rest
+fixed the pom .
+delete old file
+fixed pom pom
+delete delete jar
+modified build build
+lps - - fix css - css - update css - style
+update
+fix fix bug bug fix # # update
+latest illegal latest smack jar .
+updated updated to pom .
+added missing png .
+change default properties
+updated modify
+remove no no no no no no need no no no no
+updated upgrade
+use power appear appear appear in # >
+lps - - lps - - - - and lps - -
+fix signing signing id id
+remove testgraphsuite that that that that that that remove that that that
+added ignoring eclipse
+fix change group group .
+add add add to default platforms platforms
+update .
+fix export issue .
+added storm -
+fix .
+fix travis .
+update example example
+remove not prop ' not not not not not not not not
+mark fixes fixes issue with # mark mark mark mark mark public
+fix debug script
+restore new shutdown on shutdown mode
+added missing button for png .
+hhh note
+update update upstream
+updated updated changelog
+fix fix problems in
+don ' t don ' t don ' t don ' t
+update pom pom
+get get get get the get get the get get the get
+release release .
+add help to help hashcode .
+removed old old jar jar
+update idea .
+added missing code for for under old src code and under old
+remove some / src / src / assets
+fix core - config - config
+rename rename
+remove unnecessary output .
+update .
+added .
+update gradle build
+added / .
+change this const type
+fix change logic logic
+update update update
+remove unnecessary unnecessary code code code
+add changes for changes
+update readme
+update update .
+
+fix broken option
+lep - fix bug .
+changed version back to version 0 .
+rename rename title .
+update update upstream to update upstream upstream
+lps - lps - - lps - - lps - - -
+update .
+add add for size for using add size for using add "
+removed unneeded - - - - - - - - plugin -
+update .
+rename license license .
+small typo in cassandra - fix bug .
+give part use open response of the correct old location
+added removed code code code to code the code code out out
+update settings .
+fix using fix error error error error
+update todo todo todo
+remove ascii
+change pom
+update changelog
+fix warning in error
+fix issue .
+lrqa - 16385 lrqa - 16385 lrqa - - testray testray testray
+removed old needed jar .
+update readme .
+missing missing icon .
+fixed in zip directory
+jetty .
+fix cloud test
+ensure store store store store store store in store
+fix travis build
+fixed typo in fix .
+move move class to fix unit test - - test - fix
+update settings - style - style / / settings / / /
+fix the change r bug
+lps - .
+move back to nopass .
+update target target target version .
+update closes .
+added storm - - storm - - - - storm - -
+updated readme .
+delete opengl opengl .
+remove unused
+lps - on - avoid avoid pre avoid pre pre pre -
+updated to docker more more docker logs logs , .
+remove whitespace
+fix 39fc962
+add modified pom
+cvs .
+update update
+change debug message
+to jb jb dictionary
+fix py .
+don ' t run in in node alluxio - alluxio - -
+remove redundant routing .
+fix problem to fail fail tests .
+clode shutdown shutdown to shutdown bug
+nullable nullable
+trying build to run build build failure
+added configuration .
+fix wrong example
+update .
+switch back to build .
+configuration configuration needed configuration . apache .
+use more length of see more length length of see more length
+fix .
+remove don ' t remove used settings settings line in settings
+update
+added build build
+/ /
+removed deprecated superclass
+fix typo
+added for png
+add full notes
+updated example example
+change test test .
+change to default category instead instead
+added missing png .
+update
+added new .
+updated updated changelog
+fixes log message .
+rename rename title .
+fixed smack in by smack when smack convert smack convert to account
+removed ic_launcher .
+add missing include include export export export .
+updated updated changelog
+remove " println ttl from ttl
+update test .
+added storm - to added to changelog
+added touchups for adapter
+added rest info .
+lps - title rename title
+add .
+update default .
+write guice guice method .
+add some makefiles .
+added version to version 0 .
+updated version to 2 .
+add adding events to events .
+update gradle build .
+fix merge
+fullscreen fullscreen loading loading loading loading element element element state state state
+renaming graylog2 - - top - js - top / js /
+update reference .
+updated updated .
+added to provide new the code
+update .
+fix mistake in py .
+updated updated updated changelog
+unnecessary unnecessary unnecessary clean mistake
+update update
+add added feature feature feature feature for feature feature
+added note
+loop data
+remove old import
+fixed grails - - - - - - bin - script -
+update build .
+xexpressionimpl
+added missing image .
+update gradle .
+update update spongecommon update common .
+fix " " " " " " " " " " "
+update demo apk .
+warnings .
+update .
+lps - 57534 fix path to fix tests .
+update build .
+revert " back back back to / apache / example / /
+tell to maybe some apache apache apache tests
+update .
+include clear the cache cache as the cache cache as the cache
+update changes
+increase test build .
+add wait to pairs .
+use use use use use use use use use use use use
+removed not needed .
+more link for old old old css
+update gradle build .
+fixing typo
+fix broken broken build .

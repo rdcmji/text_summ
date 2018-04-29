@@ -1,0 +1,1981 @@
+add missing icon for darcula
+lrqa - 16928 turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' turn ' re - ' turn ' turn ' turn ' turn ' turn ' turn ' re - test
+adding serialized to return public for the prototype .
+force
+revert " bump to apache - client - client "
+fixed npe when npe with non - video
+updated changelog
+bump version to 0 . 13
+update bower . txt
+fix logo icons
+asciidoc asciidoc asciidoc asciidoc
+update version to pass release
+do not needed here
+add a jitsi - file to include build file
+add comment
+lrqa - 16928 add the property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property . property = true for the property
+add / editorconfig .
+add sample - service .
+make nopass
+fix test data
+add import provider
+update changelog
+release version
+revert " bump to apache - client - client "
+prepare version name
+disable build errors
+fix travis
+fix thumbnail below
+add sample - builder . xml
+update classpath for android release
+add background color for season lists
+added storm - notes to changelog .
+fix gradle dependency
+release changelog .
+add index
+update readme . md
+remove travis - ppa
+added pimage
+use default value of the default package
+added recognizer . removeerrorlisteners ( ) to recognizer . py ( )
+set target and target and target and target and gradle and build .
+corrected package . properties to fix location
+update version to pass version
+fixed versionname code
+add changelog
+add screenshot gif
+changed state out out state
+set ssl ssl ssl to false when it is set anymore
+release v changed
+add demo apk
+ensure .
+add screenshot
+add tag for tag in tag
+changelog .
+make git ( ) to avoid the version of the files .
+fixed post margin bug
+lps - 49773 sf
+updated dev file
+reverting version
+explicit version number for windows , again
+add storm - 2079 to changelog . md
+travis
+make latest device crash for windows
+too package handling if too package
+turn that maven artifacts
+fix for zipalign
+updating changelog . txt
+fix lint
+removed
+added configuration class
+add todo
+fix up up up to up up
+fix syntax
+update spongecommon for projectilesource fix .
+add .
+adding the native binaries
+py - 15476 add method ( py - method )
+fixed memory leak ( # 140 )
+fix the version of the pom
+add install install to install
+update gradle build
+added hardcoded ( )
+add storm - 1837 to changelog
+gradle plugin is the gradle - plugin
+source formatting
+bump up gradle properties
+fixing an test
+delete killableprocess . png
+add todo to add links to handle links
+lps - 6456 add all property
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+update .
+lps - 55928 @ override
+changes changes
+properties properties
+add index for messagecontentheader
+fixed crash in pushnotificationios
+fix changelog
+fixed search error of the search of the default to work
+added missing test for test
+test now added a test
+removed unnecessary cast for macosx .
+update version number
+fixed source profile in order
+removed build on travis
+updated .
+make a state
+move to default activation
+remove @ disable @ naver from nested repository
+updated changelog
+changed icon
+updated changelog
+updating manifest . txt
+fix typo
+make the assert frames the method of the context frames
+fix method data
+added missing test
+setting version to 0 . 71 .
+added build config for travis
+adding macosx photoshop favicon .
+reset reset to reset width when creating the width
+small change
+fix platform of filter app
+delete
+no longer needed
+corrected tag whitespace
+added changelog
+added storm - 724 to changelog .
+added storm - 367 to changelog .
+discovering japser for ipv6 connection
+add @ suppresswarnings to javadoc .
+fix package
+add case of case for case events
+fixed gradle version
+fix generate_rest_api_docs .
+added $ to reader .
+remove incorrect errors
+removed unused file
+bump version code to code fix
+prefer sync
+added tag tag for changeset a970aba8f8b5 .
+add ' mod '
+fix using - 654 - .
+use the latest snapshot
+fix building building
+add icon ( # 113 )
+added missing ( ) method for compatibility ( ) .
+fixed api
+fix typo
+lps - 50900 move icon
+adds auto - snapshot .
+add words suggested by users
+the release .
+added deprecation method
+add xhdpi menu for xhdpi .
+removed the @ back to the same button of the documentation
+disable logging for travis
+update readme . md
+prepare version to 40 - beta1 , prepare , fixup .
+make the single release
+fix method not return method
+oops
+updated readme . md
+add dummy key file
+add support lib
+lps - 43771 - source formatting
+add chat chat cursor in chat list
+retroweave smack ' s xmppconnection libs .
+fix build
+support a version of a new test
+update samples
+move .
+added checkstyle configuration
+add logo for the logo
+temporary size may be cleaned
+add lib to 7
+added data to copy to copy data
+fix bug of blogid to be work
+add missing comment
+add http - schema to correct source
+remove bin - bin and target and eclipse - plugin
+add claims lzma
+remove unused import
+fix case case sensitivity
+remove jre6 files
+fix magic npe
+test scope of new scope
+new release rule to the new changes
+updated changelog
+fix imports
+added .
+update changelog . md
+fixed py - 2679 doubled type type type
+updated some file
+pom is a jvm jvm
+fix for newer tests
+add margin
+try to pass
+fixing wanted_features
+prepare version for - next - beta2 , 15013 .
+updating maven plugin
+fix # 3249
+remove redundant timeout .
+updated .
+tests
+changelog update
+updates mac version of windows .
+fixed typo
+adding storm - 1163 to changelog .
+lps - 1060 - fix wrong field in the field
+moved test
+fix test
+update readme
+fix whitespace
+kafka - 7409 bantransitivedependencies for war update
+removing gemfile from gemfile in gemfile
+add dingding dashboard
+update demo
+lps - 14606 add portlet property for portlet
+ptest2 # 1798
+adding new test file
+correct user mode in androidmanifest .
+modify the host to have the host
+fix title in settings title
+gh - 222
+updatet minidns
+added default chat chat chat icon
+added storm - 1837 to changelog
+remove whitespacek
+update project size
+updated changelog
+lrqa - 24908 add test property
+fixing memory leak when running the memory leak
+delete killableprocess .
+redirect builder .
+removed bin / testdata
+remove 777
+add new icon
+update readme . md
+fix broken source - *
+add an method at the end of case .
+issue for @ all - all - all - align
+add explicit annotation in the default line
+lps - 54851 source formatting
+remove - include dependency in the config
+add travis and ci
+added storm - changelog to changelog .
+add missing .
+remove internal editorconfig from building .
+fix draw calls for trident
+update css of top padding
+added sqldialect
+add travis - ci script
+lps - 50757 use property
+version bump to 0 . 13
+fix unit test test
+changed the version of the version .
+fix build when using empty host
+add jna .
+add travis config to travis ci
+add openjdk6 to travis
+delete killableprocess . png
+remove unused test
+fix the margin
+readme
+added style
+add getaways . png
+move nopass to nopass .
+add new libraries
+add icon for prefs icon
+update changes . txt
+added the app app
+explicitly reported , skip utf - 9 .
+ensure we don ' t add stream to add stream when we don ' t add the stream .
+fastarray is a tostring ( ) method
+add new apk
+fix typo
+set a passed required variable to the collection
+use missing import of data data
+re - ci
+lps - 52368 move icon .
+lps - 51081 readd eclipse modules
+add '
+readme . md
+added parsing of cython typedefs
+lps - 43578 portlet icons in portlet title
+made wrong path of upcoming of upcoming of private .
+fixed invalid issue for invalid pom
+update readme . md
+updated changelog
+gh - 222 ( sears )
+korean ( korean )
+adding c2s for for workshop diagram
+consolidate coverage
+add lib to antlibs
+changed icon .
+add html icon
+cache
+fixed test
+update authors - simple
+org . jetbrains . kotlin .
+fixed error for new process
+removed extra import
+lps - 51605 - source formatting
+add 3d gif
+adjustment out out out dialog
+lps - 63943 - snapshot
+rename resources to correct resources
+lps - 65848 copy / copy / bin / bin / plugins to find .
+fixed grails - properties in example config
+add netbeans - specific file to .
+lps - 53683 moves icon
+add - language - demo - asset
+coping javascript jars for javascript plugin
+update all all notes
+updated project
+update changelog
+update changelog
+add missing readme
+add missing xxxhdpi
+don ' t need to gradle - gradle library
+lps - 500 update submodule
+fix config config from config
+update some jni .
+lps - 65336 wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm
+lps - publish " add " task "
+remove tachyon - related to tachyon - conv
+reduced logging logging for reduced jdk jetty9 .
+fix travis config
+fixed a compile error to compile error .
+added storm - 1930 to changelog .
+fixed location location for potions
+remove unused import .
+typo fix
+update readme . md
+updating dependency to gremlin . xml
+disable package
+fixed python import issue
+update footer for dictionary
+lps - 7666 recheckin to liferay . liferay . wsrp to prevent the build for all lib / dev
+values - 107545
+lps - 3828 language keys
+update travis
+default version for next development iteration
+update gradle plugin
+check for multiple jar
+fix scaletype in switch in detail view
+add missing property for generate generate
+update to build
+enable input name
+add words suggested by " leerzeichen
+make sure an exception when an exception .
+add forbidannotationelementvaluecheck to checkstyle about checkstyle
+add changelog
+updated changelog
+lps - properties back the project email
+fix a string regression
+remove accidental enum
+update readme . md
+fix multiple warning
+changes . txt
+use travis
+rename txtfielreader . md to txtfiereader . md
+increasing mshowwhen to false
+add missing javadoc .
+updated changelog
+install install - install on install
+make sure we return null
+use javadoc
+fixed tests in tests
+update gradle build
+bump to license of the license impl
+fix internal newline
+sonar - agent needs unresolved agent to agent for windows
+remove junk
+remove setup generation
+add note to be consistent
+ensure the the same the same type of the same for the same animation when the same animation .
+add missing assets
+auto_sortmerge_join_5 on auto_sortmerge_join_5 .
+add c5fd6e5
+fix for two compiler
+remove project . properties
+max id in help view
+remove spurious code
+added system - system
+fixed test
+new icons
+added storm - 572 to changelog .
+removed unnecessary command
+catch bash shebang
+updated changelog
+fix broken paths
+fix travis build
+bump version to 10 - beta8
+fixed build properties
+fix changes
+okio is me
+align every times calls
+documented the document of all feature
+update library reference
+add extends chat constant .
+add missing @ override
+fix filename
+remove the file
+depend on windows , so the build is the snapshot
+fix test in test
+new installer
+adjusting openssl tag
+fix configuration icons
+fixed project name
+update readme . md
+add newline
+added person
+fix missing cast in llvm .
+fix for chinese , that # 211 )
+fix build
+update gradle task
+update doc commit pointer
+fixes warnings where grass types in some types .
+fixed a assertion of a join string
+lps - 12945 enable til excerpt to true
+fix build
+make the static imports
+( ' t be null )
+prepare version for - next - beta2 , 15013 .
+remove extra newline
+update .
+update changes . txt
+deep commit in demo booklet
+changed the version to the new version
+wfly - 5815 support ` leak
+javadoc
+update changelog
+remove runit_nopass_rdoc_prcomp .
+update .
+add me to a asciidoc
+add " width
+fix typo .
+lps - 62763 add comments comments
+tweak execution when that user call show shared execution
+update changelog . md
+fix @ operator ' s @ operator '
+updated changelog
+removed hard - portion ( ) from the better test .
+added tostring ( ) method to neoapp . neoapprelationshiptype ( ) .
+fix logic break
+fixed changelog .
+enabling out of alluxio - rest - config
+use default flag for default flag
+fix double initialization
+temporarily disabled mediumtests for db2 to db2
+lrqa - 21048 add testcase property for the testcase testcase for the testcase
+added travis configuration configuration
+turn off travis
+ant - version in jsch .
+change the change to the the version file
+updated sample
+make patch for the patch
+fix build
+added the translation of the checkout
+anonymousfunctiontolambdaintention . applicabilityrange
+add jopenvr .
+fix signing
+add session constant
+fix ` of closure ` of closure `
+added storm - 1930 to changelog .
+temporarily more travis -
+fix line in firefox
+fixed build version
+add check .
+fix rendering in history
+remove nns postag from " fouling '
+create readme . md
+fix travis ci
+properties
+use travis directory for travis
+removed redundant file
+get - dependencies
+fix build
+version properties
+fix antennapod not not not not not needed
+alpha - 9 / 308 version code
+adding missing photoshop function
+added to the cache path
+add missing line
+update tm
+add travis ci
+fix nullpointerexception when dialpad in windows .
+updated parent version
+remove unused line .
+fix typo in a username .
+made downloaded changes while downloaded downloaded project .
+upgraded parent pom references
+update readme . md
+update spongecommon for projectilesource fix .
+added missing import
+clean up up
+fix # txt
+update .
+lps - 47071 remove unused
+add check check for readme
+fix file
+removed django signature
+web - web - web
+debug lib
+update repo . gradle
+add some file to fix build .
+use tmp - use use tmp from test
+added storm - 765 to changelog .
+fix broken test
+removing / nutz . googlecode . com / jira / trunk / directory
+bump
+fix typo in tic p ( )
+remove jar
+robert contributor
+add gradle properties properties to .
+fix ipv6
+properties is a new properties
+revert " fix ( py - import )
+icon icon
+adding icons
+updated changelog
+fixes java 5 . 5 . 5 .
+update changelog
+update example - example
+add screenshots screenshots
+updated changelog
+adding words suggested by users
+copy the copy icons
+add readme . md
+removed connect symlink
+renaming 9 - 9 - 9 - 9 - 9
+add the config level for all location .
+align the same button after changing
+bumping up version in curr . properties .
+add new icon for the new icon
+add cname . txt for changeset a970aba8f8b5
+remove jar
+updated project . properties
+try check for test
+lps - 1726
+lps - 39658
+ui ui to be clickable
+webview prop of automaticallyadjustcontentinsets prop
+disable the examples from the examples
+workaround
+updated changelog
+remove version on pom . xml
+changing the keystore of the keystore to the keystore .
+remove duplicate property
+update qrcode
+create readme . md
+set jdk8 and jdk8 and java 8 .
+remove log statement in log
+fix reveal position when the same platforms
+update cas - level to pass build . md
+setting version to 0 . 71 .
+added javax . properties
+remove new files
+revised new icon icon
+fix by test data
+fixed typo in documentation
+fix build - client build to build .
+add my params
+lrqa - 46862 properties properties
+fixed method to close the method when the method
+add missing annotation
+increase git test
+updated changelog
+fixed build
+added jain - dns file to be necessary .
+increase memory limit to all tests
+removed a recipe from neo4j recipe
+updated parent version .
+use use visit
+added storm - 1084 to changelog
+release 4 . 4 release
+code 9
+removed redundant onpause
+updated changelog
+remove pom
+scope = be = true in eclipse . xml
+add storm - 1646 to changelog . md
+close close to close close when close close
+fix for session compilation
+removed debugging script , although was always always always lost
+remove not necessary in the method
+remove redundant files
+minor change
+add 3d
+updating version
+added json config for svenson json databind
+depend on windows , so the build is the snapshot
+get the npe in the list of the block
+add slack - sid to travis build for travis
+initial search if there ' t exist before something .
+changed the build .
+remove unused property
+fix cielchevaluator . java
+update spongecommon for projectilesource fix .
+added access access to access access
+lps - 500 update submodule
+fix merge
+add storm - properties to changelog
+make sure of the content of the content .
+revert since suggested
+add esperanto for esperanto
+travis
+removed p . xml .
+update readme . md
+add icon
+include some theme needs in config . xml .
+stop preloading a class at a class
+update readme . md
+c - 133873 invalid space
+disabled compiler info
+fixed a bug in the pr
+pom . xml was not need to get rid of pom .
+add support
+make a build errors for a build
+update readme
+add fullscreen to kill stream when calling stream
+update readme . md
+add fundamentals location for preference
+readonlystatushandler - rename
+fixed build
+beginning .
+small change
+test
+fix typo
+add changelog
+fix assembly .
+removed unused files
+closing the socket of the momment .
+give compatibility of the jvm
+fix build
+rename readme . png
+fix signing script
+lps - 500 update submodule
+remove " to apache parent from pom .
+update readme . md
+add android support for android - android - android
+fix pom
+fixed compatibility .
+pom is a jvm jvm
+bump version to 10 - beta8
+corrected official official java
+fix crash when using new constant
+mark stanza in lock .
+fixed help controller model ' s help model .
+null call returns null
+fix one
+create readme . md
+fix gradle task in gradle
+improve favicon
+update changelog
+fixed travis error
+fix typo ( ) to fix the error
+py - 1065 reformat in django - py - import - py - 1065 error
+npe for cpp - extension
+add changelog to changelog
+fixed configuration name
+updated changelog
+fixed test
+lps - 55168 moves icon
+added demo images
+added storm - changelog to changelog .
+nullable
+added storm - 22 to changelog
+sonar - 4746 fix vertical vertical scrollbar in the header
+new image for the gods diagram
+fix return hardware ` if ` if ` if ` if ` return `
+fix binaryjediscluster . close ( ) should not null .
+remove some blank line
+/ apache . apache . apache / bugzilla / show_bug . cgi ? id = 45628
+lps - 65848 .
+remove remove event
+hide hide event on load .
+related related related related to related page related .
+add gradle task
+removed unused library . properties .
+add missing mail config for sonatype
+fix proguard id
+trying with slack
+changed configuration for builds
+fix for error
+lps - 48469 add a object for object
+update version to pass release
+see out to see .
+turn off rate fixed
+lps - 40766 - remove unused files
+updates .
+add the tests to run
+add an preview widget - widget .
+maven error
+lps - 22295 - source formatting
+disposing tree update
+fix typo in build . gradle
+pom is a parent - snapshot
+discovering in guava - specific for team in team team
+add hammer icon for brute badge
+implement tostring ( ) method to non - flushed of non - flushed
+replace core . xml
+update readme
+added log4j for research for generate generate
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+update readme . md
+fixed javadoc
+delete delay flag on delete tab .
+lps - 62682 add @ override
+fixed filename in filename .
+update windows bullet native
+try to fix support
+fixed travis
+rename dl to jsonhelper .
+prepare version for - beta1 .
+make the build tweaks for the copy
+changes for changes . txt .
+remove unused listwidget background .
+update pom . xml
+revert gradle task in gradle task
+enable circle ci build
+add serialversionuid to notsupportedexception .
+get - dependencies
+add enum to add enum
+update spongecommon for projectilesource fix .
+add id to the document field
+add new screenshots
+add hivetype . close to close object .
+add missing license statement
+add getter to by write
+use - 378 reallocate - tree - tree - tree
+new gif
+update version to pass release
+add a notice file .
+remove unnecessary file
+rename to rename .
+version is on the jvm jvm
+remove duplicate property
+include javax - management
+add eclipse project directory to .
+organize an import of water .
+update library reference
+testing build file
+add missing file .
+fix temporary in maven - maven - maven
+rename txtfielreader . md file .
+updated changelog
+second bugfixes fixed
+fix typo
+add for guava for windows for windows
+add gradle properties properties to .
+keep default much of default
+fixed typo .
+adds auto - snapshot .
+fix typo
+find test target
+use full sample signing .
+change to test file
+revert " made javadoc " not not not not javadoc
+fixing winpty for windows xp
+lps - 65336 wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm
+added package
+pom is a jvm jvm
+lps - 1715 remove unused files
+lps - 589 fix service warning
+enable test
+fix build and maven - build .
+re - readme
+moved to hadoop - 0 . 0 .
+better recovery .
+fix broken tests
+more space
+add refresh content to refresh dialog
+fix sample / sample / sample / sample / sample .
+bump version number
+add constants to export .
+bump
+fixed onload
+fix logic in frame in frame
+update location module
+test removed
+adding travis
+add screenshot
+only require maven - maven - maven - configurations .
+update cdl
+added relativepath to the version of that that that is a tickets .
+changes
+add screenshot for fullscreen
+set version number
+updated changelog
+add slides .
+gdx - natives update .
+fixed for maps files
+add empty message file
+the test script
+update news
+add first first upload
+readme
+add a / / / / / / / / / / / gitattributes . apache . org / svn / public / .
+lps - 53802 sf
+rename to correct issues
+corrected to new code for the simulator .
+make against connect of against gc , so we are not needed .
+add aggregator of the bower
+removed chapq1 .
+move nopass to nopass .
+removed sample
+updated changelog
+new version is the new development version
+add the test for the test - exclude samples .
+fixed glm mods in glm object
+adding readme file
+fixing task
+fix npe with # 115
+fix small fix bug
+update smack - ppc64 ( )
+exclude java 9 .
+update version to pass release
+fix database config to free deps
+enable dependency for pom . xml
+rename the template name
+added a readme
+small path
+update properties properties
+lps - 45043 remove unthrown exception
+update changelog
+added todo for todo
+fix text of the content of the content
+clean up checkstyle
+revert " bump to apache - client - client "
+minor description
+update changelog
+remove return dot ( return return return return return )
+trim trailing whitespace in jivegroupuser
+fixed issue issue
+lps - 49170 move permissinactionidcomparator
+lps - 69997 add file file
+add missing icon
+reset the ` true ` when the activity window .
+screen width of screen screen , width , displays the screen width
+updated changelog
+fix indentation
+update location module
+lps - 65336 wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm - wcm
+remove the compatibility of package
+cap test in test
+lps - build we don ' t depend on this branch , re build for this . properties
+use jdiff as api as a api instead of jdiff
+removed debug line
+test for security
+removed old pom . xml to the exports
+use better and better and use better and use better and use better and thread .
+update screenshot
+prepare version for - next - beta2 , 15013 .
+add changelog
+fix link to use new sample project
+correct a hard icon
+update readme . md
+dark dark used and cherry .
+add demo gif
+add migrations .
+add for various screenshots
+update .
+update gradle
+fix test files
+enable test messages caused .
+add archive classpath to plugin
+enable maven - web - web config to be include
+prepare version name
+set a version of the properties project
+lps - 25263 add new theme
+remove invariant from prod / prod / ui
+added dependency
+npe in ' moduleadded ' in ' idea ' ( idea - cr - )
+lps - 67464 add the jar to 1 . 5 . 1 .
+update changelog
+new background of background
+hdfs . txt added .
+fix for better commit
+fix image of background
+fixed task
+increase min - rule to the maven rule
+fix for debugging resource
+removed build when tests
+typo
+remove obsolete newline
+fix build
+update readme . markdown
+fix xmlhttprequest when not get ref
+fixed build code
+fixed travis - ci - server .
+lps - 65920 move css files
+add location for testing
+removed reference by jmm
+lps - 58562 move test files
+add readme in readme . md
+added saxon to pom . xml
+adding a method to be a column names
+added group plugin for group
+enabling tests to be disabled
+fixed mersennerandom method in method .
+lrqa - 25603 prep next branding
+remove previewgif
+method on security on security
+sonar - maven - plugin update
+fixed availability availability .
+fix travis ci
+remove spec from spec
+use the latest snapshot
+remove surefire plugin
+update readme . md
+add a placeholder
+fix id in pom
+update todo . txt
+removed obsolete
+fix compilation
+uses android lib .
+fixed broken note in nativecomponentsandroid .
+create readme . md
+update default
+renamed commandlinerunner to be enum
+fix testdata
+add screenshots for hc view
+make sure on quiet on threads .
+update .
+added a few link
+wcm - 626 move path to correct path
+update version to pass release
+fix #
+add check for header to r / r / header
+reverted maps to r2
+fit and fit and portlet theme
+fixes travis
+add reading of package
+removed assertion
+added javadoc
+code 943a5f835 code code
+add .
+lps - 55252 sf
+also log with close with windows
+grails - grails - set for grails - plugin
+after youtrack in after after save
+add a wrapper file
+add travis config
+update spongecommon for projectilesource fix .
+fixing the test lib to the latest lib / maven lib
+added shadowbase64 to base shadows
+modify screenshots
+replaces linux standard binaries with standard linux version
+include package for package .
+added bugfixes in exceptions
+attempting to get picked object
+fixing redefined warnings for node
+added import of import .
+dictionary extended
+add screenshots
+make ' util ' for default .
+fix test of prefs icon
+don ' t show select on top files on git
+lps - 67352 add check ' annotationusestyle '
+added debug script
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+tweak proguard
+default env in env env
+enable the command log
+lps - 53537 source formatting
+add volley . jar
+removed graph that that removed graph graph ( py - 6190 )
+fixed documentation documentation
+added the piechart screenshot
+update multiple array
+cosmetic fixes
+removed un - noise
+fix npe if npe if null null
+removed extra import
+disable build number for the build .
+preparing wip - example v0 . 43 .
+added changelog
+not static class in the class of class
+update license
+update gradle
+removed unused task statement
+update multiwords . txt
+delete logo . png
+update library reference
+true to gradle
+added readme
+rename saxon - smtp - shell module
+fix lint error
+public for device and per device
+updated changelog .
+better instruct download to new project
+update .
+update news
+update version to pass release
+added invalidatemaster method from invalidatemaster to the last commit
+don ' t have all all button after all all release
+removes the same binaries to capture buck binaries
+updated changelog
+travis config
+add art
+use fetch hard ' s devnull task
+annotation annotation annotation
+fix correct error in the script to get correct error
+fix bug in getimmediatemutabledrawable .
+set idea - 15 for 0
+added storm - 1526 to changelog
+update readme
+fix the - in the - block in the - file
+delete .
+missing missing import
+add missing link
+fixed the richpostcontent in the file
+bump version code
+fix typo
+removed default call in config template
+update readme . md
+add the test specific test config to .
+bump version
+fix build error
+sonar - enable enable spacing for the mysql plugin
+added intellij files to .
+remove @ @ deprecate
+shippable against shippable sf
+add art
+add a black background
+update news
+add cloud - javascript module
+add eclipse . jar to .
+add edison icon for the row in the gateways .
+use max_limit in the pagination of abstract
+updated changelog
+release version
+auto_sortmerge_join_5 on auto_sortmerge_join_5 .
+update actor . proto
+py - 93564 python ' python ' python ' ( py - python )
+fix imports
+add search extension in search page
+updated changelog
+set intellij for intellij
+removed source . jar
+changed files to be a agent in the files
+better margin in margin in top titles
+add debug plugins
+javadoc javadoc fix
+update location module
+add missing sys to include linux
+ip v2
+updated authors - lgpl branch to extend authors
+add travis ci
+astrid project is fixed
+adding gradle wrapper .
+project build is a snapshot
+make sure the test easier from windows .
+install install - install on install
+add missing diagram
+update version to pass release
+move file to fix for case of - case
+fix missing type
+removed test
+fix
+fix pt_br language dir
+fix typo
+add travis - ci
+move generickmlbikerentalsource to correct location
+fix maven warning
+added newline
+allow custom jar to compile when building compile server
+remove debugging from makefile
+updated changelog
+add a version in .
+fixing pom .
+fix mutliple method
+add missing package . h to compile . h
+updated changelog
+lps - 65607 move the related property to the src / panel
+add sample apk
+add to index . md .
+add refresh button to refresh button
+changed minsdkversion to tag
+update changelog . md
+added saxon
+update spongecommon for projectilesource fix .
+added the build .
+changes
+lps - 67049 move basestagedmodeldatahandler
+add travis config
+changed maven - scala - plugin to travis .
+update changelog . md
+fix @ comma
+add - enable - info to travis config
+use the latest snapshot
+updated the latest images
+remove unused source .
+make header .
+added release - notes .
+update readme . md
+make sure we close to close
+run a gradle output
+fixed build code
+fix build
+add travis ci config
+add documentation to avoid documentation
+remove unused import
+sonar - 2701 don ' t show the scrollbar on the time of the scrollbar
+removing oraclejdk8 from travis
+add keys
+update readme . md
+lps - 53563 source formatting
+fix possible npe
+fix build
+fix plugins
+remove dependency for all dependency in
+add missing switch to switch
+increasing method name
+fix crap
+suppress unsatisfiedlinkerror in xml
+fixes memory leak in cqlsh .
+update readme . md
+lps - 48539 move transactionaltestrule to portal - test
+don ' t use replicas in the shards
+fix list of the list
+fixed a error
+update readme . md
+removed extra build config from travis
+updated to latest android - support library
+lps - 66923 rename packageinfo
+updated changelog
+fix and and mute and provided and and and dialog and provided and and dialog .
+make test test see
+lps - 43875 source formatting
+create readme . md
+changed pig - test to test - test .
+fix travis
+adds public as that uses too as too
+removed unused build .
+rename dl test for nopass .
+fix # 954
+removed method method
+fixed build tools
+fix typo in configreposconfig
+removed system . out
+fix smack - enable - 120 - enabled .
+fix com .
+fixed build with simperium
+better typo in contact .
+run tests
+disable gradle configurations
+remove tmp .
+add support v13
+remove remove comment
+add reference to - - - - tachyon - maps .
+upgraded the build - test to use the build .
+removes previous fixes dialog .
+lps - 67049 move unit test to correct package
+fix broken data data
+/ / bz . apache . org / bugzilla / show_bug . cgi ? id = 53225
+use the lib lib , which is a lib lib .
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+add sample sample
+correct npe to use correct reader request
+fix windows - bit
+update server . json
+setting root project to use root root .
+updated .
+removed accidentally removed on code
+fix
+make patch for the patch
+update spongecommon for projectilesource fix .
+lps - 42209 - source formatting
+don ' t keep the dir dir
+use travis
+add icons ( # eventually )
+added storm - 1359 to changelog
+do not use quick if there is not exist
+renamed file for jinglenodes icon
+fix parent version
+turn off the test of the same lib .
+added integer
+update version
+get rid of antlr4 imports
+fixed build
+add .
+move test to correct location
+update travis config
+class
+fixed license year in license . txt
+added cython .
+bump version num .
+remove " code "
+version is a jvm jvm
+time_t ' of ' export '
+get read and get read and get read .
+remove forward forward between forward object .
+don ' t add the title when the view are destroyed .
+generate classpath for lwjgl manager .
+make margin margin the margin of top x
+update jdirectshow for windows
+removed the code of the document ( )
+fixed typo
+revert gradle plugin to gradle build with gradle 1 . 10 .
+add shippable ci
+bump version
+update output . txt
+remove / import .
+update pom
+removed jdk8 from travis config
+adds lib / lib
+lep - sql do not use unique
+move unit test to correct directory
+removed jar file
+updated changelog
+lps - 65492 add file
+update todo
+add the comment to the build profile
+fixed link
+adding - - tools to travis
+ea - 115788 npe if not strange changes
+fix classpath
+added partial nashorn to true for jsonp
+update linux - x86 to use new linux - x86 .
+changed section to include .
+add screenshots for hc view
+add project version to .
+edited audio audio log
+made file file added .
+add missing openssl - openssl ( )
+fix tz code of cmd
+remove unneeded project from project . xml
+fixed forge ore dictionary in the dictionary
+update dexguard - managed
+added classpath
+add notice manager to notice
+updated changelog
+fix test
+pom of pom . xml
+remove bugfix from input ( )
+improved basic server - snapshot
+fix space .
+.
+added deprecation method
+removed unused property .
+removed deprecated readme
+set true = true
+lps - 62787 prep next
+add a properties
+fix typo
+add missing setup . properties to third_party .
+updated ant jar jar to snapshot .
+update gradle
+update .
+remove nouse from pom
+fix # 300
+lps - 61001 move java files
+remove pom - osgi - from pom . xml
+added storm - 1837 to changelog
+lrqa - 28184 wordsmith
+added regex checked to check .
+test case
+fixed test of test
+add shadowbase64 to mapping for nested_fields
+add export to map to export globals
+fix build
+update pom . xml
+adding old files
+adds smackx - src / team for team
+changed maven version
+unique exception for
+fixed pom
+km2 tests
+make sure # getmetrics , not incorrect coding enum
+setting version to 0 . 71 .
+added custom event command for custom video
+rename readme file to be in readme . md
+updated changelog
+added author / author .
+jcenter / jcenter .
+update submodule
+renamed file to correct package .
+missed the services - services
+fixed dialog
+increase build number
+delete killableprocess . png
+updated changelog
+removed incorrect node
+fix log .
+remove the source lib that that processing ' s files from the source ' s files
+fix sample - sample - apt - apt
+source formatting
+removing incorrect search bar
+remove old file
+remove skipfordummyproject - idea - idea - plugin - idea - plugin - plugin . xml dependency
+disable the hpacktests module
+update readme . md
+update version to pass release
+adding vista - useful
+add - - - - travis - ci config
+checkstyle should checkstyle checkstyle is too
+update podspec
+updated changelog
+updated changelog
+the test script
+rename .
+added travis notifications for travis
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+remove left / hook / common .
+fix memory of the start - server - start
+' s ' resetting ' resetting '
+removed unused variable
+prepare version name
+add * .
+added an bottom of javascript file for changeset lists .
+fix arrow icon
+ea - 36896
+removed test from the build build .
+delete unnecessary threads .
+fix a build error
+changes
+lps - 51748 move icon
+fixed build .
+update h2o - bigbluebutton - - >
+enum fix
+fix build errors
+added storm - 162 to changelog
+commenting out out wip - coded call
+only build on maven central
+show light width on notification
+change to license of the license framework
+lps - 65920
+lps - 18265 add tounescapedmodel
+fix foundation warning
+add bin / bin to sync
+updated changelog .
+provide a classloader when using the classloader ( )
+allow the instruction of the dumb tests
+remove files
+updated ant to new tests in tests
+add tag of tag to tag
+add credentials to using travis
+cache cache
+fix fast leaks when long selection is created
+setting version to 0 . 71 .
+fix null
+update some new key
+add .
+fix changes
+update pt . md
+first patch
+add 777
+alpha - 10 / 329 version bump
+add gradle build dir
+proper dialog in message
+lps - 51927 sf
+added lep - 13776
+made type of accept docs
+add changelog
+add windows comment
+add a as empty as as empty as empty as empty .
+add submodule for submodule
+fix parent version
+update changelog
+ensure rctbridge ' s rctbridge . 0 . 0 )
+updated pom to pom
+fixed # 507 ( )
+add dependency .
+add xxxhdpi
+extra extra level
+fix test
+add travis ci
+enable features in jenkins - features
+set name to use correct package version
+removed " schafmittel ' ( ' )
+rm
+trying to fix travis ci
+fix build .
+drop *
+move test to test
+changed maven - examples
+no - extension should be show by default
+add system system function
+updates to scrollbars
+add sbt - services to sbt - services
+removed readme . md
+remove old file
+removed jar file
+fix for build - cli
+sonar - t fix order of sonar - client
+removed redundant commit
+setting version to 0 . 71 .
+add .
+checkstyle log checkstyle
+added travis script
+fix typo
+added storm - 401 to changelog . md
+delete jar .
+changed library to correct library
+changelog changelog
+setting version to 0 . 71 .
+rm ` of ` symlink `
+added the documentation diagram .
+simple simple in simple message
+fix debug statement
+idetalk to be checked in plugins
+put not used
+added read to apk for the apk .
+add travis ci config
+fix incorrect bug in forgechunkmanager .
+update icon
+added explanation of json - json to json . json
+add icons
+lps - 14421 extra extra remote deployment
+fixed the error in the docs .
+add travis ci .
+reset app level
+updated javadoc information
+add jvm to standard config file
+lps - add new icon
+fixing build username
+small tweak
+alpha - 33 / 344 version code
+change pom . xml to use main release
+updated changelog
+add google preference location for preference
+version is on the jvm jvm
+rename icons for keeping normal button
+fix code in manifest
+add win64 shutdown constant
+lps - 51819 add a new test
+removed some signed character
+add the .
+made the file file on the file .
+make mesh when that connection is not cleaned
+fixed the layout for the new files
+added missing missing warmer in the test
+fixed
+removed unused file .
+removing pages - pages
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+add a512257 for actionbar assignment
+fixes # call
+make / final .
+update docs
+added missing log message for ide .
+more the instruction
+updated changelog
+add changelog
+fixed properties properties properties
+standard heap , remove default , that server is not exists
+fixed # 197 ( ) call to get not leak
+rename readme . gif
+added a import for changeset 273184406fa1
+added storm - 1472 to changelog .
+updating test / integration / config .
+update build
+changes
+exception exception
+list focus list of list of list of data list
+launcher
+fixed
+remove unnecessary code in settings . gradle
+add a note to the copyright
+fix changelog
+fixed heap spec for functional tests
+updated changelog
+fixing pom . xml to use latest pom . xml
+lrqa - stagingsite remove sikuli files
+gradle gradle properties
+lps - 47045 new method
+added storm - 132 to changelog
+changed travis notifications
+updated submodules for cpp
+add build_tmp to .
+add colemurray to contributors
+tell .
+cobertura should be an source level
+fix typo
+rm
+update version to pass release
+updated changelog
+fork of runtime + +
+remove compile javadoc
+memleak ( idea - cr - cr - 3123 )
+enable enable screenshot on enable notifications
+trying
+sync
+removed minimum value from retention to parse in config . xml
+travis - ci
+remove a import of pr .
+add encoding to test .
+add rules
+groovy build on groovy . groovy
+updating changelog
+forgot in the bug
+add new file for the dictionary of the new place .
+made the public of public ( ) to allow private )
+remove unnecessary code
+proguard rule
+reduce javadoc plugin from javadoc
+cleaning up an warnings
+minor list of new list
+update the list of the list of the list of the list
+lps - 48387 - mb need to be the default for cluster
+icon icon
+add patch background
+new size of - size
+changed memory memory in maven - dev
+removed white line
+table - column styles in table table
+add support for team lib
+add add app manager
+update knownissues . md
+bump version
+remove unused listwidget icon .
+remove not not off in field .
+cleanup by mistake .
+delete jar .
+added date date
+added jar
+add param to use nodes
+correct jersey loading for jersey
+added compile - > linker . gradle to compile . gradle
+remove new art and use the art files .
+fix submodule
+add beacon blockstate
+fix app time after time
+make child child annotations in manifest .
+fix type in type .
+added storm - 627 to changelog
+fix method name
+minor tweak
+fix typo
+sync
+update .
+revert changelog
+fixed constants
+make child child annotations in manifest .
+download click button after download button after download
+made request bug
+test
+allow history to history
+more list of permission
+lps - 16820 deprecate test . properties . properties . properties . properties . properties . properties . properties . properties . properties . properties . properties .
+make travis ci
+update pom . xml
+add jar for collections in jar jar
+use use latest of play dependencies
+update disk diagram
+delete screenshot_two
+remove redundant task dependency
+add missing package .
+added dummy src jar
+lps - 17055 move permissinactionidcomparator files
+set palette for all repository /
+removed from code
+removed version number
+lps - 26186 add new property to new tests
+add both uri .
+add missing build . gradle
+grails - enable after grails - disable after grails - disable after grails - disable
+add storm - 2056 to changelog . md
+ensure action action is not set action after browser view .
+jar . jar
+update spongecommon for projectilesource fix .
+fix plugin id in xml - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin - plugin
+add strings to copy strings ( indonesian )
+added missing support
+point the sdk android_build_compile_sdk_version for maven
+add screenshot
+update gif
+update icons
+fixing a comment
+minecraftforge / fml @ 70570a863ffa6a3ba7e2dd30b471bb47615b8bf8 fix the custom error for the compatibility
+update .
+lps - 41732 select select title
+add dingding diagram
+fix broken pull request
+fix a grails - generate .
+fix size of login
+updated changelog
+create java_home and d - d
+black connecting operation used .
+update spongecommon for projectilesource fix .
+prepare version for - next - beta2 , 15013 .
+update contributing . md
+update circlejumpdrawable . gif
+removed extraneous comment
+added changelog for changelog
+remove round icons
+remove unused field
+move file to be consistent in the file
+pom - fix the pom
+version bump
+circle circle
+gh - 471 - updated travis
+fix wxstreammodule comile layer
+update to build
+disable tests for testing
+better error of findbugs dependencies
+add the forgotten modules
+new icons
+test - grvy - surround
+fix bug
+( ) should return a hashcode ( )
+sonar - 5481 - fix surefire plugin version
+lps - 67544 semver
+removed unused pattern
+make it of the command of it / darwin
+add words suggested by users
+added travis build status
+add ossmetadata file
+fixing the site plugin
+test exceptions in travis .
+idea - opaque progress separators has been initialized
+add link to npm - publish
+remove .
+update spongecommon for projectilesource fix .
+move the config config for services .
+make maven builds
+update readme . md
+removed import import
+set the dev branch for the dev branch
+reverted
+close delay on close ( )
+add jdk 8
+add binaries to third_party .
+prepare version for next version , change .
+remove unnecessary time .
+remove superfluous import
+fix 32 - functional atomic
+lps - 57159 remove unused file
+add ui of actions to fix actions
+remove old files
+added test
+lps - 47293 sf
+update changelog
+remove .
+indentation in indentation of sourceforge site
+update aboutlibraries
+remove unneeded notation
+configure package
+added documentation to documentation .
+add some template to be more than source file
+add a classpath to cygwin cygwin script
+remove redundant file
+updated changelog
+delete readme . md
+remove default . properties
+sonar - 4636 add tree tree
+prepare version to be null - beta1 .
+fix camera loop
+fixed typo
+add missing @ override
+fixed parent version
+lps - 58332 fix property
+revert " bump to apache - client - client "
+updated pom , released version to hive - snapshot , just the version of maven - maven - snapshot
+added file .
+update changelog
+snapshot
+javadoc
+adding long semicolon to fix long
+fix image of background
+updated dslv submodule
+bbb - 3092 bbb / bbb / bbb / phonegap / bbb - >
+removed unnecessary line
+adds cpptasks to antlibs .
+update library reference
+add type of type of type
+updated changelog
+upgraded parent pom , hive - interfaces to use the version v outside maven - snapshot
+added license license
+gdx - build build is a ant project
+fix travis
+increase the api name to readme
+add checkstyle newline at eof
+updated changelog
+add icon
+fix issue
+move test .
+rename xxx . txt to xxx . txt
+release changelog .
+new icon for new view
+removed old file
+bump release
+add native native native
+changed build . gradle
+fixes usage for windows
+fix the app of app
+setting version to 0 . 71 .
+add anchors icon for googledices .
+update authors
+fix bad rendering of ` use ` group
+translated using weblate ( ukrainian )
+renamed to license .
+remove warning
+fixed compile for compile .
+fixing for release
+add text level for standalone level
+remove dummy line
+add extra - support for travis config
+asm sources
+fixed a few request
+lps - 54745 update
+add smackx - team for smartcard
+add icon for refresh icon
+run run - run when we run
+create readme . md
+added rt - rt - rt .
+add issuemanagement to classpath
+react - react - react rule is no unused react rule
+remove redundant
+remove 444
+fix hash name
+fix minor warning
+new icons
+fix zeppelin - 613 jar
+fix comment
+updated changelog
+ideadev - 15846
+added intellij / .
+forgot to fixing appveyor config
+new exception
+throw location
+fix for java6 for java6
+lps - 55492 move test to portal - test
+fix css of css of the header of the list of select2
+lps - rebalance why was need anymore
+changelog changelog
+remove redundant support library
+corrected dependency for int dependency .
+add zuk piechart
+lps - 48387 not need to be true
+remove additional ( )
+add for thumbnail filter for settings .
+use indexed images
+remove todo
+lps - 62881 rename web files
+margining on the nav padding
+server .
+fixed signing
+remove completed line
+fixed properties properties
+rename change version
+fixed build errors
+updated parent version .
+increasing increasing timeout in exchange .
+add readme
+update changelog .
+fix phoneaccount parceling .
+lps - 37902 journal article database navigation
+fixed typo
+add google icon for cab
+size of the chat icon .
+fix for file
+fix dir of dir
+add scene screenshot
+update version to pass release
+no build file
+minor name
+travis
+fix extra javadoc
+add main constant for lwjgl
+removed unnecessary feature
+add more schema - 5937 to aggregate .
+don ' t have extraneous index
+add readme for readme
+fix test
+add missing semicolon .
+remove ' d ' .
+adds release notes
+fixed typo in eclipse
+remove unused submodule
+delete demo2 . exe
+lps - 37741 source formatting
+typo
+forgot to be runtime .
+lps - 500 update submodule
+add < > to all devices .
+delete unnecessary file
+update pom
+delete jar .
+no longer no longer no longer no longer no longer no longer in the folder
+more text of text
+minor updates to current me
+fix unnecessary call
+update to new code code
+fixed the pom . xml
+add art .
+fixed properties properties properties
+fixed storm - rc1
+got rid of recent
+new snapshot to use new snapshot jar
+fixed power energy # 86 power # 2556
+lps - 8698 .
+try to make the test voldemort pass
+removed accidentally accidentally that that is accidentally accidentally in the accidentally not now
+improve commit
+use a space of a right int .
+add session header to shared
+fix travis config
+fix typo
+changelog for storm - 421 .
+update gradle properties
+fix build
+changed the build .
+fix version
+remove not suppresswarnings in javadoc .
+debug debug doesn ' t debug ' debug ' setup '
+reset reset from shutdown ( )
+add chinese font data
+fix spacing
+update fml
+updated changelog
+fixed bug in the example
+fix null in getimmediatemutabledrawable
+pom is changed to the console release
+small name
+add release notes
+override caching for boolean parameter
+removed support jar
+update travis
+add icons for multipane view
+remove merriweather # 322
+make sure classes can be a null
+rename enunciate - fullconfig . properties to example .
+remove ant - stacktrace to the ant signing
+changes
+update .
+update android - iconics
+add pythong / .
+fix error error
+don ' t request example in example .
+fix pending error of the local list
+remove unnecessary code
+update changes
+the test script
+add ken to authors file
+run travis
+fix application address
+add spurious test for binary ( more present )
+make the parent - parent - snapshot , moved the version of the parent pom , make the version is the version .
+update version to pass release
+updated the latest changes
+lps - 52093 moves icon
+add missing .
+always always always always always set in the search bar
+remove dependency dependency for grails - plugin
+add apk
+rename to jsonhelper .
+fix changes
+add a config for stefan steiniger
+fixed ms - ms - width in text
+update idea - idea module
+fix protection issues in protection
+update todo
+update - - src / validation to / / jetty - vts - validation .
+okio okio
+updated changelog
+fix global java 9 . java
+fix possible overflow
+lrqa - 22780 look component on microblogs component
+removed unused file
+fix readme
+forgotten icon for darcula
+added file file
+set dev dev
+fixing all memory leak
+fix test
+update .
+fix our group names in our script
+move unit test to correct test
+missing missing count
+update drink . ogg
+lps - 13863 source formatting
+move nopass to nopass .
+bump up version
+closes readablebytechannel after readablebytechannel .
+update changelog . md
+fixed readme
+remove jar .
+fix merge
+lps - 51079 - add select images in site
+added documentation to make installation chapter
+eliminate reference to use preview preview options
+increase default memory level to 1 . xml
+fix extra test - simple - plugin . xml
+ignoring test file
+update readme . md
+compatibility should be be compatibility in the compatibility .
+to jb dictionary
+add _collections to correct stdlib .
+use the use initialization , that # use )
+remove javadoc javadoc
+letting a grails - grails - letting fail
+also handle the callback when changing sse
+notnull
+update slack . yml
+add demo files
+update contributors . xml
+added missing files to the build file
+revert " delete usage "
+fixing configuration .
+increased test jvm test .
+update readme . md
+change enum
+add java
+removed local properties to build number
+case case improvement
+removed outdated version
+fix conflicts when creating null
+add missing plots
+todo
+code 943a5f835
+fix typo
+update gradle . properties
+add art .
+added ui library
+add changes
+updated changelog
+fix source of login and web page while moving .
+update version to pass release
+added rouge line
+remove ic_launcher .
+add missing header
+updated changelog
+polish from grails - 443 is too by default
+update mvn - mvn - mvn - mvn - ci
+updated changelog . md
+add eye for rg3
+break for creating galaxy type
+lps - 57017 - add key
+use travis
+adds gradle properties properties
+changed a class to changed class
+fix up build .
+adding circle ci
+enable release version
+add getindex to genericvertex
+add gradle properties properties to .
+fix test data
+handle 5837a15 for event where static event
+renaming files
+properties properties properties
+updated changelog
+make third - party package
+added the build to travis
+don ' t use python event using python ( py - 14969 )
+updated changelog
+removed customized helpui
+fixed
+add sources for openssl / files
+vcs domain
+npe is closed
+delete unused .
+added the space on the bbb - that that that that that that that that that ' t need to the the the the the space
+prepare version name
+ideadev - 20482
+add location for preference location
+updated gradle version
+update spongecommon for projectilesource fix .
+fix typo in tostring ( # 39 )
+updated apk apk
+add an empty line
+removing .
+lps - 57534 should be full full machines , but it should be better
+enabled build for enabled
+docs / docs / docs / docs / docs / docs / docs / docs / docs
+added small server . yml
+fixed travis
+add objects for titleformatter .
+excise changelog
+fixed
+add jonathan to pairs
+removing manifest
+remove unused file
+add the info for the release
+add gradle properties properties to .
+fix package . json
+fixed typo
