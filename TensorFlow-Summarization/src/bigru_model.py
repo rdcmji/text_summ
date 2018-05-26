@@ -43,8 +43,8 @@ class BiGRUModel(object):
         self.prev_att = tf.placeholder(
             tf.float32, shape=[self.batch_size, state_size * 2])
 
-        encoder_fw_cell = tf.contrib.rnn.GRUCell(state_size)
-        encoder_bw_cell = tf.contrib.rnn.GRUCell(state_size)
+        encoder_fw_cell = tf.contrib.rnn.LSTMCell(state_size)
+        encoder_bw_cell = tf.contrib.rnn.LSTMCell(state_size)
         decoder_cell = tf.contrib.rnn.LSTMCell(state_size)
 
         if not forward_only:
