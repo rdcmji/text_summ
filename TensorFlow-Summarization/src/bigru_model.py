@@ -45,7 +45,7 @@ class BiGRUModel(object):
 
         encoder_fw_cell = tf.contrib.rnn.LSTMCell(state_size)
         encoder_bw_cell = tf.contrib.rnn.LSTMCell(state_size)
-        decoder_cell = tf.contrib.rnn.LSTMCell(state_size)
+        decoder_cell = tf.contrib.rnn.BasicLSTMCell(state_size)
 
         if not forward_only:
             encoder_fw_cell = tf.contrib.rnn.DropoutWrapper(
