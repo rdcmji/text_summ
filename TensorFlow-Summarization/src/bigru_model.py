@@ -45,7 +45,7 @@ class BiGRUModel(object):
 
         encoder_fw_cell = tf.contrib.rnn.GRUCell(state_size)
         encoder_bw_cell = tf.contrib.rnn.GRUCell(state_size)
-        decoder_cell = tf.contrib.rnn.GRUCell(state_size)
+        decoder_cell = tf.contrib.rnn.LSTMCell(state_size)
 
         if not forward_only:
             encoder_fw_cell = tf.contrib.rnn.DropoutWrapper(
@@ -161,7 +161,7 @@ class BiGRUModel(object):
                             decoder_emb, self.beam_tok)
                         self.beam_outputs, self.beam_nxt_state, _, _ = \
                             decoder.step(0, beam_emb, attn_zero)
-                        self.beam_logsoftmax = \
+                       self.beam_logsoftmax = \
                             tf.nn.log_softmax(self.beam_outputs[0])
 
         self.saver = tf.train.Saver(tf.global_variables(), max_to_keep=0)
